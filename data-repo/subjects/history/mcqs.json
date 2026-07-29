@@ -105,6 +105,51 @@
       "answerIndex": 1,
       "explanation": "Amara-Nayakas were military chiefs assigned territories (amaram) for revenue collection in return for troops and tribute — functionally similar to iqtas of the Sultanate.",
       "difficulty": "hard"
+    },
+    {
+      "id": "his-mcq-011",
+      "topic": "World History",
+      "question": "The catastrophic nuclear accident in Ukraine in 1986 occurred at which power plant?",
+      "options": ["Chernobyl", "Ignalina", "Mayak", "Kursk"],
+      "answerIndex": 0,
+      "explanation": "The 1986 accident occurred at Unit 4 of the Chernobyl Nuclear Power Plant, in what is now Ukraine.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "his-mcq-012",
+      "topic": "World History",
+      "question": "The Battle of the Somme in World War I took place in which country?",
+      "options": ["France", "Germany", "Italy", "Austria"],
+      "answerIndex": 0,
+      "explanation": "The Battle of the Somme was fought in Picardy, France, from July to November 1916.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "his-mcq-013",
+      "topic": "World History",
+      "question": "In which war did the atomic bombings of Hiroshima and Nagasaki occur?",
+      "options": ["World War II", "World War I", "Russo-Japanese War", "First Sino-Japanese War"],
+      "answerIndex": 0,
+      "explanation": "The United States dropped atomic bombs on Hiroshima and Nagasaki in August 1945, during World War II.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "his-mcq-014",
+      "topic": "World History",
+      "question": "Who was the first United States president born after the Declaration of Independence?",
+      "options": ["Martin Van Buren", "John Adams", "George Washington", "James Monroe"],
+      "answerIndex": 0,
+      "explanation": "Martin Van Buren, born in New York in 1782, was the first U.S. president born after the Declaration of Independence.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "his-mcq-015",
+      "topic": "World History",
+      "question": "Which mammal was the first animal to orbit Earth?",
+      "options": ["Laika", "Ham", "Baker", "Belka"],
+      "answerIndex": 0,
+      "explanation": "Laika, a dog aboard Sputnik 2, became the first animal to orbit Earth in 1957.",
+      "difficulty": "medium"
     }
   ]
 }
