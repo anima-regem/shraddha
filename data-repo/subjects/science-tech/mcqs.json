@@ -125,6 +125,60 @@
       "answerIndex": 1,
       "explanation": "Electrolysers use electric current to split water into H2 and O2. Powered by renewables, the hydrogen produced is 'green hydrogen' — key to India's National Green Hydrogen Mission.",
       "difficulty": "easy"
+    },
+    {
+      "id": "sci-mcq-011",
+      "topic": "Space Technology",
+      "question": "About how old is Earth?",
+      "options": ["4.5 billion years", "3.5 billion years", "2.5 billion years", "5.5 billion years"],
+      "answerIndex": 0,
+      "explanation": "Earth formed about 4.5 billion years ago as the solar system took shape.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sci-mcq-012",
+      "topic": "Basic Science",
+      "question": "How many chambers does the human heart have?",
+      "options": ["4", "2", "6", "3"],
+      "answerIndex": 0,
+      "explanation": "The human heart has four chambers: two atria and two ventricles.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "sci-mcq-013",
+      "topic": "Basic Science",
+      "question": "What is the SI unit of electrical inductance?",
+      "options": ["henry", "weber", "coulomb", "mho"],
+      "answerIndex": 0,
+      "explanation": "The henry (H) is the SI derived unit of electrical inductance.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "sci-mcq-014",
+      "topic": "Basic Science",
+      "question": "What is the medical term for low blood sugar?",
+      "options": ["hypoglycemia", "hypothyroidism", "hypothermia", "hypoxia"],
+      "answerIndex": 0,
+      "explanation": "Hypoglycemia is low blood glucose, also called low blood sugar.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sci-mcq-015",
+      "topic": "Space Technology",
+      "question": "Which constellation contains the center of the Milky Way?",
+      "options": ["Sagittarius", "Scorpius", "Ophiuchus", "Capricornus"],
+      "answerIndex": 0,
+      "explanation": "The Milky Way's galactic center lies in the direction of the constellation Sagittarius.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "sci-mcq-016",
+      "topic": "Basic Science",
+      "question": "What is the SI base unit for time?",
+      "options": ["second", "minute", "hour", "day"],
+      "answerIndex": 0,
+      "explanation": "The second (s) is the SI base unit for time.",
+      "difficulty": "easy"
     }
   ]
 }
