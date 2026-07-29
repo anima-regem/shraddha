@@ -13,6 +13,10 @@ void main() {
         AppLinks.buyMeACoffee.toString(),
         'https://buymeacoffee.com/vichukartha',
       );
+      expect(
+        AppLinks.privacyPolicy.toString(),
+        'https://anima-regem.github.io/shraddha/privacy-policy/',
+      );
     });
 
     test('uses test ads in development and the supplied unit in release', () {

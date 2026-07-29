@@ -228,6 +228,14 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
               GlassButton(
                 expand: true,
                 variant: GlassButtonVariant.glass,
+                icon: Icons.policy_outlined,
+                label: 'Privacy policy',
+                onPressed: () => _openLink(AppLinks.privacyPolicy),
+              ),
+              const SizedBox(height: 10),
+              GlassButton(
+                expand: true,
+                variant: GlassButtonVariant.glass,
                 icon: Icons.ondemand_video_rounded,
                 label: 'Watch optional ads',
                 onPressed: () {

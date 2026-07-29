@@ -58,3 +58,7 @@ Development builds request Google's Android banner test ad; release builds use
 the configured production unit. Before publishing a release, complete the
 AdMob **Privacy & messaging** setup and the required Google Play privacy
 disclosures.
+
+The public [privacy policy](https://anima-regem.github.io/shraddha/privacy-policy/)
+describes local study data, optional GitHub sync, and the separate AdMob ad
+surface.

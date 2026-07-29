@@ -6,6 +6,9 @@ abstract final class AppLinks {
     'https://github.com/anima-regem/shraddha',
   );
   static final buyMeACoffee = Uri.parse('https://buymeacoffee.com/vichukartha');
+  static final privacyPolicy = Uri.parse(
+    'https://anima-regem.github.io/shraddha/privacy-policy/',
+  );
 
   static Future<bool> open(Uri uri) {
     return launchUrl(uri, mode: LaunchMode.externalApplication);
