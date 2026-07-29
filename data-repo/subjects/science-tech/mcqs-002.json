@@ -86,6 +86,33 @@
       "answerIndex": 0,
       "explanation": "Django is a Python web framework; its official documentation describes it as 100% Python.",
       "difficulty": "easy"
+    },
+    {
+      "id": "sci-mcq-035",
+      "topic": "Mathematics",
+      "question": "Which of the following is one of the Clay Mathematics Institute's Millennium Prize Problems?",
+      "options": ["Riemann Hypothesis", "Goldbach Conjecture", "Twin Prime Conjecture", "Collatz Conjecture"],
+      "answerIndex": 0,
+      "explanation": "The Riemann Hypothesis is one of the seven Millennium Prize Problems designated by the Clay Mathematics Institute.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "sci-mcq-036",
+      "topic": "Mathematics",
+      "question": "How many sides does a heptagon have?",
+      "options": ["7", "5", "4", "9"],
+      "answerIndex": 0,
+      "explanation": "A heptagon is a polygon with seven sides.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "sci-mcq-037",
+      "topic": "Mathematics",
+      "question": "What type of polynomial is x^2 + 2x + 1?",
+      "options": ["Quadratic", "Linear", "Cubic", "Constant"],
+      "answerIndex": 0,
+      "explanation": "The highest power of x in x^2 + 2x + 1 is 2, so it is a quadratic polynomial.",
+      "difficulty": "medium"
     }
   ]
 }
