@@ -1,0 +1,75 @@
+{
+  "subjectId": "science-tech",
+  "cards": [
+    {
+      "id": "sci-fc-001",
+      "topic": "Space Technology",
+      "front": "Differentiate between GSLV and PSLV.",
+      "back": "PSLV: 4-stage workhorse for sun-synchronous/polar orbits (remote sensing). GSLV: 3-stage with cryogenic upper stage for heavier geostationary payloads. LVM3 (GSLV Mk III) — heaviest, used for Chandrayaan-3, Gaganyaan.",
+      "tags": ["isro", "launch-vehicles"]
+    },
+    {
+      "id": "sci-fc-002",
+      "topic": "Space Technology",
+      "front": "What is a sun-synchronous orbit and why is it useful?",
+      "back": "A near-polar orbit where the satellite passes over a location at the same local solar time daily — constant lighting for imaging. Used by remote-sensing satellites (e.g., Cartosat, Resourcesat).",
+      "tags": ["orbits"]
+    },
+    {
+      "id": "sci-fc-003",
+      "topic": "Biotechnology",
+      "front": "What is CRISPR-Cas9 in one line, and one approved application in India?",
+      "back": "A genome-editing technique that makes precise changes at targeted DNA sites. India approved genome-edited rice lines research and CRISPR-based sickle cell therapy trials are a global milestone (Casgevy, 2023).",
+      "tags": ["gene-editing"]
+    },
+    {
+      "id": "sci-fc-004",
+      "topic": "IT & Communication",
+      "front": "What is the difference between AI, Machine Learning, and Deep Learning?",
+      "back": "AI: broad field of machines mimicking intelligent behaviour. ML: subset — systems learn patterns from data without explicit programming. DL: subset of ML using multi-layered neural networks (vision, speech, LLMs).",
+      "tags": ["ai"]
+    },
+    {
+      "id": "sci-fc-005",
+      "topic": "Defence Technology",
+      "front": "What are the components of India's nuclear triad?",
+      "back": "Land-based missiles (Agni series), air-delivered weapons (Rafale/Mirage-2000), and sea-based SLBMs (INS Arihant class with K-15/K-4). Governed by No First Use doctrine (2003).",
+      "tags": ["strategic"]
+    },
+    {
+      "id": "sci-fc-006",
+      "topic": "Energy",
+      "front": "What is the difference between nuclear fission and fusion?",
+      "back": "Fission: heavy nucleus (U-235/Pu-239) splits, releasing energy — used in current reactors. Fusion: light nuclei (deuterium-tritium) combine at extreme temperatures — powers the Sun; ITER is the global experimental project (India is a member).",
+      "tags": ["nuclear"]
+    },
+    {
+      "id": "sci-fc-007",
+      "topic": "Space Technology",
+      "front": "What were the objectives of Chandrayaan-3 and Aditya-L1?",
+      "back": "Chandrayaan-3 (2023): soft landing + rover near lunar south pole (Vikram/Pragyan) — India first to land there. Aditya-L1: solar observatory at Sun-Earth Lagrange point L1 studying corona, solar wind.",
+      "tags": ["isro", "missions"]
+    },
+    {
+      "id": "sci-fc-008",
+      "topic": "Biotechnology",
+      "front": "Differentiate vaccines: inactivated, mRNA, and viral vector types with examples.",
+      "back": "Inactivated: killed pathogen (Covaxin). mRNA: genetic instructions for antigen (Pfizer, Moderna; India's GEMCOVAC). Viral vector: harmless carrier virus delivers antigen gene (Covishield/AZ, Sputnik V).",
+      "tags": ["vaccines"]
+    },
+    {
+      "id": "sci-fc-009",
+      "topic": "IT & Communication",
+      "front": "What is quantum computing's 'qubit' advantage over classical bits?",
+      "back": "Qubits exploit superposition (0 and 1 simultaneously) and entanglement, enabling certain computations exponentially faster. India's National Quantum Mission (2023, ₹6,003 cr) targets 50–1000 qubit computers.",
+      "tags": ["quantum"]
+    },
+    {
+      "id": "sci-fc-010",
+      "topic": "Energy",
+      "front": "What is green hydrogen and India's mission target?",
+      "back": "Hydrogen produced by electrolysis of water using renewable power (no CO2). National Green Hydrogen Mission (2023): 5 MMT annual production capacity by 2030, ~125 GW added renewables.",
+      "tags": ["hydrogen"]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "subjectId": "history",
+  "cards": [
+    {
+      "id": "his-fc-001",
+      "topic": "Ancient India",
+      "front": "Name the four Vedas in order and the one considered oldest.",
+      "back": "Rigveda (oldest, hymns), Samaveda (melodies), Yajurveda (rituals), Atharvaveda (spells & charms). The Rigveda has 1,028 hymns in 10 mandalas.",
+      "tags": ["vedas"]
+    },
+    {
+      "id": "his-fc-002",
+      "topic": "Ancient India",
+      "front": "Which Harappan site shows evidence of a dockyard?",
+      "back": "Lothal (Gujarat) — a tidal dockyard connected to the Gulf of Khambhat, evidence of maritime trade. Other key sites: Dholavira (water management), Kalibangan (ploughed field).",
+      "tags": ["ivc", "sites"]
+    },
+    {
+      "id": "his-fc-003",
+      "topic": "Medieval India",
+      "front": "Who introduced the Iqta system in India and what was it?",
+      "back": "Iltutmish institutionalised the Iqta system — land revenue assignments to officers (iqtadars/muqtis) in lieu of salary, transferable and non-hereditary in principle.",
+      "tags": ["delhi-sultanate"]
+    },
+    {
+      "id": "his-fc-004",
+      "topic": "Medieval India",
+      "front": "What were the key features of Akbar's Mansabdari system?",
+      "back": "Rank-based (zat = personal status/salary; sawar = cavalry to maintain), directly appointed/promoted/dismissed by the Emperor, non-hereditary, paid in cash or jagir.",
+      "tags": ["mughals", "administration"]
+    },
+    {
+      "id": "his-fc-005",
+      "topic": "Modern India",
+      "front": "What was the Doctrine of Lapse and who applied it aggressively?",
+      "back": "Annexation policy of Lord Dalhousie (1848–56): states of rulers dying without a natural male heir 'lapsed' to the Company. Satara (1848), Jhansi (1853), Nagpur (1854) annexed.",
+      "tags": ["british-policy"]
+    },
+    {
+      "id": "his-fc-006",
+      "topic": "Freedom Struggle",
+      "front": "Why was the Partition of Bengal (1905) carried out and when was it annulled?",
+      "back": "Officially for administrative convenience; really to divide Hindus and Muslims. Sparked the Swadeshi & Boycott movement. Annulled in 1911 (capital shifted to Delhi).",
+      "tags": ["swadeshi", "bengal"]
+    },
+    {
+      "id": "his-fc-007",
+      "topic": "Freedom Struggle",
+      "front": "What were the three demands of Gandhi's Champaran Satyagraha context and its significance?",
+      "back": "Champaran (1917, Bihar) — against the tinkathia system forcing indigo cultivation on 3/20th of land. Gandhi's first Civil Disobedience in India; showed the power of Satyagraha.",
+      "tags": ["gandhi", "satyagraha"]
+    },
+    {
+      "id": "his-fc-008",
+      "topic": "Freedom Struggle",
+      "front": "Differentiate: Non-Cooperation Movement vs Civil Disobedience Movement (aims & methods).",
+      "back": "NCM (1920–22): withdraw cooperation (titles, schools, courts, foreign cloth); called off after Chauri Chaura. CDM (1930–34): actively break laws — began with Dandi Salt March (12 Mar 1930).",
+      "tags": ["gandhi", "movements"]
+    },
+    {
+      "id": "his-fc-009",
+      "topic": "Art & Culture",
+      "front": "Match the classical dance to its state: Kathakali, Kuchipudi, Odissi, Sattriya.",
+      "back": "Kathakali — Kerala; Kuchipudi — Andhra Pradesh; Odissi — Odisha; Sattriya — Assam (introduced by Srimanta Sankardev, recognised in 2000).",
+      "tags": ["dance"]
+    },
+    {
+      "id": "his-fc-010",
+      "topic": "Ancient India",
+      "front": "Which Ashokan edict mentions the Kalinga War and his change of heart?",
+      "back": "Major Rock Edict XIII — describes the Kalinga War (c. 261 BCE), Ashoka's remorse, and his turn to Dhamma vijaya (conquest by righteousness) over military conquest.",
+      "tags": ["mauryas", "ashoka"]
+    }
+  ]
+}

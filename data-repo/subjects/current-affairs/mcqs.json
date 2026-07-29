@@ -1,0 +1,115 @@
+{
+  "subjectId": "current-affairs",
+  "questions": [
+    {
+      "id": "ca-mcq-001",
+      "topic": "Summits & Organisations",
+      "question": "The India-Middle East-Europe Economic Corridor (IMEC) was announced at which summit?",
+      "options": [
+        "G20 New Delhi Summit, 2023",
+        "COP28 Dubai",
+        "SCO Samarkand Summit",
+        "BRICS Johannesburg Summit"
+      ],
+      "answerIndex": 0,
+      "explanation": "IMEC — a rail-shipping corridor linking India, Middle East and Europe — was unveiled during India's G20 Presidency at the New Delhi Summit (Sept 2023), with an MoU signed by India, US, UAE, Saudi Arabia, EU and others.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ca-mcq-002",
+      "topic": "National",
+      "question": "The 106th Constitutional Amendment Act relates to:",
+      "options": [
+        "GST Council reforms",
+        "Reservation for women in legislatures",
+        "EWS reservation",
+        "Abolition of Article 370"
+      ],
+      "answerIndex": 1,
+      "explanation": "The 106th Amendment (Nari Shakti Vandan Adhiniyam, 2023) provides one-third reservation for women in Lok Sabha and State Assemblies. EWS was the 103rd Amendment.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ca-mcq-003",
+      "topic": "Reports & Indices",
+      "question": "The 'State of the World's Forests' report is released by:",
+      "options": ["UNEP", "FAO", "IUCN", "World Bank"],
+      "answerIndex": 1,
+      "explanation": "The Food and Agriculture Organization (FAO) publishes the State of the World's Forests (SOFO) biennially, along with the Global Forest Resources Assessment.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ca-mcq-004",
+      "topic": "Schemes & Policies",
+      "question": "'PM-SURAJ' portal, launched in 2024, is aimed at:",
+      "options": [
+        "Rooftop solar subsidies",
+        "Credit support to disadvantaged sections",
+        "Urban housing allotment",
+        "Rural road monitoring"
+      ],
+      "answerIndex": 1,
+      "explanation": "PM Social Utthan evam Rozgar Adharit Jankalyan (PM-SURAJ) provides credit support to marginalised communities including SCs, OBCs and sanitation workers. Rooftop solar is PM Surya Ghar Muft Bijli Yojana.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ca-mcq-005",
+      "topic": "International",
+      "question": "Which country hosted COP28 of the UNFCCC in 2023, where the 'UAE Consensus' on transitioning away from fossil fuels was adopted?",
+      "options": ["Egypt", "United Arab Emirates", "United Kingdom", "Azerbaijan"],
+      "answerIndex": 1,
+      "explanation": "COP28 was held in Dubai, UAE. It concluded the first Global Stocktake and called for 'transitioning away from fossil fuels in energy systems'. COP27 was in Egypt; COP29 in Azerbaijan.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ca-mcq-006",
+      "topic": "National",
+      "question": "'Exercise Vajra Prahar' is a joint military exercise between India and:",
+      "options": ["Russia", "France", "United States", "Japan"],
+      "answerIndex": 2,
+      "explanation": "Vajra Prahar is the India-US Special Forces exercise. Yudh Abhyas is the army exercise with the US; Indra with Russia; Shakti with France; Dharma Guardian with Japan.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ca-mcq-007",
+      "topic": "Schemes & Policies",
+      "question": "Under the PM Surya Ghar Muft Bijli Yojana, households can receive:",
+      "options": [
+        "Free LPG cylinders",
+        "Subsidy for rooftop solar and up to 300 units of free electricity monthly",
+        "Interest-free housing loans",
+        "Free smart meters"
+      ],
+      "answerIndex": 1,
+      "explanation": "Launched Feb 2024: rooftop solar for 1 crore households with central subsidy (up to ₹78,000 for 3 kW) and up to 300 units free electricity per month.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ca-mcq-008",
+      "topic": "Summits & Organisations",
+      "question": "Which grouping consists of India, Israel, UAE and USA?",
+      "options": ["QUAD", "I2U2", "IPEF", "AUKUS"],
+      "answerIndex": 1,
+      "explanation": "I2U2 (India, Israel, UAE, USA), formed 2021, focuses on water, energy, transportation, space, health, and food security investments — dubbed the 'West Asian Quad'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ca-mcq-009",
+      "topic": "Reports & Indices",
+      "question": "India's rank/performance context: the 'Logistics Performance Index' is published by:",
+      "options": ["WEF", "World Bank", "WTO", "UNCTAD"],
+      "answerIndex": 1,
+      "explanation": "The World Bank publishes the LPI; India ranked 38/139 in 2023, improving on the back of PM Gati Shakti and the National Logistics Policy (2022).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ca-mcq-010",
+      "topic": "International",
+      "question": "The 'Colombo Security Conclave' includes which of the following countries?\n1. India\n2. Sri Lanka\n3. Maldives\n4. Mauritius",
+      "options": ["1 and 2 only", "1, 2 and 3 only", "1, 2, 3 and 4", "1, 3 and 4 only"],
+      "answerIndex": 2,
+      "explanation": "The Colombo Security Conclave (maritime & security cooperation grouping) includes India, Sri Lanka, Maldives and Mauritius as members, with Bangladesh and Seychelles as observers.",
+      "difficulty": "hard"
+    }
+  ]
+}

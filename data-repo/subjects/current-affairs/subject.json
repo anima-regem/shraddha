@@ -1,0 +1,13 @@
+{
+  "id": "current-affairs",
+  "name": "Current Affairs",
+  "icon": "newspaper",
+  "color": "#FDCB6E",
+  "topics": [
+    "National",
+    "International",
+    "Schemes & Policies",
+    "Reports & Indices",
+    "Summits & Organisations"
+  ]
+}

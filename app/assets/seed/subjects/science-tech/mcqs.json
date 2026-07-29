@@ -1,0 +1,130 @@
+{
+  "subjectId": "science-tech",
+  "questions": [
+    {
+      "id": "sci-mcq-001",
+      "topic": "Space Technology",
+      "question": "Chandrayaan-3's lander and rover were named:",
+      "options": [
+        "Vikram and Pragyan",
+        "Vikram and Bheem",
+        "Aryabhata and Pragyan",
+        "Rohini and Vikram"
+      ],
+      "answerIndex": 0,
+      "explanation": "Lander Vikram (after Vikram Sarabhai) and rover Pragyan ('wisdom') landed near the lunar south pole on 23 August 2023 — now celebrated as National Space Day.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "sci-mcq-002",
+      "topic": "Space Technology",
+      "question": "The Lagrange point L1, where Aditya-L1 is stationed, is significant because:",
+      "options": [
+        "It is the closest point to the Sun reachable by spacecraft",
+        "Gravitational forces of Sun and Earth balance, allowing continuous solar observation",
+        "It lies in the Earth's shadow, protecting instruments",
+        "It allows the spacecraft to orbit the Moon"
+      ],
+      "answerIndex": 1,
+      "explanation": "At L1 (~1.5 million km from Earth), gravitational pulls of Sun and Earth create a stable equilibrium — a spacecraft there views the Sun 24×7 without eclipses.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sci-mcq-003",
+      "topic": "Biotechnology",
+      "question": "'Genome sequencing' means:",
+      "options": [
+        "Editing genes to remove diseases",
+        "Determining the complete DNA sequence of an organism",
+        "Cloning an entire organism",
+        "Synthesising artificial DNA"
+      ],
+      "answerIndex": 1,
+      "explanation": "Genome sequencing determines the order of nucleotides (A, T, G, C) in an organism's DNA. The Genome India Project sequenced 10,000+ Indian genomes.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "sci-mcq-004",
+      "topic": "IT & Communication",
+      "question": "Which technology underlies cryptocurrencies and is described as a 'distributed, immutable ledger'?",
+      "options": ["Cloud computing", "Blockchain", "Edge computing", "Quantum cryptography"],
+      "answerIndex": 1,
+      "explanation": "Blockchain stores records in cryptographically linked blocks replicated across nodes, making tampering evident — used in crypto, supply chains, land records pilots.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "sci-mcq-005",
+      "topic": "Defence Technology",
+      "question": "'Agni-V' is best described as:",
+      "options": [
+        "A short-range tactical missile",
+        "A supersonic cruise missile",
+        "An intercontinental-range ballistic missile",
+        "An anti-tank guided missile"
+      ],
+      "answerIndex": 2,
+      "explanation": "Agni-V is an ICBM-class ballistic missile (range 5,000+ km) developed by DRDO; tested with MIRV technology in Mission Divyastra (2024). BrahMos is the supersonic cruise missile.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "sci-mcq-006",
+      "topic": "Energy",
+      "question": "Which of the following are fissile materials used in nuclear reactors?\n1. Uranium-235\n2. Plutonium-239\n3. Uranium-238\n4. Thorium-232",
+      "options": ["1 and 2 only", "1, 2 and 3", "1 and 4 only", "1, 2, 3 and 4"],
+      "answerIndex": 0,
+      "explanation": "U-235 and Pu-239 are fissile (sustain chain reaction with thermal neutrons). U-238 and Th-232 are fertile — they convert to fissile Pu-239 and U-233 respectively (basis of India's 3-stage programme).",
+      "difficulty": "hard"
+    },
+    {
+      "id": "sci-mcq-007",
+      "topic": "Biotechnology",
+      "question": "Covaxin, India's indigenous COVID-19 vaccine, is based on which platform?",
+      "options": [
+        "mRNA",
+        "Viral vector",
+        "Whole inactivated virus",
+        "Protein subunit"
+      ],
+      "answerIndex": 2,
+      "explanation": "Covaxin (Bharat Biotech + ICMR-NIV) uses whole inactivated SARS-CoV-2 virus with an adjuvant. Covishield is viral vector; Corbevax is protein subunit.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sci-mcq-008",
+      "topic": "IT & Communication",
+      "question": "5G technology primarily operates on which of the following advantages over 4G?\n1. Higher data speeds\n2. Ultra-low latency\n3. Massive device connectivity",
+      "options": ["1 only", "1 and 2 only", "1, 2 and 3", "2 and 3 only"],
+      "answerIndex": 2,
+      "explanation": "5G offers multi-Gbps speeds (eMBB), ~1 ms latency (URLLC), and up to a million devices/km² (mMTC) — enabling IoT, telemedicine, autonomous systems.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "sci-mcq-009",
+      "topic": "Space Technology",
+      "question": "NavIC, India's regional navigation system, consists of how many satellites and covers what region?",
+      "options": [
+        "7 satellites; India and ~1,500 km beyond its borders",
+        "24 satellites; global coverage",
+        "4 satellites; Indian landmass only",
+        "11 satellites; the Indian Ocean Region only"
+      ],
+      "answerIndex": 0,
+      "explanation": "NavIC (IRNSS) uses 7 satellites (GEO + GSO) providing positioning over India and a region extending ~1,500 km around it, with <20 m accuracy (Standard Positioning Service).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sci-mcq-010",
+      "topic": "Energy",
+      "question": "In the context of green energy, 'electrolysers' are devices that:",
+      "options": [
+        "Convert sunlight directly into electricity",
+        "Split water into hydrogen and oxygen using electricity",
+        "Store electricity in chemical batteries",
+        "Convert biomass into biogas"
+      ],
+      "answerIndex": 1,
+      "explanation": "Electrolysers use electric current to split water into H2 and O2. Powered by renewables, the hydrogen produced is 'green hydrogen' — key to India's National Green Hydrogen Mission.",
+      "difficulty": "easy"
+    }
+  ]
+}

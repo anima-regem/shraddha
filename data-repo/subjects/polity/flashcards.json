@@ -1,0 +1,75 @@
+{
+  "subjectId": "polity",
+  "cards": [
+    {
+      "id": "pol-fc-001",
+      "topic": "Constitution",
+      "front": "Which Article of the Constitution deals with the Amendment procedure?",
+      "back": "Article 368 — Parliament may amend the Constitution by way of addition, variation or repeal, following the special procedure laid down (Part XX).",
+      "tags": ["articles", "amendment"]
+    },
+    {
+      "id": "pol-fc-002",
+      "topic": "Fundamental Rights",
+      "front": "Which Article is called the 'Heart and Soul of the Constitution' and by whom?",
+      "back": "Article 32 (Right to Constitutional Remedies) — called the 'heart and soul' by Dr. B.R. Ambedkar. It empowers the Supreme Court to issue writs for enforcement of Fundamental Rights.",
+      "tags": ["article-32", "writs"]
+    },
+    {
+      "id": "pol-fc-003",
+      "topic": "Parliament",
+      "front": "What is a Money Bill and who decides whether a Bill is a Money Bill?",
+      "back": "Defined under Article 110, a Money Bill deals exclusively with taxation, borrowing, or expenditure from the Consolidated Fund. The Speaker of the Lok Sabha decides, and the decision is final.",
+      "tags": ["article-110", "money-bill"]
+    },
+    {
+      "id": "pol-fc-004",
+      "topic": "Judiciary",
+      "front": "What is the 'Basic Structure Doctrine' and in which case was it propounded?",
+      "back": "Kesavananda Bharati v. State of Kerala (1973) — Parliament can amend any part of the Constitution but cannot alter its 'basic structure' (e.g., supremacy of the Constitution, secularism, judicial review, federalism).",
+      "tags": ["basic-structure", "landmark-cases"]
+    },
+    {
+      "id": "pol-fc-005",
+      "topic": "Executive",
+      "front": "Under which Article can the President declare a National Emergency, and on what grounds?",
+      "back": "Article 352 — on grounds of war, external aggression, or armed rebellion ('internal disturbance' was replaced by 'armed rebellion' via the 44th Amendment, 1978).",
+      "tags": ["emergency", "article-352"]
+    },
+    {
+      "id": "pol-fc-006",
+      "topic": "Local Government",
+      "front": "Which Constitutional Amendments gave constitutional status to Panchayats and Municipalities?",
+      "back": "73rd Amendment (1992) — Panchayati Raj (Part IX, 11th Schedule, 29 subjects). 74th Amendment (1992) — Municipalities (Part IXA, 12th Schedule, 18 subjects).",
+      "tags": ["73rd-amendment", "74th-amendment"]
+    },
+    {
+      "id": "pol-fc-007",
+      "topic": "Constitutional Bodies",
+      "front": "Which Articles establish the Election Commission and the CAG?",
+      "back": "Election Commission — Article 324. Comptroller & Auditor General — Article 148. Both are independent constitutional bodies; the CAG audits accounts of the Union and States.",
+      "tags": ["eci", "cag"]
+    },
+    {
+      "id": "pol-fc-008",
+      "topic": "Constitution",
+      "front": "From which countries were these features borrowed: Directive Principles, Fundamental Rights, Concurrent List?",
+      "back": "Directive Principles — Ireland; Fundamental Rights — USA; Concurrent List — Australia. (Parliamentary system — UK; Emergency provisions — Germany/GoI Act 1935.)",
+      "tags": ["borrowed-features"]
+    },
+    {
+      "id": "pol-fc-009",
+      "topic": "Fundamental Rights",
+      "front": "What does Article 21 guarantee and how has it been expanded?",
+      "back": "Article 21: No person shall be deprived of life or personal liberty except according to procedure established by law. Post Maneka Gandhi (1978), it includes the right to privacy, clean environment, speedy trial, dignity, and livelihood.",
+      "tags": ["article-21", "maneka-gandhi"]
+    },
+    {
+      "id": "pol-fc-010",
+      "topic": "Parliament",
+      "front": "What is the difference between censure motion and no-confidence motion?",
+      "back": "Censure motion can be against an individual minister or the Council of Ministers, needs stated reasons, and doesn't require resignation if passed. No-confidence motion is against the entire Council of Ministers; if passed, the government must resign. Only in Lok Sabha.",
+      "tags": ["motions", "parliament"]
+    }
+  ]
+}

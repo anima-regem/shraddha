@@ -1,0 +1,13 @@
+{
+  "id": "science-tech",
+  "name": "Science & Technology",
+  "icon": "rocket_launch",
+  "color": "#E84393",
+  "topics": [
+    "Space Technology",
+    "Biotechnology",
+    "IT & Communication",
+    "Defence Technology",
+    "Energy"
+  ]
+}

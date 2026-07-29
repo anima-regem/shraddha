@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": 1,
+  "updatedAt": "2026-07-29",
+  "subjects": [
+    { "id": "polity", "path": "subjects/polity" },
+    { "id": "history", "path": "subjects/history" },
+    { "id": "geography", "path": "subjects/geography" },
+    { "id": "economy", "path": "subjects/economy" },
+    { "id": "environment", "path": "subjects/environment" },
+    { "id": "science-tech", "path": "subjects/science-tech" },
+    { "id": "current-affairs", "path": "subjects/current-affairs" }
+  ]
+}

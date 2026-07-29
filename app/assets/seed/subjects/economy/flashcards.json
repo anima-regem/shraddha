@@ -1,0 +1,75 @@
+{
+  "subjectId": "economy",
+  "cards": [
+    {
+      "id": "eco-fc-001",
+      "topic": "Basics & National Income",
+      "front": "Differentiate between GDP and GNP.",
+      "back": "GDP = value of all final goods & services produced WITHIN the country's borders. GNP = GDP + Net Factor Income from Abroad (NFIA). For India, GNP < GDP since NFIA is negative.",
+      "tags": ["national-income"]
+    },
+    {
+      "id": "eco-fc-002",
+      "topic": "Money & Banking",
+      "front": "What are Repo Rate and Reverse Repo Rate?",
+      "back": "Repo: rate at which RBI lends short-term to banks against securities (injects liquidity). Reverse Repo: rate at which RBI borrows from banks (absorbs liquidity). Repo ↑ → borrowing costlier → inflation control.",
+      "tags": ["rbi", "monetary-policy"]
+    },
+    {
+      "id": "eco-fc-003",
+      "topic": "Fiscal Policy",
+      "front": "Define Fiscal Deficit, Revenue Deficit and Primary Deficit.",
+      "back": "Fiscal Deficit = Total Expenditure − Total Receipts (excl. borrowings). Revenue Deficit = Revenue Expenditure − Revenue Receipts. Primary Deficit = Fiscal Deficit − Interest Payments.",
+      "tags": ["deficits", "budget"]
+    },
+    {
+      "id": "eco-fc-004",
+      "topic": "Money & Banking",
+      "front": "What is CRR and SLR?",
+      "back": "CRR: % of NDTL banks must keep as cash with RBI (no interest earned). SLR: % of NDTL banks must maintain in liquid assets (cash, gold, G-secs) with themselves. Both are quantitative tools of monetary policy.",
+      "tags": ["rbi", "banking"]
+    },
+    {
+      "id": "eco-fc-005",
+      "topic": "External Sector",
+      "front": "What are the components of the Current Account of BoP?",
+      "back": "1) Trade in goods (visible), 2) Trade in services (invisibles), 3) Primary income (interest, dividends, remittances of profit), 4) Secondary income/transfers (remittances, gifts, aid).",
+      "tags": ["bop"]
+    },
+    {
+      "id": "eco-fc-006",
+      "topic": "Basics & National Income",
+      "front": "What is the difference between headline inflation (WPI/CPI) measures used in India?",
+      "back": "CPI (base 2012, by NSO) measures retail price change — used by RBI for the 4% ± 2% inflation target. WPI (base 2011-12, by Office of Economic Adviser) tracks wholesale prices, excludes services.",
+      "tags": ["inflation"]
+    },
+    {
+      "id": "eco-fc-007",
+      "topic": "Fiscal Policy",
+      "front": "What is FRBM Act and its key target?",
+      "back": "Fiscal Responsibility and Budget Management Act, 2003 — fiscal discipline framework. Amended target: fiscal deficit of 3% of GDP; the NK Singh Committee (2017) recommended a debt-to-GDP anchor (60% general govt).",
+      "tags": ["frbm"]
+    },
+    {
+      "id": "eco-fc-008",
+      "topic": "Agriculture & Industry",
+      "front": "What is MSP and who recommends it? How many crops are covered?",
+      "back": "Minimum Support Price — announced by CCEA based on CACP (Commission for Agricultural Costs & Prices) recommendations, for 22 mandated crops + FRP for sugarcane.",
+      "tags": ["msp", "agriculture"]
+    },
+    {
+      "id": "eco-fc-009",
+      "topic": "Money & Banking",
+      "front": "Composition and mandate of the Monetary Policy Committee (MPC)?",
+      "back": "6 members: RBI Governor (chair, casting vote), Deputy Governor, one RBI officer + 3 government nominees; decides the policy repo rate by majority to keep CPI inflation at 4% (±2%). Meets at least 4 times a year.",
+      "tags": ["mpc", "rbi"]
+    },
+    {
+      "id": "eco-fc-010",
+      "topic": "External Sector",
+      "front": "Differentiate FDI and FPI.",
+      "back": "FDI: long-term investment with ownership/control (≥10% equity stake convention), brings technology & management. FPI: investment in financial assets (shares, bonds) without control — 'hot money', more volatile.",
+      "tags": ["investment"]
+    }
+  ]
+}

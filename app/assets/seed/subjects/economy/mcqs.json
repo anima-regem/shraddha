@@ -1,0 +1,125 @@
+{
+  "subjectId": "economy",
+  "questions": [
+    {
+      "id": "eco-mcq-001",
+      "topic": "Money & Banking",
+      "question": "If the RBI wants to reduce liquidity in the economy, which of the following would it most likely do?",
+      "options": [
+        "Reduce the repo rate",
+        "Buy government securities in the open market",
+        "Increase the Cash Reserve Ratio",
+        "Reduce the Statutory Liquidity Ratio"
+      ],
+      "answerIndex": 2,
+      "explanation": "Raising CRR forces banks to park more cash with RBI, reducing lendable funds. Cutting repo/SLR or buying G-secs (OMO purchase) would inject liquidity instead.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "eco-mcq-002",
+      "topic": "Basics & National Income",
+      "question": "'Base effect' in the context of inflation refers to:",
+      "options": [
+        "Change in the base year of the price index",
+        "Impact of the previous year's price level on the current inflation rate",
+        "Effect of interest rates on prices",
+        "Seasonal adjustment of the index"
+      ],
+      "answerIndex": 1,
+      "explanation": "Since inflation is year-on-year, an unusually high or low price level in the corresponding period last year distorts the current rate — the base effect.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "eco-mcq-003",
+      "topic": "Fiscal Policy",
+      "question": "Which of the following is a capital receipt in the Government budget?\n1. Loan recoveries\n2. Disinvestment proceeds\n3. Corporation tax\n4. Market borrowings",
+      "options": ["1, 2 and 4", "1 and 3", "2, 3 and 4", "1, 2, 3 and 4"],
+      "answerIndex": 0,
+      "explanation": "Capital receipts either create liability (borrowings) or reduce assets (disinvestment, loan recovery). Corporation tax is a revenue receipt.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "eco-mcq-004",
+      "topic": "External Sector",
+      "question": "Devaluation of a currency is expected to:",
+      "options": [
+        "Make imports cheaper and exports costlier",
+        "Make exports cheaper and imports costlier",
+        "Have no effect on trade",
+        "Reduce foreign exchange reserves automatically"
+      ],
+      "answerIndex": 1,
+      "explanation": "Devaluation lowers the external value of the currency: foreign buyers pay less for exports (boosting them) while imports cost more domestically, improving the trade balance if elasticities allow.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "eco-mcq-005",
+      "topic": "Money & Banking",
+      "question": "Which of the following are part of 'Broad Money' (M3) in India?\n1. Currency with the public\n2. Demand deposits with banks\n3. Time deposits with banks\n4. Deposits with post office savings (excluding NSCs)",
+      "options": ["1 and 2 only", "1, 2 and 3 only", "1, 2, 3 and 4", "2 and 3 only"],
+      "answerIndex": 1,
+      "explanation": "M3 = M1 (currency + demand deposits + other deposits with RBI) + time deposits with banks. Post office savings deposits are part of M4, not M3.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "eco-mcq-006",
+      "topic": "Agriculture & Industry",
+      "question": "The 'Fair and Remunerative Price' (FRP) is associated with which crop?",
+      "options": ["Wheat", "Paddy", "Sugarcane", "Cotton"],
+      "answerIndex": 2,
+      "explanation": "FRP is the minimum price sugar mills must pay sugarcane farmers, decided by the CCEA on the recommendation of the CACP under the Sugarcane (Control) Order, 1966.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "eco-mcq-007",
+      "topic": "Basics & National Income",
+      "question": "GDP deflator is the ratio of:",
+      "options": [
+        "Nominal GDP to Real GDP",
+        "Real GDP to Nominal GDP",
+        "GNP to GDP",
+        "CPI to WPI"
+      ],
+      "answerIndex": 0,
+      "explanation": "GDP deflator = (Nominal GDP / Real GDP) × 100. It is the most comprehensive inflation measure as it covers all goods and services produced in the economy.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "eco-mcq-008",
+      "topic": "External Sector",
+      "question": "Consider the following: 'Hot money' flows refer to:",
+      "options": [
+        "Long-term FDI in manufacturing",
+        "Short-term capital flows seeking quick returns from interest rate/exchange rate differentials",
+        "Remittances from overseas workers",
+        "Sovereign wealth fund investments"
+      ],
+      "answerIndex": 1,
+      "explanation": "Hot money is speculative short-term capital (typically FPI in debt/equity) that can exit quickly, causing exchange rate volatility.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "eco-mcq-009",
+      "topic": "Fiscal Policy",
+      "question": "'Effective Revenue Deficit' equals Revenue Deficit minus:",
+      "options": [
+        "Interest payments",
+        "Grants for creation of capital assets",
+        "Subsidies",
+        "Defence revenue expenditure"
+      ],
+      "answerIndex": 1,
+      "explanation": "Introduced in Budget 2011-12: Effective Revenue Deficit = Revenue Deficit − grants to states/entities used for creating capital assets, giving a truer picture of consumptive spending.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "eco-mcq-010",
+      "topic": "Money & Banking",
+      "question": "Which institution is known as the 'lender of last resort' in India?",
+      "options": ["SBI", "NABARD", "RBI", "SIDBI"],
+      "answerIndex": 2,
+      "explanation": "The RBI acts as lender of last resort, providing emergency liquidity to solvent but illiquid banks to preserve financial stability.",
+      "difficulty": "easy"
+    }
+  ]
+}

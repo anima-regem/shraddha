@@ -1,0 +1,120 @@
+{
+  "subjectId": "geography",
+  "questions": [
+    {
+      "id": "geo-mcq-001",
+      "topic": "Indian Geography",
+      "question": "Which of the following rivers does NOT originate in India?",
+      "options": ["Brahmaputra", "Godavari", "Kaveri", "Mahanadi"],
+      "answerIndex": 0,
+      "explanation": "The Brahmaputra originates as the Yarlung Tsangpo from the Chemayungdung glacier near Mansarovar in Tibet, entering India in Arunachal Pradesh as the Siang/Dihang.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "geo-mcq-002",
+      "topic": "Climatology",
+      "question": "'October Heat' experienced in parts of India is primarily due to:",
+      "options": [
+        "High wind speed and low pressure",
+        "High temperature combined with high humidity",
+        "Dry hot westerly winds",
+        "Cyclonic disturbances from the Mediterranean"
+      ],
+      "answerIndex": 1,
+      "explanation": "During the monsoon retreat, skies clear and temperatures rise while the land is still moist — the oppressive combination of heat and humidity is called October Heat.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "geo-mcq-003",
+      "topic": "Physical Geography",
+      "question": "Consider the following statements about ocean currents:\n1. The Gulf Stream is a cold current.\n2. Currents flowing from equatorial regions towards poles are warm currents.\nWhich is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answerIndex": 1,
+      "explanation": "The Gulf Stream is a warm current flowing from the Gulf of Mexico towards NW Europe. Statement 2 is the general rule (e.g., Kuroshio, Brazil currents).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "geo-mcq-004",
+      "topic": "Indian Geography",
+      "question": "Arrange these Himalayan ranges from north to south:\n1. Great Himalayas 2. Shiwaliks 3. Lesser Himalayas 4. Trans-Himalayas (Karakoram)",
+      "options": ["4-1-3-2", "1-4-3-2", "4-3-1-2", "1-3-2-4"],
+      "answerIndex": 0,
+      "explanation": "From north to south: Trans-Himalayas (Karakoram, Ladakh, Zaskar) → Great Himalayas (Himadri) → Lesser Himalayas (Himachal) → Shiwaliks (outer Himalayas).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "geo-mcq-005",
+      "topic": "World Geography",
+      "question": "The Ring of Fire, accounting for ~75% of the world's volcanoes, encircles which ocean?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
+      "answerIndex": 2,
+      "explanation": "The Circum-Pacific Belt (Ring of Fire) rims the Pacific Ocean along convergent plate boundaries — from the Andes through Japan to New Zealand.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "geo-mcq-006",
+      "topic": "Economic Geography",
+      "question": "Black (regur) soil is best suited for cotton cultivation mainly because of its:",
+      "options": [
+        "High nitrogen content",
+        "High moisture retention capacity",
+        "Acidic nature",
+        "Coarse texture aiding drainage"
+      ],
+      "answerIndex": 1,
+      "explanation": "Regur soil, derived from Deccan basalt, is clayey and retains moisture for long periods — ideal for rain-fed cotton. It is rich in lime, iron, magnesia but poor in nitrogen and phosphorus.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "geo-mcq-007",
+      "topic": "Climatology",
+      "question": "Which local wind is correctly matched?",
+      "options": [
+        "Chinook — cold wind of the Alps",
+        "Foehn — warm dry wind of the Rockies",
+        "Loo — hot dry wind of northern Indian plains",
+        "Mistral — warm wind of southern France"
+      ],
+      "answerIndex": 2,
+      "explanation": "Loo is the hot, dry summer afternoon wind of the north Indian plains. Chinook (warm, Rockies — 'snow eater'), Foehn (warm, Alps), Mistral (cold, France) are the correct pairings.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "geo-mcq-008",
+      "topic": "Indian Geography",
+      "question": "Which one of the following National Waterways is on the Brahmaputra river?",
+      "options": ["NW-1", "NW-2", "NW-3", "NW-4"],
+      "answerIndex": 1,
+      "explanation": "NW-2: Brahmaputra from Dhubri to Sadiya (891 km). NW-1: Ganga (Haldia–Prayagraj); NW-3: West Coast Canal, Kerala; NW-4: Krishna–Godavari.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "geo-mcq-009",
+      "topic": "Physical Geography",
+      "question": "Solar eclipse occurs when:",
+      "options": [
+        "The Earth comes between the Sun and the Moon",
+        "The Moon comes between the Sun and the Earth",
+        "The Sun comes between the Earth and the Moon",
+        "The Moon is at its apogee"
+      ],
+      "answerIndex": 1,
+      "explanation": "A solar eclipse occurs on a new moon day when the Moon passes between the Sun and Earth, casting its shadow on Earth. A lunar eclipse is when Earth is in the middle (full moon).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "geo-mcq-010",
+      "topic": "World Geography",
+      "question": "Which country has the longest land border in the world with a single country?",
+      "options": [
+        "Russia–China",
+        "USA–Canada",
+        "Argentina–Chile",
+        "India–Bangladesh"
+      ],
+      "answerIndex": 1,
+      "explanation": "The USA–Canada border (~8,891 km including Alaska) is the longest international land border between two countries. India–Bangladesh (~4,096 km) is the 5th longest.",
+      "difficulty": "medium"
+    }
+  ]
+}

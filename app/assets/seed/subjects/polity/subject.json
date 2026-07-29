@@ -1,0 +1,15 @@
+{
+  "id": "polity",
+  "name": "Polity & Governance",
+  "icon": "account_balance",
+  "color": "#6C5CE7",
+  "topics": [
+    "Constitution",
+    "Fundamental Rights",
+    "Parliament",
+    "Judiciary",
+    "Executive",
+    "Local Government",
+    "Constitutional Bodies"
+  ]
+}

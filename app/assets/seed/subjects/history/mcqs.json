@@ -1,0 +1,110 @@
+{
+  "subjectId": "history",
+  "questions": [
+    {
+      "id": "his-mcq-001",
+      "topic": "Ancient India",
+      "question": "The famous Indus Valley site of Dholavira is located in which present-day Indian state?",
+      "options": ["Rajasthan", "Gujarat", "Haryana", "Punjab"],
+      "answerIndex": 1,
+      "explanation": "Dholavira is in the Rann of Kachchh, Gujarat. It is known for sophisticated water management and was inscribed as a UNESCO World Heritage Site in 2021.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "his-mcq-002",
+      "topic": "Ancient India",
+      "question": "Who among the following was the court poet of Samudragupta and composed the Allahabad Pillar Inscription (Prayag Prashasti)?",
+      "options": ["Banabhatta", "Harisena", "Kalidasa", "Ravikirti"],
+      "answerIndex": 1,
+      "explanation": "Harisena composed the Prayag Prashasti in Sanskrit, detailing Samudragupta's conquests. Banabhatta was Harsha's biographer; Ravikirti wrote the Aihole inscription for Pulakeshin II.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "his-mcq-003",
+      "topic": "Medieval India",
+      "question": "The 'Market Control Policy' fixing prices of commodities was introduced by which Delhi Sultan?",
+      "options": ["Balban", "Alauddin Khalji", "Muhammad bin Tughlaq", "Firuz Shah Tughlaq"],
+      "answerIndex": 1,
+      "explanation": "Alauddin Khalji fixed prices (rate lists), set up separate markets (shahna-i-mandi), and used spies to enforce controls — mainly to maintain a large army cheaply.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "his-mcq-004",
+      "topic": "Modern India",
+      "question": "Arrange chronologically:\n1. Battle of Buxar\n2. Battle of Plassey\n3. Grant of Diwani of Bengal\n4. Regulating Act",
+      "options": ["2-1-3-4", "1-2-3-4", "2-3-1-4", "2-1-4-3"],
+      "answerIndex": 0,
+      "explanation": "Plassey (1757) → Buxar (1764) → Diwani of Bengal, Bihar, Orissa granted to the Company (1765) → Regulating Act (1773).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "his-mcq-005",
+      "topic": "Freedom Struggle",
+      "question": "The Lucknow Pact (1916) is significant because:",
+      "options": [
+        "Congress and Muslim League agreed to joint constitutional demands",
+        "It ended the Non-Cooperation Movement",
+        "It introduced separate electorates for the first time",
+        "It partitioned Bengal"
+      ],
+      "answerIndex": 0,
+      "explanation": "At Lucknow, the INC (with reunited Moderates & Extremists) and the Muslim League jointly demanded self-government; Congress accepted separate electorates (first introduced earlier by Morley-Minto Reforms, 1909).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "his-mcq-006",
+      "topic": "Freedom Struggle",
+      "question": "Which session of the Indian National Congress adopted the resolution of 'Purna Swaraj'?",
+      "options": ["Karachi, 1931", "Lahore, 1929", "Calcutta, 1928", "Madras, 1927"],
+      "answerIndex": 1,
+      "explanation": "The Lahore Session (Dec 1929), presided by Jawaharlal Nehru, adopted Purna Swaraj as the goal. 26 January 1930 was observed as the first Independence Day.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "his-mcq-007",
+      "topic": "Art & Culture",
+      "question": "The Gandhara school of art flourished under which dynasty and shows influence of which foreign style?",
+      "options": [
+        "Guptas; Roman",
+        "Kushanas; Greco-Roman",
+        "Mauryas; Persian",
+        "Satavahanas; Chinese"
+      ],
+      "answerIndex": 1,
+      "explanation": "The Gandhara school (1st–5th century CE) flourished under the Kushanas (esp. Kanishka) with strong Greco-Roman (Hellenistic) influence — Buddha in wavy hair, drapery. Used grey schist.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "his-mcq-008",
+      "topic": "Modern India",
+      "question": "Who founded the 'Servants of India Society' in 1905?",
+      "options": ["Bal Gangadhar Tilak", "Gopal Krishna Gokhale", "Dadabhai Naoroji", "M.G. Ranade"],
+      "answerIndex": 1,
+      "explanation": "Gopal Krishna Gokhale founded the Servants of India Society in Pune to train national missionaries for social service and promote the interests of Indians by constitutional means.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "his-mcq-009",
+      "topic": "Freedom Struggle",
+      "question": "During the Quit India Movement, parallel governments were established at several places. 'Jatiya Sarkar' was set up at:",
+      "options": ["Satara", "Tamluk", "Ballia", "Talcher"],
+      "answerIndex": 1,
+      "explanation": "Tamluk (Midnapore, Bengal) — Jatiya Sarkar under Satish Samanta. Satara had 'Prati Sarkar' (Nana Patil); Ballia under Chittu Pandey was among the earliest.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "his-mcq-010",
+      "topic": "Medieval India",
+      "question": "The Vijayanagara empire's 'Amara-Nayaka' system closely resembled:",
+      "options": [
+        "The Zamindari system of Bengal",
+        "The Iqta system of the Delhi Sultanate",
+        "The Ryotwari settlement",
+        "The Mahalwari system"
+      ],
+      "answerIndex": 1,
+      "explanation": "Amara-Nayakas were military chiefs assigned territories (amaram) for revenue collection in return for troops and tribute — functionally similar to iqtas of the Sultanate.",
+      "difficulty": "hard"
+    }
+  ]
+}

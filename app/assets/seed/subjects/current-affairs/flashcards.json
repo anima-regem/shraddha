@@ -1,0 +1,75 @@
+{
+  "subjectId": "current-affairs",
+  "cards": [
+    {
+      "id": "ca-fc-001",
+      "topic": "Schemes & Policies",
+      "front": "What is PM Gati Shakti?",
+      "back": "National Master Plan (2021) for multimodal connectivity — a digital platform integrating 16 ministries for coordinated infrastructure planning, reducing logistics costs (target: <10% of GDP).",
+      "tags": ["infrastructure"]
+    },
+    {
+      "id": "ca-fc-002",
+      "topic": "Reports & Indices",
+      "front": "Who publishes: Human Development Index, Global Hunger Index, Ease of Doing Business?",
+      "back": "HDI — UNDP; GHI — Concern Worldwide & Welthungerhilfe; Ease of Doing Business — World Bank (discontinued 2021, replaced by Business Ready/B-READY).",
+      "tags": ["indices"]
+    },
+    {
+      "id": "ca-fc-003",
+      "topic": "Summits & Organisations",
+      "front": "What were the key outcomes of India's G20 Presidency (2023)?",
+      "back": "New Delhi Leaders' Declaration (consensus), African Union's permanent G20 membership, India-Middle East-Europe Economic Corridor (IMEC), Global Biofuel Alliance, Digital Public Infrastructure framework.",
+      "tags": ["g20"]
+    },
+    {
+      "id": "ca-fc-004",
+      "topic": "National",
+      "front": "What are the key provisions of the Women's Reservation Act (Nari Shakti Vandan Adhiniyam), 2023?",
+      "back": "106th Constitutional Amendment: 33% reservation for women in Lok Sabha, State Assemblies and Delhi Assembly; to take effect after the delimitation following the first census post-enactment; 15-year initial period.",
+      "tags": ["legislation"]
+    },
+    {
+      "id": "ca-fc-005",
+      "topic": "Schemes & Policies",
+      "front": "What is the PLI (Production Linked Incentive) scheme?",
+      "back": "Incentives (4–6% of incremental sales) to boost domestic manufacturing across 14 sectors (electronics, pharma, solar, semiconductors...) — aims at scale, exports, and Atmanirbhar Bharat.",
+      "tags": ["manufacturing"]
+    },
+    {
+      "id": "ca-fc-006",
+      "topic": "International",
+      "front": "What is the significance of India joining the Artemis Accords?",
+      "back": "Signed 2023 — non-binding principles (NASA-led) for peaceful, transparent lunar/space exploration cooperation; opens avenues for ISRO-NASA collaboration (e.g., NISAR satellite, astronaut training).",
+      "tags": ["space-diplomacy"]
+    },
+    {
+      "id": "ca-fc-007",
+      "topic": "Reports & Indices",
+      "front": "Which organisations publish the World Economic Outlook and the Global Financial Stability Report?",
+      "back": "Both by the IMF (biannual). The World Bank publishes the Global Economic Prospects; WEF publishes the Global Competitiveness and Global Gender Gap reports.",
+      "tags": ["imf", "reports"]
+    },
+    {
+      "id": "ca-fc-008",
+      "topic": "National",
+      "front": "What are the three new criminal laws replacing IPC, CrPC and the Evidence Act (2023)?",
+      "back": "Bharatiya Nyaya Sanhita (replaces IPC), Bharatiya Nagarik Suraksha Sanhita (CrPC), Bharatiya Sakshya Adhiniyam (Evidence Act) — effective 1 July 2024; add community service, e-FIR, timelines for investigation.",
+      "tags": ["criminal-law"]
+    },
+    {
+      "id": "ca-fc-009",
+      "topic": "Summits & Organisations",
+      "front": "What is BIMSTEC and its members?",
+      "back": "Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation (1997, HQ Dhaka): Bangladesh, Bhutan, India, Myanmar, Nepal, Sri Lanka, Thailand — bridge between South and Southeast Asia.",
+      "tags": ["regional-groups"]
+    },
+    {
+      "id": "ca-fc-010",
+      "topic": "Schemes & Policies",
+      "front": "What is Mission LiFE?",
+      "back": "Lifestyle for Environment — launched by India at COP26/Kevadia (2022): global mass movement nudging individual & community climate-friendly behaviours ('pro-planet people'), part of India's NDC commitments.",
+      "tags": ["climate"]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "environment",
+  "name": "Environment & Ecology",
+  "icon": "eco",
+  "color": "#27AE60",
+  "topics": [
+    "Ecology Basics",
+    "Biodiversity",
+    "Climate Change",
+    "Conservation",
+    "Environmental Laws"
+  ]
+}

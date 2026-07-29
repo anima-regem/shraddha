@@ -1,0 +1,24 @@
+# macOS and IDE metadata
+.DS_Store
+**/.DS_Store
+.idea/
+*.iml
+
+# Flutter and Dart generated files
+**/.dart_tool/
+**/.pub/
+**/build/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/coverage/
+
+# Android local state and release signing material
+**/.gradle/
+**/local.properties
+**/key.properties
+**/*.jks
+**/*.keystore
+
+# Local environment files
+.env
+.env.*

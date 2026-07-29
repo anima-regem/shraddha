@@ -1,0 +1,13 @@
+{
+  "id": "geography",
+  "name": "Geography",
+  "icon": "public",
+  "color": "#00B894",
+  "topics": [
+    "Physical Geography",
+    "Indian Geography",
+    "World Geography",
+    "Climatology",
+    "Economic Geography"
+  ]
+}

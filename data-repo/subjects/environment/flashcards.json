@@ -1,0 +1,75 @@
+{
+  "subjectId": "environment",
+  "cards": [
+    {
+      "id": "env-fc-001",
+      "topic": "Ecology Basics",
+      "front": "What is an ecotone? Give examples.",
+      "back": "A transition zone between two ecosystems with characteristics of both, often showing higher species diversity (edge effect). Examples: mangroves (land-sea), estuaries, grassland-forest fringe.",
+      "tags": ["ecology"]
+    },
+    {
+      "id": "env-fc-002",
+      "topic": "Biodiversity",
+      "front": "What are the criteria for a Biodiversity Hotspot, and which hotspots cover India?",
+      "back": "≥1,500 endemic vascular plants AND ≥70% habitat loss. India: Himalaya, Indo-Burma, Western Ghats & Sri Lanka, Sundaland (Nicobar Islands).",
+      "tags": ["hotspots"]
+    },
+    {
+      "id": "env-fc-003",
+      "topic": "Climate Change",
+      "front": "Differentiate: Kyoto Protocol vs Paris Agreement.",
+      "back": "Kyoto (1997): binding targets only for developed (Annex-I) countries, top-down. Paris (2015): all countries submit NDCs, bottom-up, goal to keep warming well below 2°C (pursue 1.5°C), 5-yearly global stocktake.",
+      "tags": ["unfccc"]
+    },
+    {
+      "id": "env-fc-004",
+      "topic": "Conservation",
+      "front": "Difference between National Park, Wildlife Sanctuary and Biosphere Reserve?",
+      "back": "NP: strict protection, no human activity, species+habitat focus. WLS: certain activities (grazing) may be allowed. BR (UNESCO MAB): large areas with core, buffer, transition zones including human communities.",
+      "tags": ["protected-areas"]
+    },
+    {
+      "id": "env-fc-005",
+      "topic": "Environmental Laws",
+      "front": "Which Act is called the 'umbrella legislation' for environment in India and why?",
+      "back": "Environment (Protection) Act, 1986 — enacted after Bhopal; empowers the Centre to take all measures to protect environment, set standards, and frame rules (EIA, CRZ notifications flow from it).",
+      "tags": ["epa-1986"]
+    },
+    {
+      "id": "env-fc-006",
+      "topic": "Ecology Basics",
+      "front": "What is eutrophication and its consequence?",
+      "back": "Nutrient (N, P) enrichment of water bodies → algal blooms → decomposition depletes dissolved oxygen (hypoxia) → fish kills, dead zones. Cultural eutrophication is human-induced (fertiliser runoff, sewage).",
+      "tags": ["pollution"]
+    },
+    {
+      "id": "env-fc-007",
+      "topic": "Biodiversity",
+      "front": "What do the IUCN Red List categories CR, EN, VU mean? Give an Indian CR species.",
+      "back": "Critically Endangered, Endangered, Vulnerable — decreasing threat order. Indian CR examples: Great Indian Bustard, Gharial, Bengal Florican.",
+      "tags": ["iucn"]
+    },
+    {
+      "id": "env-fc-008",
+      "topic": "Climate Change",
+      "front": "What is Carbon Sequestration? Name two natural sinks.",
+      "back": "Long-term capture and storage of atmospheric CO2. Natural sinks: oceans (largest), forests, soils, mangroves ('blue carbon'). Artificial: CCS/CCUS technologies.",
+      "tags": ["carbon"]
+    },
+    {
+      "id": "env-fc-009",
+      "topic": "Conservation",
+      "front": "What is Project Tiger and under which body is it implemented?",
+      "back": "Launched 1973 (9 reserves) for in-situ tiger conservation; now 50+ reserves under the National Tiger Conservation Authority (NTCA), a statutory body under the Wildlife (Protection) Amendment Act, 2006.",
+      "tags": ["project-tiger", "ntca"]
+    },
+    {
+      "id": "env-fc-010",
+      "topic": "Environmental Laws",
+      "front": "What is the composition and jurisdiction of the National Green Tribunal?",
+      "back": "Established under NGT Act, 2010; Chairperson (retired SC judge) + judicial & expert members. Handles civil environmental cases (7 laws incl. EPA, Water, Air, Forest Conservation Acts) — but NOT the Wildlife Protection Act.",
+      "tags": ["ngt"]
+    }
+  ]
+}

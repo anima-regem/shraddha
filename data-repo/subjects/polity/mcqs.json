@@ -1,0 +1,121 @@
+{
+  "subjectId": "polity",
+  "questions": [
+    {
+      "id": "pol-mcq-001",
+      "topic": "Constitution",
+      "question": "The Preamble of the Indian Constitution was amended by which Constitutional Amendment Act?",
+      "options": [
+        "24th Amendment Act, 1971",
+        "42nd Amendment Act, 1976",
+        "44th Amendment Act, 1978",
+        "52nd Amendment Act, 1985"
+      ],
+      "answerIndex": 1,
+      "explanation": "The 42nd Amendment (1976) added the words 'Socialist', 'Secular' and 'Integrity' to the Preamble. It is the only amendment to the Preamble so far.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pol-mcq-002",
+      "topic": "Fundamental Rights",
+      "question": "Which of the following writs is issued to a public official to perform a duty they have failed to perform?",
+      "options": ["Habeas Corpus", "Mandamus", "Certiorari", "Quo Warranto"],
+      "answerIndex": 1,
+      "explanation": "Mandamus ('we command') is issued to a public official/body to perform a public duty. Habeas Corpus is against illegal detention; Certiorari transfers/quashes a case; Quo Warranto questions the legality of holding a public office.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pol-mcq-003",
+      "topic": "Parliament",
+      "question": "With reference to a Money Bill, which of the following statements is NOT correct?",
+      "options": [
+        "It can be introduced only in the Lok Sabha",
+        "The Rajya Sabha can amend or reject it",
+        "It requires the prior recommendation of the President",
+        "The Speaker's decision on whether a bill is a Money Bill is final"
+      ],
+      "answerIndex": 1,
+      "explanation": "The Rajya Sabha cannot amend or reject a Money Bill — it can only make recommendations within 14 days, which the Lok Sabha may accept or reject.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "pol-mcq-004",
+      "topic": "Judiciary",
+      "question": "In which case did the Supreme Court hold that the 'Right to Privacy' is a Fundamental Right?",
+      "options": [
+        "Kesavananda Bharati v. State of Kerala",
+        "Maneka Gandhi v. Union of India",
+        "Justice K.S. Puttaswamy v. Union of India",
+        "S.R. Bommai v. Union of India"
+      ],
+      "answerIndex": 2,
+      "explanation": "In Puttaswamy (2017), a nine-judge bench unanimously held that the right to privacy is intrinsic to Article 21 and Part III of the Constitution.",
+      "difficulty": "medium",
+      "year": 2018
+    },
+    {
+      "id": "pol-mcq-005",
+      "topic": "Executive",
+      "question": "Which one of the following is NOT a discretionary power of the Governor?",
+      "options": [
+        "Reserving a bill for the consideration of the President",
+        "Recommending President's Rule in the state",
+        "Appointing the Chief Minister when no party has a clear majority",
+        "Assenting to a Money Bill passed by the State Legislature"
+      ],
+      "answerIndex": 3,
+      "explanation": "Assent to a duly passed Money Bill is not a discretionary function. Reservation of bills, recommending Article 356, and CM appointment in a hung assembly are situational/discretionary powers.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "pol-mcq-006",
+      "topic": "Local Government",
+      "question": "The Eleventh Schedule of the Constitution, added by the 73rd Amendment, contains how many subjects?",
+      "options": ["18", "29", "22", "12"],
+      "answerIndex": 1,
+      "explanation": "The 11th Schedule lists 29 functional items for Panchayats. The 12th Schedule (74th Amendment) lists 18 items for Municipalities.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pol-mcq-007",
+      "topic": "Constitutional Bodies",
+      "question": "Consider the following statements about the Election Commission of India:\n1. It is a three-member body.\n2. The Chief Election Commissioner can be removed in the same manner as a Supreme Court judge.\n3. Election Commissioners can be removed by the President on the recommendation of the CEC.\nWhich of the statements are correct?",
+      "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+      "answerIndex": 3,
+      "explanation": "All three are correct. The ECI has a CEC and two ECs; the CEC has security of tenure like an SC judge (removal by special majority); ECs are removed by the President on the CEC's recommendation.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "pol-mcq-008",
+      "topic": "Constitution",
+      "question": "Which part of the Constitution deals with Fundamental Duties?",
+      "options": ["Part III", "Part IV", "Part IVA", "Part V"],
+      "answerIndex": 2,
+      "explanation": "Part IVA (Article 51A) contains the 11 Fundamental Duties, added by the 42nd Amendment (10 duties) and the 86th Amendment, 2002 (11th duty — education of children aged 6–14).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pol-mcq-009",
+      "topic": "Parliament",
+      "question": "The 'Zero Hour' in Indian parliamentary practice:",
+      "options": [
+        "Is mentioned in the Rules of Procedure of the Lok Sabha",
+        "Is an Indian innovation not found in the Rules of Procedure",
+        "Was borrowed from the British Parliament",
+        "Is presided over by the Vice President in both Houses"
+      ],
+      "answerIndex": 1,
+      "explanation": "Zero Hour (starting around 12 noon after Question Hour) is an Indian parliamentary innovation since 1962. It is not mentioned in the Rules of Procedure.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "pol-mcq-010",
+      "topic": "Judiciary",
+      "question": "Under which Article can the Supreme Court transfer a case from one High Court to another?",
+      "options": ["Article 139A", "Article 141", "Article 143", "Article 136"],
+      "answerIndex": 0,
+      "explanation": "Article 139A empowers the SC to transfer cases. Article 141 — SC law binding on all courts; Article 143 — advisory jurisdiction; Article 136 — special leave petition.",
+      "difficulty": "hard"
+    }
+  ]
+}

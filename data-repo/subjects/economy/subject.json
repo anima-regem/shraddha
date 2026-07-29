@@ -1,0 +1,13 @@
+{
+  "id": "economy",
+  "name": "Economy",
+  "icon": "trending_up",
+  "color": "#0984E3",
+  "topics": [
+    "Basics & National Income",
+    "Money & Banking",
+    "Fiscal Policy",
+    "External Sector",
+    "Agriculture & Industry"
+  ]
+}

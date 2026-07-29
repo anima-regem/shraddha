@@ -1,0 +1,120 @@
+{
+  "subjectId": "environment",
+  "questions": [
+    {
+      "id": "env-mcq-001",
+      "topic": "Biodiversity",
+      "question": "Which of the following is India's first Biosphere Reserve?",
+      "options": ["Sundarbans", "Nilgiri", "Nanda Devi", "Gulf of Mannar"],
+      "answerIndex": 1,
+      "explanation": "The Nilgiri Biosphere Reserve (1986) was India's first, spanning Tamil Nadu, Kerala and Karnataka — includes Mudumalai, Bandipur, Silent Valley.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "env-mcq-002",
+      "topic": "Ecology Basics",
+      "question": "In a food chain, only about 10% of energy is transferred to the next trophic level. This is known as:",
+      "options": [
+        "Gause's principle",
+        "Lindeman's ten percent law",
+        "Liebig's law of minimum",
+        "Allen's rule"
+      ],
+      "answerIndex": 1,
+      "explanation": "Raymond Lindeman (1942) proposed that ~10% of energy at each trophic level is passed on; the rest is lost as heat/metabolism — limiting food chains to 4–5 levels.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "env-mcq-003",
+      "topic": "Climate Change",
+      "question": "Which of the following gases has the highest Global Warming Potential (GWP) over 100 years?",
+      "options": ["Carbon dioxide", "Methane", "Nitrous oxide", "Sulphur hexafluoride"],
+      "answerIndex": 3,
+      "explanation": "SF6 has a GWP of ~23,500 over 100 years — the most potent greenhouse gas evaluated by IPCC. CO2 = 1 (reference), CH4 ≈ 28, N2O ≈ 265.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "env-mcq-004",
+      "topic": "Conservation",
+      "question": "'Ramsar Sites' are related to the conservation of:",
+      "options": ["Mangroves only", "Wetlands", "Coral reefs", "Tropical forests"],
+      "answerIndex": 1,
+      "explanation": "The Ramsar Convention (1971, Iran) promotes wise use of wetlands. India has 80+ Ramsar sites; Chilika and Keoladeo were the first (1981).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "env-mcq-005",
+      "topic": "Environmental Laws",
+      "question": "The National Green Tribunal does NOT have jurisdiction over which of the following Acts?",
+      "options": [
+        "Environment (Protection) Act, 1986",
+        "Forest (Conservation) Act, 1980",
+        "Wildlife (Protection) Act, 1972",
+        "Water (Prevention and Control of Pollution) Act, 1974"
+      ],
+      "answerIndex": 2,
+      "explanation": "The Wildlife (Protection) Act, 1972 and the Indian Forest Act, 1927 are outside NGT's jurisdiction — appeals under them go to regular courts.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "env-mcq-006",
+      "topic": "Biodiversity",
+      "question": "Consider the following statements about the Great Indian Bustard:\n1. It is listed as Critically Endangered on the IUCN Red List.\n2. It is found mainly in Rajasthan and Gujarat.\n3. It is the state bird of Rajasthan.\nWhich are correct?",
+      "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+      "answerIndex": 3,
+      "explanation": "All three are correct. The GIB (Godawan) is CR with fewer than ~150 birds, concentrated in the Thar (Desert National Park); it is Rajasthan's state bird.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "env-mcq-007",
+      "topic": "Climate Change",
+      "question": "'Blue Carbon' refers to carbon captured by:",
+      "options": [
+        "Freshwater lakes and rivers",
+        "Coastal and marine ecosystems like mangroves and seagrasses",
+        "Blue-green algae in paddy fields",
+        "Glaciers and ice sheets"
+      ],
+      "answerIndex": 1,
+      "explanation": "Blue carbon is the carbon stored in coastal vegetated ecosystems — mangroves, salt marshes, seagrass meadows — which sequester carbon far faster per hectare than terrestrial forests.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "env-mcq-008",
+      "topic": "Ecology Basics",
+      "question": "Biomagnification refers to:",
+      "options": [
+        "Increase in the number of organisms at higher trophic levels",
+        "Increasing concentration of a toxicant at successive trophic levels",
+        "Rapid growth of algae in nutrient-rich waters",
+        "Increase in biomass at each trophic level"
+      ],
+      "answerIndex": 1,
+      "explanation": "Persistent toxins (DDT, mercury) accumulate in tissues and concentrate up the food chain — famously causing eggshell thinning in birds of prey.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "env-mcq-009",
+      "topic": "Conservation",
+      "question": "Which of the following is an ex-situ conservation method?\n1. Seed banks\n2. Sacred groves\n3. Zoological parks\n4. Biosphere reserves",
+      "options": ["1 and 3 only", "2 and 4 only", "1, 3 and 4", "1 and 2 only"],
+      "answerIndex": 0,
+      "explanation": "Ex-situ = conservation outside natural habitat: seed banks, zoos, botanical gardens, cryopreservation. Sacred groves and biosphere reserves are in-situ.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "env-mcq-010",
+      "topic": "Environmental Laws",
+      "question": "The Montreal Protocol is associated with:",
+      "options": [
+        "Reduction of greenhouse gases",
+        "Phasing out ozone-depleting substances",
+        "Conservation of migratory species",
+        "Control of trans-boundary movement of hazardous waste"
+      ],
+      "answerIndex": 1,
+      "explanation": "Montreal Protocol (1987) phases out ODS like CFCs and halons; its Kigali Amendment (2016) phases down HFCs (potent GHGs), linking ozone and climate action.",
+      "difficulty": "easy"
+    }
+  ]
+}

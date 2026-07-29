@@ -1,0 +1,13 @@
+{
+  "id": "history",
+  "name": "History",
+  "icon": "castle",
+  "color": "#E17055",
+  "topics": [
+    "Ancient India",
+    "Medieval India",
+    "Modern India",
+    "Freedom Struggle",
+    "Art & Culture"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "subjectId": "geography",
+  "cards": [
+    {
+      "id": "geo-fc-001",
+      "topic": "Physical Geography",
+      "front": "What are the three types of plate boundaries? Give one example of each.",
+      "back": "Divergent (Mid-Atlantic Ridge), Convergent (Himalayas — India-Eurasia collision), Transform (San Andreas Fault). Earthquakes occur at all three; volcanism mainly at divergent/convergent.",
+      "tags": ["plate-tectonics"]
+    },
+    {
+      "id": "geo-fc-002",
+      "topic": "Indian Geography",
+      "front": "Name the major passes connecting India: Nathu La, Shipki La, Zoji La — with their states.",
+      "back": "Nathu La — Sikkim (to Tibet); Shipki La — Himachal Pradesh (Sutlej enters India); Zoji La — Ladakh/Kashmir (Srinagar–Leh, on NH-1).",
+      "tags": ["passes", "himalayas"]
+    },
+    {
+      "id": "geo-fc-003",
+      "topic": "Climatology",
+      "front": "What is the difference between El Niño and La Niña, and their effect on the Indian monsoon?",
+      "back": "El Niño: warming of central/eastern Pacific → generally weakens the Indian monsoon (drought risk). La Niña: cooling of the same region → generally strengthens the monsoon.",
+      "tags": ["enso", "monsoon"]
+    },
+    {
+      "id": "geo-fc-004",
+      "topic": "Indian Geography",
+      "front": "Which rivers form the following: Jog Falls, Dhuandhar Falls, Shivanasamudra Falls?",
+      "back": "Jog (Gerosoppa) Falls — Sharavati (Karnataka); Dhuandhar — Narmada (Bhedaghat, MP); Shivanasamudra — Kaveri (Karnataka, one of India's first hydroelectric stations, 1902).",
+      "tags": ["rivers", "waterfalls"]
+    },
+    {
+      "id": "geo-fc-005",
+      "topic": "World Geography",
+      "front": "Which straits separate: (a) India–Sri Lanka, (b) Malaysia–Indonesia, (c) Spain–Morocco?",
+      "back": "(a) Palk Strait (b) Strait of Malacca (c) Strait of Gibraltar. Palk Strait connects Palk Bay with the Bay of Bengal.",
+      "tags": ["straits"]
+    },
+    {
+      "id": "geo-fc-006",
+      "topic": "Physical Geography",
+      "front": "Differentiate between weathering and erosion.",
+      "back": "Weathering: in-situ breakdown of rocks (physical/chemical/biological), no movement. Erosion: wearing away AND transport of material by agents (rivers, wind, glaciers, waves).",
+      "tags": ["geomorphology"]
+    },
+    {
+      "id": "geo-fc-007",
+      "topic": "Economic Geography",
+      "front": "What are laterite soils, where are they found in India, and which crops suit them?",
+      "back": "Formed by intense leaching in high-rainfall tropical areas; rich in iron/aluminium oxides, poor in nitrogen & lime. Found: Western Ghats, Odisha, parts of NE. Crops: tea, coffee, cashew, tapioca (with manuring).",
+      "tags": ["soils"]
+    },
+    {
+      "id": "geo-fc-008",
+      "topic": "Climatology",
+      "front": "What is a temperature inversion and when does it commonly occur?",
+      "back": "When temperature increases with altitude (reversal of normal lapse rate). Common on calm, clear, long winter nights over valleys — traps pollutants and causes fog/frost pockets.",
+      "tags": ["atmosphere"]
+    },
+    {
+      "id": "geo-fc-009",
+      "topic": "Indian Geography",
+      "front": "Which is the only large river of peninsular India that flows through a rift valley into the Arabian Sea (besides Tapi)?",
+      "back": "Narmada — flows west through a rift valley between the Vindhya and Satpura ranges, forming an estuary (not a delta). Tapi follows a parallel rift to its south.",
+      "tags": ["rivers", "peninsular"]
+    },
+    {
+      "id": "geo-fc-010",
+      "topic": "World Geography",
+      "front": "Name the grasslands: North America, South America, Africa, Central Asia, Australia.",
+      "back": "Prairies (N. America), Pampas (S. America), Savanna/Veld (Africa; Veld in S. Africa), Steppes (Central Asia/Eurasia), Downs (Australia).",
+      "tags": ["grasslands"]
+    }
+  ]
+}
