@@ -19,15 +19,34 @@ void main() {
       );
     });
 
-    test('uses test ads in development and the supplied unit in release', () {
-      expect(
-        AdConfig.bannerUnitIdFor(isRelease: false),
-        'ca-app-pub-3940256099942544/9214589741',
-      );
-      expect(
-        AdConfig.bannerUnitIdFor(isRelease: true),
-        'ca-app-pub-7103481995341644/6060991364',
-      );
-    });
+    test(
+      'uses Google test units in development and production units in release',
+      () {
+        expect(
+          AdConfig.bannerUnitIdFor(isRelease: false),
+          'ca-app-pub-3940256099942544/9214589741',
+        );
+        expect(
+          AdConfig.bannerUnitIdFor(isRelease: true),
+          'ca-app-pub-7103481995341644/6060991364',
+        );
+        expect(
+          AdConfig.rewardedUnitIdFor(isRelease: false),
+          'ca-app-pub-3940256099942544/5224354917',
+        );
+        expect(
+          AdConfig.rewardedUnitIdFor(isRelease: true),
+          'ca-app-pub-7103481995341644/9832715411',
+        );
+        expect(
+          AdConfig.nativeUnitIdFor(isRelease: false),
+          'ca-app-pub-3940256099942544/2247696110',
+        );
+        expect(
+          AdConfig.nativeUnitIdFor(isRelease: true),
+          'ca-app-pub-7103481995341644/2668541260',
+        );
+      },
+    );
   });
 }

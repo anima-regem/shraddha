@@ -10,12 +10,31 @@ abstract final class AdConfig {
   static const _productionBannerUnitId =
       'ca-app-pub-7103481995341644/6060991364';
   static const _testBannerUnitId = 'ca-app-pub-3940256099942544/9214589741';
+  static const _productionRewardedUnitId =
+      'ca-app-pub-7103481995341644/9832715411';
+  static const _testRewardedUnitId = 'ca-app-pub-3940256099942544/5224354917';
+  static const _productionNativeUnitId =
+      'ca-app-pub-7103481995341644/2668541260';
+  static const _testNativeUnitId = 'ca-app-pub-3940256099942544/2247696110';
 
   static String bannerUnitIdFor({required bool isRelease}) {
     return isRelease ? _productionBannerUnitId : _testBannerUnitId;
   }
 
   static String get bannerUnitId => bannerUnitIdFor(isRelease: kReleaseMode);
+
+  static String rewardedUnitIdFor({required bool isRelease}) {
+    return isRelease ? _productionRewardedUnitId : _testRewardedUnitId;
+  }
+
+  static String get rewardedUnitId =>
+      rewardedUnitIdFor(isRelease: kReleaseMode);
+
+  static String nativeUnitIdFor({required bool isRelease}) {
+    return isRelease ? _productionNativeUnitId : _testNativeUnitId;
+  }
+
+  static String get nativeUnitId => nativeUnitIdFor(isRelease: kReleaseMode);
 }
 
 class AdsReadiness {

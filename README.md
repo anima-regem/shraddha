@@ -54,10 +54,11 @@ To refresh the *bundled* seed instead: copy `data-repo/` over `app/assets/seed/`
 ## Optional ads
 
 Ads are deliberately isolated to **Settings → Support Shraddha → Watch optional ads**.
-Development builds request Google's Android banner test ad; release builds use
-the configured production unit. Before publishing a release, complete the
-AdMob **Privacy & messaging** setup and the required Google Play privacy
-disclosures.
+That page may offer a banner, a user-initiated rewarded video, and a clearly
+labelled native sponsored card. Development builds request Google's Android
+test ads; release builds use the configured production units. Before publishing
+a release, complete the AdMob **Privacy & messaging** setup and the required
+Google Play privacy disclosures.
 
 The public [privacy policy](https://anima-regem.github.io/shraddha/privacy-policy/)
 describes local study data, optional GitHub sync, and the separate AdMob ad
