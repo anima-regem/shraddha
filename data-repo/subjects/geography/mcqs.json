@@ -567,6 +567,62 @@
       "answerIndex": 0,
       "explanation": "NOAA JetStream classifies a bow echo or series of bow echoes as a derecho when it progresses more than 250 miles with widespread gusts of at least 58 mph.",
       "difficulty": "hard"
+    },
+    {
+      "id": "geo-mcq-049",
+      "topic": "Physical Geography",
+      "question": "Which condition is not required for precipitation to occur?",
+      "options": [
+        "Condensation nuclei",
+        "A source of lift",
+        "Moisture",
+        "Southerly winds"
+      ],
+      "answerIndex": 3,
+      "explanation": "Precipitation requires moisture, condensation nuclei, and lifting or cooling; the compass direction of the wind is not itself a requirement.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "geo-mcq-050",
+      "topic": "Physical Geography",
+      "question": "Which mid-level cloud type has a heap-like appearance?",
+      "options": [
+        "Altostratus",
+        "Altocumulus",
+        "Cumulus",
+        "Stratocumulus"
+      ],
+      "answerIndex": 1,
+      "explanation": "Altocumulus is a mid-level cloud type with a heap-like or puffy appearance.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "geo-mcq-051",
+      "topic": "Physical Geography",
+      "question": "Which high-level cloud type forms a widespread layer or veil?",
+      "options": [
+        "Cirrus",
+        "Cirrostratus",
+        "Cirrocumulus",
+        "Altostratus"
+      ],
+      "answerIndex": 1,
+      "explanation": "Cirrostratus is a high-level, veil-like cloud that can spread across much or all of the sky.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "geo-mcq-052",
+      "topic": "Physical Geography",
+      "question": "An east wind blows in which direction?",
+      "options": [
+        "From east to west",
+        "From west to east",
+        "From north to south",
+        "From south to north"
+      ],
+      "answerIndex": 0,
+      "explanation": "Wind direction is named for the direction from which the wind comes, so an east wind blows from the east toward the west.",
+      "difficulty": "easy"
     }
   ]
 }

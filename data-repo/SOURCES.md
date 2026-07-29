@@ -320,3 +320,13 @@
 - Retrieved: 2026-07-30
 - Answer evidence: `geo-mcq-045` and `geo-mcq-046` — [National Weather Service Albany, Thunderstorms: Derechos](https://www.weather.gov/media/aly/FactSheets/Thunderstorms.pdf); `geo-mcq-047` — [NOAA NESDIS, What Is a Gust Front?](https://www.nesdis.noaa.gov/about/k-12-education/severe-weather/what-gust-front); `geo-mcq-048` — [NOAA JetStream, Bow Echoes](https://prod-01-alb-www-noaa.woc.noaa.gov/jetstream/derechos/bow-echoes).
 - Covered content: `subjects/geography/mcqs.json` — `geo-mcq-045` through `geo-mcq-048`
+
+## 2026-07-30 — NOAA JetStream Synoptic Meteorology review batch
+
+- Rights holder: National Oceanic and Atmospheric Administration (NOAA), National Weather Service Southern Region JetStream.
+- Source: [Synoptic Meteorology - Review Questions](https://www.noaa.gov/sites/default/files/2023-02/synoptic_quiz.pdf).
+- Reuse basis: JetStream states, "You are free to use the materials in any manner you wish." See [JetStream](https://prod-01-alb-www-noaa.woc.noaa.gov/jetstream). The source identifies itself as National Weather Service Southern Region JetStream material.
+- Attribution: Adapted from "Synoptic Meteorology - Review Questions" by NOAA National Weather Service Southern Region JetStream. Credit NOAA.
+- Retrieved: 2026-07-30
+- Answer evidence: `geo-mcq-049` through `geo-mcq-052` — [National Weather Service Southern Region, Forecasting Answer Key](https://www.weather.gov/media/shv/education_resource_library/forecasting/Forecasting_AnswerKey.pdf); supplementary evidence for `geo-mcq-050` and `geo-mcq-051` — [NOAA JetStream, Ten Basic Clouds](https://prod-01-alb-www-noaa.woc.noaa.gov/jetstream/clouds/ten-basic-clouds); supplementary evidence for `geo-mcq-052` — [National Weather Service Glossary, Wind Direction](https://forecast.weather.gov/glossary.php?word=WIND+DIRECTION).
+- Covered content: `subjects/geography/mcqs.json` — `geo-mcq-049` through `geo-mcq-052`
