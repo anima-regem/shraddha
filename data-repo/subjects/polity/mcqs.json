@@ -116,6 +116,42 @@
       "answerIndex": 0,
       "explanation": "Article 139A empowers the SC to transfer cases. Article 141 — SC law binding on all courts; Article 143 — advisory jurisdiction; Article 136 — special leave petition.",
       "difficulty": "hard"
+    },
+    {
+      "id": "pol-mcq-011",
+      "topic": "Comparative Politics",
+      "question": "In what year did Gerald Ford become President of the United States?",
+      "options": ["1974", "1977", "1973", "1969"],
+      "answerIndex": 0,
+      "explanation": "Gerald Ford took the oath of office as the 38th U.S. president on 9 August 1974, following Richard Nixon's resignation.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "pol-mcq-012",
+      "topic": "Comparative Politics",
+      "question": "What is the primary protection provided by the Fourth Amendment to the U.S. Constitution?",
+      "options": ["Protection against unreasonable searches and seizures", "Protection against cruel and unusual punishments", "Protection against deprivation of due process", "Protection of the right to keep and bear arms"],
+      "answerIndex": 0,
+      "explanation": "The Fourth Amendment protects people against unreasonable searches and seizures and sets warrant requirements.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "pol-mcq-013",
+      "topic": "Comparative Politics",
+      "question": "Who was South Africa's first Black president?",
+      "options": ["Nelson Mandela", "Mangosuthu Buthelezi", "Steve Biko", "Desmond Tutu"],
+      "answerIndex": 0,
+      "explanation": "Nelson Mandela became South Africa's first democratically elected Black president after the 1994 elections.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pol-mcq-014",
+      "topic": "Comparative Politics",
+      "question": "Which United Nations principal organ suspended its operations in 1994?",
+      "options": ["Trusteeship Council", "Secretariat", "General Assembly", "Economic and Social Council"],
+      "answerIndex": 0,
+      "explanation": "The Trusteeship Council suspended operations on 1 November 1994 after Palau, the final UN trust territory, became independent.",
+      "difficulty": "medium"
     }
   ]
 }
