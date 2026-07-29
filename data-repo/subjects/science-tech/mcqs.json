@@ -261,6 +261,15 @@
       "answerIndex": 2,
       "explanation": "IPCC AR6 concludes that human influence has unequivocally warmed the atmosphere, ocean, and land since pre-industrial times.",
       "difficulty": "medium"
+    },
+    {
+      "id": "sci-mcq-025",
+      "topic": "Vision Science",
+      "question": "Which structure works with the cornea to focus incoming light on the retina?",
+      "options": ["Lens", "Iris", "Macula", "Optic nerve"],
+      "answerIndex": 0,
+      "explanation": "The lens and cornea work together to focus light correctly on the retina.",
+      "difficulty": "easy"
     }
   ]
 }

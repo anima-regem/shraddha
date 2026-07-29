@@ -1,0 +1,37 @@
+{
+  "subjectId": "science-tech",
+  "questions": [
+    {
+      "id": "sci-mcq-026",
+      "topic": "Vision Science",
+      "question": "Which coloured structure regulates how much light enters the eye through the pupil?",
+      "options": ["Lens", "Iris", "Cornea", "Retina"],
+      "answerIndex": 1,
+      "explanation": "The iris controls the size of the pupil and thereby regulates how much light enters the eye.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "sci-mcq-027",
+      "topic": "Vision Science",
+      "question": "Why does the eye have a physiological blind spot?",
+      "options": [
+        "The cornea has no blood vessels",
+        "The lens blocks part of the retina",
+        "The optic disc has no photoreceptors",
+        "The iris absorbs all peripheral light"
+      ],
+      "answerIndex": 2,
+      "explanation": "At the optic disc, retinal ganglion-cell axons leave the eye to form the optic nerve; the region has no photoreceptors and produces the blind spot.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sci-mcq-028",
+      "topic": "Vision Science",
+      "question": "Which wavelength range most closely corresponds to visible light for human vision?",
+      "options": ["100-300 nm", "400-700 nm", "800-1,100 nm", "1,500-2,000 nm"],
+      "answerIndex": 1,
+      "explanation": "Visible light is commonly described as spanning approximately 400 to 700 nanometres.",
+      "difficulty": "medium"
+    }
+  ]
+}

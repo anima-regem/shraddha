@@ -59,3 +59,13 @@
 - Retrieved: 2026-07-30
 - Answer evidence: `sci-mcq-023` — <https://science.nasa.gov/earth/climate-change/global-warming/>; `sci-mcq-024` — <https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-3/>.
 - Covered content: `subjects/science-tech/mcqs.json` — `sci-mcq-023` through `sci-mcq-024`
+
+## 2026-07-30 — Visual system trivia quiz batch
+
+- Rights holder: Kellyanne Findlay
+- Source: <https://figshare.edgehill.ac.uk/articles/educational_resource/Visual_system_trivia_quiz_/24006297/1>; source workbook: <https://ndownloader.figshare.com/files/42099606>; DOI: <https://doi.org/10.25416/NTR.24006297.v1>
+- Reuse basis: Kellyanne Findlay's 100-question educational resource is released under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/), as shown on the repository record.
+- Attribution: Adapted from "Visual system trivia quiz!" by Kellyanne Findlay, CC BY 4.0.
+- Retrieved: 2026-07-30
+- Answer evidence: `sci-mcq-025` and `sci-mcq-026` — <https://www.nei.nih.gov/eye-health-information/healthy-vision/how-eyes-work>; `sci-mcq-027` — <https://www.ncbi.nlm.nih.gov/books/NBK11145/>; `sci-mcq-028` — <https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8252.pdf>.
+- Covered content: `subjects/science-tech/mcqs.json` — `sci-mcq-025`; `subjects/science-tech/mcqs-002.json` — `sci-mcq-026` through `sci-mcq-028`
