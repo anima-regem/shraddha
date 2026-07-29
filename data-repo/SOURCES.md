@@ -310,3 +310,13 @@
 - Answer evidence: `sci-mcq-048` — [NASA Technical Reports Server, NASA/TM-2014-217500](https://ntrs.nasa.gov/api/citations/20140003185/downloads/20140003185.pdf); `sci-mcq-049` — [U.S. Department of Energy, Hydrogen Properties](https://www.energy.gov/sites/default/files/2014/03/f12/fcm01r0.pdf).
 - Duplicate decision: the source response's Venus item was excluded because `subjects/science-tech/mcqs.json` already contains an equivalent question as `sci-mcq-017`.
 - Covered content: `subjects/science-tech/mcqs-002.json` — `sci-mcq-048` through `sci-mcq-049`
+
+## 2026-07-30 — NOAA JetStream Derechos review batch
+
+- Rights holder: National Oceanic and Atmospheric Administration (NOAA), National Weather Service Southern Region JetStream.
+- Source: [Derechos - Review Questions](https://www.noaa.gov/sites/default/files/2023-02/derecho_quiz.pdf).
+- Reuse basis: JetStream states, "You are free to use the materials in any manner you wish." See [JetStream](https://prod-01-alb-www-noaa.woc.noaa.gov/jetstream). The source identifies itself as National Weather Service Southern Region JetStream material.
+- Attribution: Adapted from "Derechos - Review Questions" by NOAA National Weather Service Southern Region JetStream. Credit NOAA.
+- Retrieved: 2026-07-30
+- Answer evidence: `geo-mcq-045` and `geo-mcq-046` — [National Weather Service Albany, Thunderstorms: Derechos](https://www.weather.gov/media/aly/FactSheets/Thunderstorms.pdf); `geo-mcq-047` — [NOAA NESDIS, What Is a Gust Front?](https://www.nesdis.noaa.gov/about/k-12-education/severe-weather/what-gust-front); `geo-mcq-048` — [NOAA JetStream, Bow Echoes](https://prod-01-alb-www-noaa.woc.noaa.gov/jetstream/derechos/bow-echoes).
+- Covered content: `subjects/geography/mcqs.json` — `geo-mcq-045` through `geo-mcq-048`

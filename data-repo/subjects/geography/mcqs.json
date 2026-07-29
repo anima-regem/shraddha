@@ -511,6 +511,62 @@
       "answerIndex": 0,
       "explanation": "Four Corners Monument is the single point where the borders of Utah, Colorado, New Mexico, and Arizona meet.",
       "difficulty": "medium"
+    },
+    {
+      "id": "geo-mcq-045",
+      "topic": "Physical Geography",
+      "question": "The Spanish term \"derecho\" translates most nearly to which phrase?",
+      "options": [
+        "Direct or straight ahead",
+        "Circular or curved",
+        "Cold wind",
+        "Heavy rainfall"
+      ],
+      "answerIndex": 0,
+      "explanation": "The term derecho comes from Spanish for \"direct\" or \"straight ahead\" and describes a long-lived, damaging straight-line windstorm.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "geo-mcq-046",
+      "topic": "Physical Geography",
+      "question": "What is a downburst cluster composed of?",
+      "options": [
+        "Several downbursts",
+        "Several supercells",
+        "Several fronts",
+        "Several tornadoes"
+      ],
+      "answerIndex": 0,
+      "explanation": "A downburst cluster is composed of several downbursts, each produced by a strong convective downdraft that spreads out near the ground.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "geo-mcq-047",
+      "topic": "Physical Geography",
+      "question": "What is the boundary between rain-cooled downdraft air and warm, moist air called?",
+      "options": [
+        "Gust front",
+        "Warm front",
+        "Jet stream",
+        "Tropopause"
+      ],
+      "answerIndex": 0,
+      "explanation": "As rain-cooled air spreads outward from a thunderstorm, its boundary with warm, moist air is called a gust front.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "geo-mcq-048",
+      "topic": "Physical Geography",
+      "question": "A bow echo or series of bow echoes is classified as a derecho after progressing more than which distance with widespread wind gusts of at least 58 mph?",
+      "options": [
+        "250 miles",
+        "25 miles",
+        "100 miles",
+        "500 miles"
+      ],
+      "answerIndex": 0,
+      "explanation": "NOAA JetStream classifies a bow echo or series of bow echoes as a derecho when it progresses more than 250 miles with widespread gusts of at least 58 mph.",
+      "difficulty": "hard"
     }
   ]
 }
