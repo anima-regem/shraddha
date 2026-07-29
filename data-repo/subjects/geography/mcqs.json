@@ -178,6 +178,33 @@
       "answerIndex": 0,
       "explanation": "The Suez Canal crosses Egypt's Isthmus of Suez to connect the Mediterranean Sea with the Red Sea.",
       "difficulty": "easy"
+    },
+    {
+      "id": "geo-mcq-018",
+      "topic": "World Geography",
+      "question": "The Sonoran Desert is located on which continent?",
+      "options": ["North America", "South America", "Asia", "Africa"],
+      "answerIndex": 0,
+      "explanation": "The Sonoran Desert covers parts of the southwestern United States and northwestern Mexico, making it a North American desert.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "geo-mcq-019",
+      "topic": "World Geography",
+      "question": "Which European language is generally classified as a language isolate?",
+      "options": ["Basque", "Galician", "Maltese", "Hungarian"],
+      "answerIndex": 0,
+      "explanation": "Basque is not part of the Indo-European family and is generally considered a language isolate, with no demonstrated genetic relationship to another known language.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "geo-mcq-020",
+      "topic": "World Geography",
+      "question": "How many provinces are there in the Netherlands?",
+      "options": ["12", "14", "10", "13"],
+      "answerIndex": 0,
+      "explanation": "The Netherlands is divided into 12 provinces, each with a provincial council and executive.",
+      "difficulty": "medium"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 10,
+  "contentVersion": 11,
   "updatedAt": "2026-07-30",
   "subjects": [
     { "id": "polity", "path": "subjects/polity" },
