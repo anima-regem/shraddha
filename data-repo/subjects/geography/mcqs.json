@@ -479,6 +479,15 @@
       "answerIndex": 1,
       "explanation": "The mature stage contains strong updrafts and downdrafts and is the most dangerous stage, when large hail, damaging winds, tornadoes, and flash flooding may occur.",
       "difficulty": "medium"
+    },
+    {
+      "id": "geo-mcq-042",
+      "topic": "Physical Geography",
+      "question": "In an undeformed sequence of sedimentary strata, which layer is the oldest?",
+      "options": ["The top layer", "The middle layer", "The bottom layer", "All layers are the same age"],
+      "answerIndex": 2,
+      "explanation": "The principle of superposition states that, in a sequence of layered beds, the lowest bed is the oldest and progressively younger beds lie above it.",
+      "difficulty": "medium"
     }
   ]
 }

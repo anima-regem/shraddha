@@ -269,3 +269,13 @@
 - Retrieved: 2026-07-30
 - Answer evidence: `his-mcq-031` — [Karl Marx and Friedrich Engels, *Manifesto of the Communist Party*](https://en.wikisource.org/wiki/The_Communist_Manifesto), which identifies the history of mankind as a history of class struggles.
 - Covered content: `subjects/history/mcqs.json` — `his-mcq-031`
+
+## 2026-07-30 — Wikibooks Regents Earth Science sample-question batch
+
+- Rights holder: Wikibooks contributors; contributor attribution is available in the [page history](https://en.wikibooks.org/w/index.php?title=Regents_Earth_Science_(High_School)&action=history).
+- Source: [Regents Earth Science (High School), permanent revision 3837186](https://en.wikibooks.org/w/index.php?title=Regents_Earth_Science_(High_School)&oldid=3837186).
+- Reuse basis: Wikibooks text is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); its [copyright policy](https://en.wikibooks.org/wiki/Wikibooks:Copyrights) permits copying, modifying, and redistributing text with attribution, a license notice, and the same terms.
+- Attribution: Adapted from "Regents Earth Science (High School)" by Wikibooks contributors, CC BY-SA 4.0. The adapted item in this batch is made available under CC BY-SA 4.0.
+- Retrieved: 2026-07-30
+- Answer evidence: `geo-mcq-042` — [National Park Service, Geologic Principles—Superposition and Original Horizontality](https://www.nps.gov/articles/geologic-principles-superposition-and-original-horizontality.htm).
+- Covered content: `subjects/geography/mcqs.json` — `geo-mcq-042`
