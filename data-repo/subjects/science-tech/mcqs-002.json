@@ -32,6 +32,24 @@
       "answerIndex": 1,
       "explanation": "Visible light is commonly described as spanning approximately 400 to 700 nanometres.",
       "difficulty": "medium"
+    },
+    {
+      "id": "sci-mcq-029",
+      "topic": "IT & Communication",
+      "question": "Outlook is an email and calendar product of which company?",
+      "options": ["Microsoft", "Google", "Apple", "Yahoo"],
+      "answerIndex": 0,
+      "explanation": "Microsoft's product support lists Outlook among its products and apps.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "sci-mcq-030",
+      "topic": "Basic Science",
+      "question": "Which organ produces bile, a digestive juice that helps digest fats?",
+      "options": ["Liver", "Gallbladder", "Pancreas", "Stomach"],
+      "answerIndex": 0,
+      "explanation": "The liver produces bile; the gallbladder stores it until it is needed for digestion.",
+      "difficulty": "easy"
     }
   ]
 }

@@ -169,6 +169,15 @@
       "answerIndex": 0,
       "explanation": "Mexico shares land borders with the United States, Guatemala, and Belize.",
       "difficulty": "easy"
+    },
+    {
+      "id": "geo-mcq-017",
+      "topic": "World Geography",
+      "question": "Which two seas are connected by the Suez Canal?",
+      "options": ["Mediterranean Sea and Red Sea", "Black Sea and Caspian Sea", "Arabian Sea and Persian Gulf", "Red Sea and Arabian Sea"],
+      "answerIndex": 0,
+      "explanation": "The Suez Canal crosses Egypt's Isthmus of Suez to connect the Mediterranean Sea with the Red Sea.",
+      "difficulty": "easy"
     }
   ]
 }

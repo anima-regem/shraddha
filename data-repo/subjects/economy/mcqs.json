@@ -120,6 +120,15 @@
       "answerIndex": 2,
       "explanation": "The RBI acts as lender of last resort, providing emergency liquidity to solvent but illiquid banks to preserve financial stability.",
       "difficulty": "easy"
+    },
+    {
+      "id": "eco-mcq-011",
+      "topic": "Agriculture & Industry",
+      "question": "El Teniente in Chile is the world's largest underground deposit of which metal?",
+      "options": ["Copper", "Iron", "Nickel", "Silver"],
+      "answerIndex": 0,
+      "explanation": "Codelco describes El Teniente, in Chile's O'Higgins Region, as the largest underground copper deposit on the planet.",
+      "difficulty": "medium"
     }
   ]
 }

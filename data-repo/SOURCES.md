@@ -69,3 +69,13 @@
 - Retrieved: 2026-07-30
 - Answer evidence: `sci-mcq-025` and `sci-mcq-026` — <https://www.nei.nih.gov/eye-health-information/healthy-vision/how-eyes-work>; `sci-mcq-027` — <https://www.ncbi.nlm.nih.gov/books/NBK11145/>; `sci-mcq-028` — <https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8252.pdf>.
 - Covered content: `subjects/science-tech/mcqs.json` — `sci-mcq-025`; `subjects/science-tech/mcqs-002.json` — `sci-mcq-026` through `sci-mcq-028`
+
+## 2026-07-30 — Open Trivia DB General Knowledge API batch
+
+- Rights holder: PIXELTAIL GAMES LLC (Open Trivia DB)
+- Source: <https://opentdb.com/api.php?amount=10&category=9&type=multiple&encode=url3986>
+- Reuse basis: Open Trivia DB states that all API data is available under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://opentdb.com/api_config.php). The license terms are at <https://creativecommons.org/licenses/by-sa/4.0/>.
+- Attribution: Adapted from Open Trivia DB, PIXELTAIL GAMES LLC, CC BY-SA 4.0. The adapted items in this batch are made available under CC BY-SA 4.0.
+- Retrieved: 2026-07-30
+- Answer evidence: `geo-mcq-017` — <https://www.suezcanal.gov.eg/English/About/SuezCanal/Pages/AboutSuezCanal.aspx>; `eco-mcq-011` — <https://www.codelco.com/en>; `sci-mcq-029` — <https://support.microsoft.com/en-us/all-products>; `sci-mcq-030` — <https://www.niddk.nih.gov/health-information/digestive-diseases/gallstones/definition-facts>.
+- Covered content: `subjects/geography/mcqs.json` — `geo-mcq-017`; `subjects/economy/mcqs.json` — `eco-mcq-011`; `subjects/science-tech/mcqs-002.json` — `sci-mcq-029` through `sci-mcq-030`
