@@ -3,6 +3,9 @@
         android:label="Shraddha"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-7103481995341644~6531764656" />
         <activity
             android:name=".MainActivity"
             android:exported="true"

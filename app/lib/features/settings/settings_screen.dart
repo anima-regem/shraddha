@@ -3,9 +3,12 @@ import 'package:flutter_animate/flutter_animate.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:intl/intl.dart';
 
+import '../../core/app_links.dart';
 import '../../core/haptics.dart';
 import '../../core/theme.dart';
 import '../../data/providers.dart';
+import '../ads/watch_ads_screen.dart';
+import '../../ui/aurora_route.dart';
 import '../../ui/glass_button.dart';
 import '../../ui/glass_dialog.dart';
 import '../../ui/glass_field.dart';
@@ -85,9 +88,10 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
     return ListView(
       padding: const EdgeInsets.fromLTRB(20, 18, 20, 120),
       children: [
-        Text('Settings', style: Theme.of(context).textTheme.headlineLarge)
-            .animate()
-            .fadeIn(duration: 300.ms),
+        Text(
+          'Settings',
+          style: Theme.of(context).textTheme.headlineLarge,
+        ).animate().fadeIn(duration: 300.ms),
         const SizedBox(height: 20),
         _Section(
           title: 'Content repository',
@@ -194,6 +198,50 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
         ).animate().fadeIn(delay: 220.ms).slideY(begin: 0.1, end: 0),
         const SizedBox(height: 14),
         _Section(
+          title: 'Support Shraddha',
+          icon: Icons.volunteer_activism_rounded,
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Text(
+                'Support the project in the way that suits you. Ads are '
+                'optional and never appear while you study.',
+                style: Theme.of(context).textTheme.bodySmall,
+              ),
+              const SizedBox(height: 12),
+              GlassButton(
+                expand: true,
+                variant: GlassButtonVariant.glass,
+                icon: Icons.code_rounded,
+                label: 'View source code',
+                onPressed: () => _openLink(AppLinks.sourceCode),
+              ),
+              const SizedBox(height: 10),
+              GlassButton(
+                expand: true,
+                variant: GlassButtonVariant.glass,
+                icon: Icons.coffee_rounded,
+                label: 'Buy me a coffee',
+                onPressed: () => _openLink(AppLinks.buyMeACoffee),
+              ),
+              const SizedBox(height: 10),
+              GlassButton(
+                expand: true,
+                variant: GlassButtonVariant.glass,
+                icon: Icons.ondemand_video_rounded,
+                label: 'Watch optional ads',
+                onPressed: () {
+                  Haptics.light();
+                  Navigator.of(
+                    context,
+                  ).push(auroraRoute(const WatchAdsScreen()));
+                },
+              ),
+            ],
+          ),
+        ).animate().fadeIn(delay: 290.ms).slideY(begin: 0.1, end: 0),
+        const SizedBox(height: 14),
+        _Section(
           title: 'Danger zone',
           icon: Icons.warning_amber_rounded,
           child: GlassButton(
@@ -203,19 +251,31 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
             label: 'Reset all progress',
             onPressed: () => _confirmReset(context),
           ),
-        ).animate().fadeIn(delay: 290.ms).slideY(begin: 0.1, end: 0),
+        ).animate().fadeIn(delay: 360.ms).slideY(begin: 0.1, end: 0),
         const SizedBox(height: 24),
         Center(
           child: Text(
             'Shraddha · Made for the journey to LBSNAA 🏔️',
-            style: Theme.of(context)
-                .textTheme
-                .bodySmall
-                ?.copyWith(color: tokens.textSecondary),
+            style: Theme.of(
+              context,
+            ).textTheme.bodySmall?.copyWith(color: tokens.textSecondary),
           ),
-        ).animate().fadeIn(delay: 400.ms),
+        ).animate().fadeIn(delay: 470.ms),
       ],
     );
+  }
+
+  Future<void> _openLink(Uri uri) async {
+    Haptics.light();
+    final opened = await AppLinks.open(uri);
+    if (!opened && mounted) {
+      showGlassToast(
+        context,
+        'Could not open that link.',
+        icon: Icons.open_in_new_rounded,
+        color: AppColors.error,
+      );
+    }
   }
 
   void _confirmReset(BuildContext context) {

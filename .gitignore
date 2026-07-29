@@ -14,6 +14,7 @@
 
 # Android local state and release signing material
 **/.gradle/
+**/.kotlin/
 **/local.properties
 **/key.properties
 **/*.jks
