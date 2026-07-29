@@ -129,6 +129,34 @@
       "answerIndex": 0,
       "explanation": "Codelco describes El Teniente, in Chile's O'Higgins Region, as the largest underground copper deposit on the planet.",
       "difficulty": "medium"
+    },
+    {
+      "id": "eco-mcq-012",
+      "topic": "Economic Fundamentals",
+      "question": "Which statement best defines economic scarcity?",
+      "options": [
+        "Human wants exceed the resources available to satisfy them",
+        "All goods are sold at high prices",
+        "Governments restrict the supply of every good",
+        "Consumers never face tradeoffs"
+      ],
+      "answerIndex": 0,
+      "explanation": "Scarcity arises because people have more wants than can be met with the resources available, so choices involve tradeoffs.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "eco-mcq-013",
+      "topic": "Economic Fundamentals",
+      "question": "A worker can earn Rs. 20 per hour but chooses four hours of leisure instead. What is the opportunity cost measured as foregone income?",
+      "options": [
+        "Rs. 20",
+        "Rs. 40",
+        "Rs. 80",
+        "Rs. 100"
+      ],
+      "answerIndex": 2,
+      "explanation": "The foregone income is 4 hours multiplied by Rs. 20 per hour, which equals Rs. 80.",
+      "difficulty": "easy"
     }
   ]
 }

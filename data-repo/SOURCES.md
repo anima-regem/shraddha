@@ -330,3 +330,13 @@
 - Retrieved: 2026-07-30
 - Answer evidence: `geo-mcq-049` through `geo-mcq-052` — [National Weather Service Southern Region, Forecasting Answer Key](https://www.weather.gov/media/shv/education_resource_library/forecasting/Forecasting_AnswerKey.pdf); supplementary evidence for `geo-mcq-050` and `geo-mcq-051` — [NOAA JetStream, Ten Basic Clouds](https://prod-01-alb-www-noaa.woc.noaa.gov/jetstream/clouds/ten-basic-clouds); supplementary evidence for `geo-mcq-052` — [National Weather Service Glossary, Wind Direction](https://forecast.weather.gov/glossary.php?word=WIND+DIRECTION).
 - Covered content: `subjects/geography/mcqs.json` — `geo-mcq-049` through `geo-mcq-052`
+
+## 2026-07-30 — Wikibooks Principles of Economics scarcity exercise batch
+
+- Rights holder: Wikibooks contributors; contributor attribution is available in the [page history](https://en.wikibooks.org/w/index.php?title=Principles_of_Economics/Scarcity&action=history).
+- Source: [Principles of Economics/Scarcity, permanent revision 4530498](https://en.wikibooks.org/w/index.php?title=Principles_of_Economics/Scarcity&oldid=4530498).
+- Reuse basis: Wikibooks text is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); its [copyright policy](https://en.wikibooks.org/wiki/Wikibooks:Copyrights) permits copying, modifying, and redistributing text with attribution, a license notice, and the same terms.
+- Attribution: Adapted from "Principles of Economics/Scarcity" by Wikibooks contributors, CC BY-SA 4.0. The adapted items in this batch are made available under CC BY-SA 4.0.
+- Retrieved: 2026-07-30
+- Answer evidence: `eco-mcq-012` and `eco-mcq-013` — [Federal Reserve Bank of St. Louis, Money and Missed Opportunities](https://www.stlouisfed.org/publications/page-one-economics/2019/10/01/money-and-missed-opportunities), which defines scarcity and opportunity cost; `eco-mcq-013` additionally follows directly from the stated 4-hour by Rs. 20-per-hour calculation.
+- Covered content: `subjects/economy/mcqs.json` — `eco-mcq-012` through `eco-mcq-013`
