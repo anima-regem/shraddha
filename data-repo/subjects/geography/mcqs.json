@@ -241,6 +241,48 @@
       "answerIndex": 0,
       "explanation": "Lake Baikal in south-east Siberia is the world's deepest lake, reaching about 1,700 metres.",
       "difficulty": "medium"
+    },
+    {
+      "id": "geo-mcq-025",
+      "topic": "Physical Geography",
+      "question": "The top surface layer of the ocean, called the epipelagic zone, is also known as which zone, and to what approximate depth does it extend?",
+      "options": [
+        "Sunlight zone; 2,000 metres",
+        "Sunlight zone; 200 metres",
+        "Sunshine zone; 200 metres",
+        "Sunshine zone; 20 metres"
+      ],
+      "answerIndex": 1,
+      "explanation": "NOAA describes the epipelagic top surface layer as the sunlight zone. Its ocean-light guidance places the sunlight zone in the upper 200 metres.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "geo-mcq-026",
+      "topic": "Physical Geography",
+      "question": "In the context of wind-generated waves, what does the term 'fetch' mean?",
+      "options": [
+        "The uninterrupted distance over which wind blows in one direction",
+        "The vertical distance from a wave crest to its trough",
+        "The time interval between successive wave crests",
+        "The depth at which a wave begins to break"
+      ],
+      "answerIndex": 0,
+      "explanation": "Fetch is the uninterrupted distance over water across which wind blows in a single direction; together with wind speed and duration, it affects wave height.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "geo-mcq-027",
+      "topic": "Physical Geography",
+      "question": "When the Sun and Moon are at right angles relative to Earth, which type of tide occurs?",
+      "options": [
+        "Ebb tide",
+        "Neap tide",
+        "Spring tide",
+        "Flood tide"
+      ],
+      "answerIndex": 1,
+      "explanation": "At right angles, the solar tide partly cancels the lunar tide, producing a neap tide with a more moderate tidal range.",
+      "difficulty": "easy"
     }
   ]
 }
