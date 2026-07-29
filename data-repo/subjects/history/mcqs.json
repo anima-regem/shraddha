@@ -186,6 +186,42 @@
       "answerIndex": 0,
       "explanation": "The bombing of the Basque town of Gernika took place during the Spanish Civil War and inspired Picasso's Guernica.",
       "difficulty": "medium"
+    },
+    {
+      "id": "his-mcq-020",
+      "topic": "World History",
+      "question": "In what year did the Berlin Wall fall?",
+      "options": ["1989", "1987", "1991", "1993"],
+      "answerIndex": 0,
+      "explanation": "The Berlin Wall fell on 9 November 1989; German reunification followed in 1990.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "his-mcq-021",
+      "topic": "World History",
+      "question": "Which ship carried the Pilgrims across the Atlantic in 1620?",
+      "options": ["Mayflower", "Santa Maria", "Endeavour", "Beagle"],
+      "answerIndex": 0,
+      "explanation": "The Mayflower left for America in 1620 and brought the Pilgrims to Cape Cod.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "his-mcq-022",
+      "topic": "World History",
+      "question": "Which treaty was signed at Versailles on 28 June 1919 between the Allied and Associated Powers and Germany?",
+      "options": ["Treaty of Versailles", "Treaty of Paris", "Treaty of Utrecht", "Treaty of Tordesillas"],
+      "answerIndex": 0,
+      "explanation": "The Treaty of Versailles was signed by the Allied and Associated Powers and Germany at Versailles on 28 June 1919.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "his-mcq-023",
+      "topic": "World History",
+      "question": "In what year did the First World War begin?",
+      "options": ["1914", "1912", "1916", "1918"],
+      "answerIndex": 0,
+      "explanation": "The war began in 1914 after Austria-Hungary declared war on Serbia on 28 July, followed by German declarations in August.",
+      "difficulty": "easy"
     }
   ]
 }
