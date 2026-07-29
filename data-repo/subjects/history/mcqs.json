@@ -272,6 +272,24 @@
       "answerIndex": 0,
       "explanation": "Stalin's First Five-Year Plan sought to transform largely individual farms into large state collective farms through collectivization.",
       "difficulty": "medium"
+    },
+    {
+      "id": "his-mcq-029",
+      "topic": "World History",
+      "question": "At the Battle of Hastings, what defensive formation did Harold's army form on the hilltop?",
+      "options": ["Shield wall", "Cavalry square", "Testudo", "Phalanx"],
+      "answerIndex": 0,
+      "explanation": "The English formed a shield wall, locking shields together on the hilltop to resist the Norman attack.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "his-mcq-030",
+      "topic": "World History",
+      "question": "Which tactic did the Normans use at the Battle of Hastings to draw English troops away from the shield wall?",
+      "options": ["Feigned retreats", "Siege towers", "Flooding trenches", "A naval blockade"],
+      "answerIndex": 0,
+      "explanation": "The Normans pretended to flee, encouraging some English soldiers to break ranks and pursue before Norman cavalry counter-attacked.",
+      "difficulty": "medium"
     }
   ]
 }

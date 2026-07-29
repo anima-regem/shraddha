@@ -199,3 +199,13 @@
 - Retrieved: 2026-07-30
 - Answer evidence: `his-mcq-028` — [Library of Congress, Internal Workings of the Soviet Union](https://www.loc.gov/exhibits/archives/intn.html).
 - Covered content: `subjects/history/mcqs.json` — `his-mcq-028`
+
+## 2026-07-30 — Wikibooks Norman England quiz batch
+
+- Rights holder: Wikibooks contributors; contributor attribution is available in the [page history](https://en.wikibooks.org/w/index.php?title=9-1_History/Norman_England&action=history).
+- Source: [9-1 History/Norman England, permanent revision 4533061](https://en.wikibooks.org/w/index.php?title=9-1_History/Norman_England&oldid=4533061).
+- Reuse basis: Wikibooks states that its text is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/) and may be copied, modified, and redistributed with attribution and the same terms; see [Wikibooks:Copyrights](https://en.wikibooks.org/wiki/Wikibooks:Copyrights).
+- Attribution: Adapted from "9-1 History/Norman England" by Wikibooks contributors, CC BY-SA 4.0. The adapted items in this batch are made available under CC BY-SA 4.0.
+- Retrieved: 2026-07-30
+- Answer evidence: `his-mcq-029` and `his-mcq-030` — [Oak National Academy, The Battle of Hastings](https://www.thenational.academy/pupils/lessons/the-battle-of-hastings/video).
+- Covered content: `subjects/history/mcqs.json` — `his-mcq-029` through `his-mcq-030`
