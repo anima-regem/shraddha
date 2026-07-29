@@ -222,6 +222,42 @@
       "answerIndex": 0,
       "explanation": "The war began in 1914 after Austria-Hungary declared war on Serbia on 28 July, followed by German declarations in August.",
       "difficulty": "easy"
+    },
+    {
+      "id": "his-mcq-024",
+      "topic": "Art & Culture",
+      "question": "In Greek mythology, Poseidon was the god of which realm?",
+      "options": ["The sea", "The sky", "The underworld", "The harvest"],
+      "answerIndex": 0,
+      "explanation": "Poseidon was the Greek god of the sea and was commonly identified by his trident.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "his-mcq-025",
+      "topic": "Art & Culture",
+      "question": "Which Greek god is associated with wine?",
+      "options": ["Dionysus", "Apollo", "Ares", "Hephaestus"],
+      "answerIndex": 0,
+      "explanation": "Dionysus was the Greek god of wine and was honoured through festivals that also featured theatre.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "his-mcq-026",
+      "topic": "Art & Culture",
+      "question": "Which figure from Greek mythology descended to the Underworld to recover Eurydice?",
+      "options": ["Orpheus", "Perseus", "Theseus", "Daedalus"],
+      "answerIndex": 0,
+      "explanation": "Orpheus descended to the Underworld to recover his wife Eurydice and persuaded its rulers to restore her to life.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "his-mcq-027",
+      "topic": "Art & Culture",
+      "question": "In Greek religion, who was Zeus's sister-wife and queen of the Olympian gods?",
+      "options": ["Hera", "Athena", "Aphrodite", "Hestia"],
+      "answerIndex": 0,
+      "explanation": "Hera was Zeus's sister-wife and the queen of the Olympian gods; the Romans identified her with Juno.",
+      "difficulty": "medium"
     }
   ]
 }
