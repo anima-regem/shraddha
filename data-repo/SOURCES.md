@@ -239,3 +239,13 @@
 - Retrieved: 2026-07-30
 - Answer evidence: `geo-mcq-032` and `geo-mcq-033` — [NOAA NESDIS, Changing of the Seasons](https://www.nesdis.noaa.gov/our-environment/solar-phenomena/changing-of-the-seasons); `geo-mcq-034` — [National Weather Service, The Seasons (Equinoxes and Solstices)](https://www.weather.gov/dvn/Climate_Astronomical_Seasons); `geo-mcq-035` — [NOAA JetStream, Global Atmospheric Circulations](https://www.noaa.gov/jetstream/global/global-atmospheric-circulations).
 - Covered content: `subjects/geography/mcqs.json` — `geo-mcq-032` through `geo-mcq-035`
+
+## 2026-07-30 — NOAA JetStream Tropical Weather review batch
+
+- Rights holder: National Oceanic and Atmospheric Administration (NOAA), National Weather Service JetStream.
+- Source: [Tropical Weather - Review Questions](https://www.noaa.gov/sites/default/files/2023-02/tropics_quiz.pdf).
+- Reuse basis: JetStream states: "You are free to use the materials in any manner you wish." See [JetStream](https://www.noaa.gov/jetstream). The source identifies itself as National Weather Service Southern Region JetStream material.
+- Attribution: Adapted from "Tropical Weather - Review Questions" by NOAA National Weather Service JetStream. Credit NOAA.
+- Retrieved: 2026-07-30
+- Answer evidence: `geo-mcq-036` — [National Hurricane Center, Coastal Watches and Warnings](https://www.nhc.noaa.gov/mobile/watchwarn_help.html); `geo-mcq-037` — [National Hurricane Center Glossary](https://www.nhc.noaa.gov/aboutgloss.shtml).
+- Covered content: `subjects/geography/mcqs.json` — `geo-mcq-036` through `geo-mcq-037`

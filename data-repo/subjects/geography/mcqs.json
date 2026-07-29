@@ -395,6 +395,34 @@
       "answerIndex": 2,
       "explanation": "The Hadley cell is the low-latitude convection cell in which air rises near the equator, moves poleward aloft, and sinks in the subtropics.",
       "difficulty": "medium"
+    },
+    {
+      "id": "geo-mcq-036",
+      "topic": "Physical Geography",
+      "question": "What maximum sustained wind-speed range defines a tropical storm?",
+      "options": [
+        "Less than 39 mph",
+        "39-73 mph",
+        "74-110 mph",
+        "111 mph or greater"
+      ],
+      "answerIndex": 1,
+      "explanation": "The National Hurricane Center defines tropical-storm-force winds as one-minute average winds of 39-73 mph.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "geo-mcq-037",
+      "topic": "Physical Geography",
+      "question": "A major hurricane is classified as which category on the Saffir-Simpson Hurricane Wind Scale?",
+      "options": [
+        "Category 1 only",
+        "Category 2 or higher",
+        "Category 3 or higher",
+        "Category 5 only"
+      ],
+      "answerIndex": 2,
+      "explanation": "A major hurricane is a Category 3, 4, or 5 hurricane on the Saffir-Simpson Hurricane Wind Scale.",
+      "difficulty": "easy"
     }
   ]
 }
