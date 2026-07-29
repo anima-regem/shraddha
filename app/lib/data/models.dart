@@ -18,12 +18,15 @@ class SubjectMeta {
   });
 
   factory SubjectMeta.fromJson(Map<String, dynamic> json) => SubjectMeta(
-        id: json['id'] as String,
-        name: json['name'] as String,
-        icon: json['icon'] as String? ?? 'menu_book',
-        colorHex: json['color'] as String? ?? '#7C4DFF',
-        topics: (json['topics'] as List? ?? []).cast<String>(),
-      );
+    id: json['id'] as String,
+    name: json['name'] as String,
+    icon: json['icon'] as String? ?? 'menu_book',
+    colorHex: json['color'] as String? ?? '#7C4DFF',
+    topics: (json['topics'] as List? ?? []).cast<String>(),
+  );
+
+  factory SubjectMeta.fromJsonString(String source) =>
+      SubjectMeta.fromJson(jsonDecode(source) as Map<String, dynamic>);
 }
 
 class FlashcardItem {
@@ -91,6 +94,41 @@ class McqItem {
       );
 }
 
+/// Parses one flashcard shard. Shards may be placed anywhere beneath a
+/// manifest subject folder as long as their filename begins with `flashcards`.
+List<FlashcardItem> parseFlashcardsShard({
+  required String subjectId,
+  required String source,
+}) {
+  final json = jsonDecode(source) as Map<String, dynamic>;
+  final cards = json['cards'];
+  if (cards is! List) {
+    throw const FormatException('Flashcard shard must contain a cards array.');
+  }
+  return cards
+      .map(
+        (item) =>
+            FlashcardItem.fromJson(subjectId, item as Map<String, dynamic>),
+      )
+      .toList();
+}
+
+/// Parses one MCQ shard. Shards may be placed anywhere beneath a manifest
+/// subject folder as long as their filename begins with `mcqs`.
+List<McqItem> parseMcqsShard({
+  required String subjectId,
+  required String source,
+}) {
+  final json = jsonDecode(source) as Map<String, dynamic>;
+  final questions = json['questions'];
+  if (questions is! List) {
+    throw const FormatException('MCQ shard must contain a questions array.');
+  }
+  return questions
+      .map((item) => McqItem.fromJson(subjectId, item as Map<String, dynamic>))
+      .toList();
+}
+
 /// A fully parsed subject bundle (subject.json + flashcards.json + mcqs.json).
 class SubjectBundle {
   final SubjectMeta meta;
@@ -108,19 +146,14 @@ class SubjectBundle {
     required String flashcardsJson,
     required String mcqsJson,
   }) {
-    final meta =
-        SubjectMeta.fromJson(jsonDecode(subjectJson) as Map<String, dynamic>);
-    final fcMap = jsonDecode(flashcardsJson) as Map<String, dynamic>;
-    final mcqMap = jsonDecode(mcqsJson) as Map<String, dynamic>;
+    final meta = SubjectMeta.fromJsonString(subjectJson);
     return SubjectBundle(
       meta: meta,
-      flashcards: (fcMap['cards'] as List? ?? [])
-          .map((e) =>
-              FlashcardItem.fromJson(meta.id, e as Map<String, dynamic>))
-          .toList(),
-      mcqs: (mcqMap['questions'] as List? ?? [])
-          .map((e) => McqItem.fromJson(meta.id, e as Map<String, dynamic>))
-          .toList(),
+      flashcards: parseFlashcardsShard(
+        subjectId: meta.id,
+        source: flashcardsJson,
+      ),
+      mcqs: parseMcqsShard(subjectId: meta.id, source: mcqsJson),
     );
   }
 }
@@ -142,10 +175,12 @@ class ContentManifest {
       schemaVersion: json['schemaVersion'] as int? ?? 1,
       contentVersion: json['contentVersion'] as int? ?? 0,
       subjects: (json['subjects'] as List? ?? [])
-          .map((e) => (
-                id: (e as Map<String, dynamic>)['id'] as String,
-                path: e['path'] as String,
-              ))
+          .map(
+            (e) => (
+              id: (e as Map<String, dynamic>)['id'] as String,
+              path: e['path'] as String,
+            ),
+          )
           .toList(),
     );
   }

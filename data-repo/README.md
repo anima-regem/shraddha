@@ -14,12 +14,26 @@ subjects/<subject-id>/
     subject.json                 # name, icon, color (#hex), topics[]
     flashcards.json              # { subjectId, cards: [...] }
     mcqs.json                    # { subjectId, questions: [...] }
+    <any nested folder>/
+        flashcards-002.json      # { subjectId, cards: [...] }
+        mcqs-002.json            # { subjectId, questions: [...] }
 ```
+
+Shraddha recursively discovers files below each manifest subject folder in a
+public GitHub repository. Only JSON filenames beginning with `flashcards` or
+`mcqs` are imported; other JSON files are ignored. Keep `subject.json` at the
+subject root.
+
+Keep each content shard to roughly 100 cards or questions so it remains quick
+to download on weak connections. This is a recommendation, not an app limit:
+valid larger files still import. Every card and question ID must be globally
+unique; prefixing IDs with the subject is recommended.
 
 ## Adding content
 
-1. Add cards/questions to the relevant JSON files (keep `id` unique, prefix with subject).
-2. **Increment `contentVersion` in `manifest.json`** — the app only re-downloads when this changes.
+1. Add cards/questions to a `flashcards*.json` or `mcqs*.json` file anywhere
+   beneath the relevant subject. Split files at roughly 100 entries.
+2. **Increment `contentVersion` in `manifest.json`** — the app only re-downloads when this changes. A partial sync leaves the version incomplete and retries all shards next time.
 3. Commit and push. Tap **Sync now** in the app.
 
 ## Schemas

@@ -3,15 +3,27 @@ import 'package:shared_preferences/shared_preferences.dart';
 import 'content_source.dart';
 import 'repository.dart';
 
+typedef GithubContentSourceFactory = ContentSource Function(String baseUrl);
+
 class SyncResult {
   final bool updated;
   final int subjectCount;
+  final int shardCount;
+  final int flashcardCount;
+  final int mcqCount;
+  final int skippedFileCount;
+  final bool isPartial;
   final int contentVersion;
   final String message;
 
   const SyncResult({
     required this.updated,
     required this.subjectCount,
+    required this.shardCount,
+    required this.flashcardCount,
+    required this.mcqCount,
+    required this.skippedFileCount,
+    required this.isPartial,
     required this.contentVersion,
     required this.message,
   });
@@ -28,8 +40,14 @@ class SyncService {
 
   final ContentRepository repository;
   final SharedPreferences prefs;
+  final GithubContentSourceFactory _githubSourceFactory;
 
-  SyncService({required this.repository, required this.prefs});
+  SyncService({
+    required this.repository,
+    required this.prefs,
+    GithubContentSourceFactory? githubSourceFactory,
+  }) : _githubSourceFactory =
+           githubSourceFactory ?? ((baseUrl) => GithubContentSource(baseUrl));
 
   /// Uses Shraddha's published content source until a learner chooses another.
   String get repoUrl => prefs.getString(repoUrlKey) ?? defaultRepoUrl;
@@ -55,7 +73,10 @@ class SyncService {
     }
     final source = AssetContentSource();
     final manifest = await source.fetchManifest();
-    await repository.importFrom(source);
+    final report = await repository.importFrom(source, manifest: manifest);
+    if (!report.isComplete) {
+      throw StateError('Could not seed all bundled study content.');
+    }
     await prefs.setBool(seededKey, true);
     await prefs.setInt(contentVersionKey, manifest.contentVersion);
   }
@@ -68,31 +89,54 @@ class SyncService {
       return const SyncResult(
         updated: false,
         subjectCount: 0,
+        shardCount: 0,
+        flashcardCount: 0,
+        mcqCount: 0,
+        skippedFileCount: 0,
+        isPartial: false,
         contentVersion: 0,
         message: 'Could not understand the repository URL.',
       );
     }
 
-    final source = GithubContentSource(base);
+    final source = _githubSourceFactory(base);
     final manifest = await source.fetchManifest();
     if (!force && manifest.contentVersion == contentVersion) {
       await prefs.setString(lastSyncKey, DateTime.now().toIso8601String());
       return SyncResult(
         updated: false,
         subjectCount: manifest.subjects.length,
+        shardCount: 0,
+        flashcardCount: 0,
+        mcqCount: 0,
+        skippedFileCount: 0,
+        isPartial: false,
         contentVersion: manifest.contentVersion,
         message: 'Already up to date (v${manifest.contentVersion}).',
       );
     }
 
-    final count = await repository.importFrom(source);
-    await prefs.setInt(contentVersionKey, manifest.contentVersion);
+    final report = await repository.importFrom(source, manifest: manifest);
     await prefs.setString(lastSyncKey, DateTime.now().toIso8601String());
+    if (report.isComplete) {
+      await prefs.setInt(contentVersionKey, manifest.contentVersion);
+    }
+    final partial = !report.isComplete;
     return SyncResult(
-      updated: true,
-      subjectCount: count,
-      contentVersion: manifest.contentVersion,
-      message: 'Synced $count subjects (v${manifest.contentVersion}).',
+      updated: report.hasImportedContent,
+      subjectCount: report.subjectCount,
+      shardCount: report.shardCount,
+      flashcardCount: report.flashcardCount,
+      mcqCount: report.mcqCount,
+      skippedFileCount: report.failures.length,
+      isPartial: partial,
+      contentVersion: partial ? contentVersion : manifest.contentVersion,
+      message: partial
+          ? 'Partial sync: ${report.subjectCount} subjects, '
+                '${report.shardCount} files; ${report.failures.length} skipped. '
+                'Try again.'
+          : 'Synced ${report.subjectCount} subjects · ${report.shardCount} files '
+                '(v${manifest.contentVersion}).',
     );
   }
 }
