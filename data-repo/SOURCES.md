@@ -289,3 +289,13 @@
 - Retrieved: 2026-07-30
 - Answer evidence: `geo-mcq-043` — [State Council of the People's Republic of China, Administrative Division](https://english.www.gov.cn/archive/china_abc/2014/08/27/content_281474983873401.htm); `geo-mcq-044` — [NOAA Ocean Service, Four Corners Monument](https://oceanservice.noaa.gov/podcast/mar15/os7-fourcorners.html).
 - Covered content: `subjects/geography/mcqs.json` — `geo-mcq-043` through `geo-mcq-044`
+
+## 2026-07-30 — Open Trivia DB History API batch
+
+- Rights holder: PIXELTAIL GAMES LLC (Open Trivia DB).
+- Source: <https://opentdb.com/api.php?amount=10&category=23&type=multiple&encode=url3986>
+- Reuse basis: Open Trivia DB states that all API data is available under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://opentdb.com/api_config.php). The license terms are at <https://creativecommons.org/licenses/by-sa/4.0/>.
+- Attribution: Adapted from Open Trivia DB, PIXELTAIL GAMES LLC, CC BY-SA 4.0. The adapted items in this batch are made available under CC BY-SA 4.0.
+- Retrieved: 2026-07-30
+- Answer evidence: `his-mcq-032` — [U.S. National Archives, Onset of the French Revolution, 1789](https://www.archives.gov/exhibits/eyewitness/html.php?section=1); `his-mcq-033` — [Government of Canada, Official symbols of Canada](https://www.canada.ca/en/canadian-heritage/services/official-symbols-canada.html).
+- Covered content: `subjects/history/mcqs.json` — `his-mcq-032` through `his-mcq-033`

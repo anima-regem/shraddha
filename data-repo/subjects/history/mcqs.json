@@ -299,6 +299,24 @@
       "answerIndex": 2,
       "explanation": "Marx and Engels describe recorded human history as a history of class struggles between exploiting and exploited, ruling and oppressed classes.",
       "difficulty": "medium"
+    },
+    {
+      "id": "his-mcq-032",
+      "topic": "World History",
+      "question": "In which year did the French Revolution begin?",
+      "options": ["1789", "1823", "1756", "1799"],
+      "answerIndex": 0,
+      "explanation": "The National Archives describes the events of July 1789 as the opening days of the French Revolution.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "his-mcq-033",
+      "topic": "World History",
+      "question": "In which year did O Canada officially become Canada's national anthem?",
+      "options": ["1980", "1950", "1920", "1880"],
+      "answerIndex": 0,
+      "explanation": "Canada proclaimed O Canada its national anthem on July 1, 1980, when it adopted the National Anthem Act.",
+      "difficulty": "medium"
     }
   ]
 }
