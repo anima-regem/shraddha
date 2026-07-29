@@ -50,6 +50,42 @@
       "answerIndex": 0,
       "explanation": "The liver produces bile; the gallbladder stores it until it is needed for digestion.",
       "difficulty": "easy"
+    },
+    {
+      "id": "sci-mcq-031",
+      "topic": "IT & Communication",
+      "question": "According to the Agile Manifesto, what is valued over comprehensive documentation?",
+      "options": ["Working software", "Processes and tools", "Contract negotiation", "Following a plan"],
+      "answerIndex": 0,
+      "explanation": "The Agile Manifesto values working software over comprehensive documentation, while recognising that documentation can still have value.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sci-mcq-032",
+      "topic": "IT & Communication",
+      "question": "Which binary-prefix unit equals 1,024 bytes?",
+      "options": ["Kibibyte", "Kilobyte", "Megabyte", "Gigabyte"],
+      "answerIndex": 0,
+      "explanation": "A kibibyte (KiB) is 2^10 bytes, or 1,024 bytes; binary prefixes avoid ambiguity with decimal SI prefixes.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "sci-mcq-033",
+      "topic": "IT & Communication",
+      "question": "In display technology, what does LCD stand for?",
+      "options": ["Liquid Crystal Display", "Language Control Design", "Last Common Difference", "Long Continuous Design"],
+      "answerIndex": 0,
+      "explanation": "LCD stands for liquid crystal display, a display technology that uses liquid-crystal elements to control light.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "sci-mcq-034",
+      "topic": "IT & Communication",
+      "question": "Django is a web framework written for which programming language?",
+      "options": ["Python", "C#", "C++", "Java"],
+      "answerIndex": 0,
+      "explanation": "Django is a Python web framework; its official documentation describes it as 100% Python.",
+      "difficulty": "easy"
     }
   ]
 }

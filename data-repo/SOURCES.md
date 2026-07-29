@@ -119,3 +119,13 @@
 - Retrieved: 2026-07-30
 - Answer evidence: `env-mcq-011` — <https://oceanservice.noaa.gov/facts/portuguese-man-o-war.html>; `env-mcq-012` — <https://www.fisheries.noaa.gov/species/dwarf-seahorse/conservation-management>; `env-mcq-013` — <https://www.gov.uk/guidance/natterjack-toads-advice-for-making-planning-decisions>.
 - Covered content: `subjects/environment/mcqs.json` — `env-mcq-011` through `env-mcq-013`
+
+## 2026-07-30 — Open Trivia DB Computers API batch
+
+- Rights holder: PIXELTAIL GAMES LLC (Open Trivia DB)
+- Source: <https://opentdb.com/api.php?amount=10&category=18&type=multiple&encode=url3986>
+- Reuse basis: Open Trivia DB states that all API data is available under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://opentdb.com/api_config.php). The license terms are at <https://creativecommons.org/licenses/by-sa/4.0/>.
+- Attribution: Adapted from Open Trivia DB, PIXELTAIL GAMES LLC, CC BY-SA 4.0. The adapted items in this batch are made available under CC BY-SA 4.0.
+- Retrieved: 2026-07-30
+- Answer evidence: `sci-mcq-031` — <https://agilemanifesto.org/>; `sci-mcq-032` — <https://www.nist.gov/system/files/documents/pml/div684/fcdc/si_brochure_8.pdf>; `sci-mcq-033` — <https://techport.nasa.gov/projects/18036>; `sci-mcq-034` — <https://docs.djangoproject.com/en/4.2/intro/>.
+- Covered content: `subjects/science-tech/mcqs-002.json` — `sci-mcq-031` through `sci-mcq-034`
