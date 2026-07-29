@@ -229,3 +229,13 @@
 - Retrieved: 2026-07-30
 - Answer evidence: `geo-mcq-028` through `geo-mcq-031` — [NOAA JetStream, Layers of the Atmosphere](https://www.noaa.gov/jetstream/atmosphere/layers-of-atmosphere).
 - Covered content: `subjects/geography/mcqs.json` — `geo-mcq-028` through `geo-mcq-031`
+
+## 2026-07-30 — NOAA JetStream Global Weather review batch
+
+- Rights holder: National Oceanic and Atmospheric Administration (NOAA), National Weather Service JetStream.
+- Source: [Global Weather - Review Questions](https://www.noaa.gov/sites/default/files/2023-02/global_quiz.pdf).
+- Reuse basis: JetStream states: "You are free to use the materials in any manner you wish." See [JetStream](https://www.noaa.gov/jetstream). The source identifies itself as National Weather Service Southern Region JetStream material.
+- Attribution: Adapted from "Global Weather - Review Questions" by NOAA National Weather Service JetStream. Credit NOAA.
+- Retrieved: 2026-07-30
+- Answer evidence: `geo-mcq-032` and `geo-mcq-033` — [NOAA NESDIS, Changing of the Seasons](https://www.nesdis.noaa.gov/our-environment/solar-phenomena/changing-of-the-seasons); `geo-mcq-034` — [National Weather Service, The Seasons (Equinoxes and Solstices)](https://www.weather.gov/dvn/Climate_Astronomical_Seasons); `geo-mcq-035` — [NOAA JetStream, Global Atmospheric Circulations](https://www.noaa.gov/jetstream/global/global-atmospheric-circulations).
+- Covered content: `subjects/geography/mcqs.json` — `geo-mcq-032` through `geo-mcq-035`

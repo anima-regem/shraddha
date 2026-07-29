@@ -339,6 +339,62 @@
       "answerIndex": 1,
       "explanation": "The troposphere, whose top is the tropopause, reaches about 18-20 km at the equator but is only about 6 km high at the poles.",
       "difficulty": "medium"
+    },
+    {
+      "id": "geo-mcq-032",
+      "topic": "Physical Geography",
+      "question": "Earth's rotational axis is tilted by approximately:",
+      "options": [
+        "21.5 degrees",
+        "23.5 degrees",
+        "25.3 degrees",
+        "25.5 degrees"
+      ],
+      "answerIndex": 1,
+      "explanation": "Earth's rotational axis is tilted by about 23.5 degrees relative to its orbital plane; this tilt, together with Earth's orbit, produces the seasons.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "geo-mcq-033",
+      "topic": "Physical Geography",
+      "question": "The Southern Hemisphere's shortest daylight hours occur around which annual event?",
+      "options": [
+        "March equinox",
+        "June solstice",
+        "September equinox",
+        "December solstice"
+      ],
+      "answerIndex": 1,
+      "explanation": "When it is June, July, and August, the Southern Hemisphere is tilted away from the Sun and experiences winter, including its shortest daylight hours near the June solstice.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "geo-mcq-034",
+      "topic": "Physical Geography",
+      "question": "In which months do Earth's two annual equinoxes occur?",
+      "options": [
+        "March and September",
+        "June and December",
+        "January and July",
+        "February and August"
+      ],
+      "answerIndex": 0,
+      "explanation": "The equinoxes occur around March and September, when the Sun is over the equator and day and night are approximately equal in length.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "geo-mcq-035",
+      "topic": "Physical Geography",
+      "question": "Which global atmospheric circulation cell dominates tropical and subtropical climates?",
+      "options": [
+        "Polar cell",
+        "Ferrel cell",
+        "Hadley cell",
+        "Walker cell"
+      ],
+      "answerIndex": 2,
+      "explanation": "The Hadley cell is the low-latitude convection cell in which air rises near the equator, moves poleward aloft, and sinks in the subtropics.",
+      "difficulty": "medium"
     }
   ]
 }
