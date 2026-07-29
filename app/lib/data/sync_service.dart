@@ -23,13 +23,16 @@ class SyncService {
   static const contentVersionKey = 'content_version';
   static const seededKey = 'seeded';
   static const lastSyncKey = 'last_sync_iso';
+  static const defaultRepoUrl =
+      'https://raw.githubusercontent.com/anima-regem/shraddha/main/data-repo';
 
   final ContentRepository repository;
   final SharedPreferences prefs;
 
   SyncService({required this.repository, required this.prefs});
 
-  String? get repoUrl => prefs.getString(repoUrlKey);
+  /// Uses Shraddha's published content source until a learner chooses another.
+  String get repoUrl => prefs.getString(repoUrlKey) ?? defaultRepoUrl;
   int get contentVersion => prefs.getInt(contentVersionKey) ?? 0;
   DateTime? get lastSync {
     final iso = prefs.getString(lastSyncKey);
@@ -60,16 +63,7 @@ class SyncService {
   /// Pulls from the configured GitHub repo. Skips download when the remote
   /// contentVersion matches the local one, unless [force] is true.
   Future<SyncResult> syncFromGithub({bool force = false}) async {
-    final url = repoUrl;
-    if (url == null || url.isEmpty) {
-      return const SyncResult(
-        updated: false,
-        subjectCount: 0,
-        contentVersion: 0,
-        message: 'No repository configured. Add one in Settings.',
-      );
-    }
-    final base = normalizeRepoUrl(url);
+    final base = normalizeRepoUrl(repoUrl);
     if (base == null) {
       return const SyncResult(
         updated: false,

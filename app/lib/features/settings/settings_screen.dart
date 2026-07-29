@@ -7,6 +7,7 @@ import '../../core/app_links.dart';
 import '../../core/haptics.dart';
 import '../../core/theme.dart';
 import '../../data/providers.dart';
+import '../../data/sync_service.dart';
 import '../ads/watch_ads_screen.dart';
 import '../../ui/aurora_route.dart';
 import '../../ui/glass_button.dart';
@@ -33,7 +34,7 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
   void initState() {
     super.initState();
     _repoController = TextEditingController(
-      text: ref.read(syncServiceProvider).repoUrl ?? '',
+      text: ref.read(syncServiceProvider).repoUrl,
     );
   }
 
@@ -100,14 +101,14 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               Text(
-                'Point to a GitHub repo with your UPSC content '
-                '(github.com/user/repo or a raw URL).',
+                'Shraddha’s public content repository is selected by default. '
+                'Replace it with another GitHub repo or raw URL if you prefer.',
                 style: Theme.of(context).textTheme.bodySmall,
               ),
               const SizedBox(height: 12),
               GlassField(
                 controller: _repoController,
-                hint: 'https://github.com/you/upsc-content',
+                hint: SyncService.defaultRepoUrl,
                 icon: Icons.link_rounded,
                 keyboardType: TextInputType.url,
               ),

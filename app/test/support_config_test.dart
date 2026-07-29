@@ -1,6 +1,7 @@
 import 'package:flutter_test/flutter_test.dart';
 import 'package:shraddha/core/ads_service.dart';
 import 'package:shraddha/core/app_links.dart';
+import 'package:shraddha/data/sync_service.dart';
 
 void main() {
   group('support configuration', () {
@@ -16,6 +17,13 @@ void main() {
       expect(
         AppLinks.privacyPolicy.toString(),
         'https://anima-regem.github.io/shraddha/privacy-policy/',
+      );
+    });
+
+    test('ships with Shraddha’s public content repository selected', () {
+      expect(
+        SyncService.defaultRepoUrl,
+        'https://raw.githubusercontent.com/anima-regem/shraddha/main/data-repo',
       );
     });
 
