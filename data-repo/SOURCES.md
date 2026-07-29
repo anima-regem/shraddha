@@ -299,3 +299,14 @@
 - Retrieved: 2026-07-30
 - Answer evidence: `his-mcq-032` — [U.S. National Archives, Onset of the French Revolution, 1789](https://www.archives.gov/exhibits/eyewitness/html.php?section=1); `his-mcq-033` — [Government of Canada, Official symbols of Canada](https://www.canada.ca/en/canadian-heritage/services/official-symbols-canada.html).
 - Covered content: `subjects/history/mcqs.json` — `his-mcq-032` through `his-mcq-033`
+
+## 2026-07-30 — Open Trivia DB Science & Nature API follow-up batch
+
+- Rights holder: PIXELTAIL GAMES LLC (Open Trivia DB).
+- Source: <https://opentdb.com/api.php?amount=10&category=17&type=multiple&encode=url3986>
+- Reuse basis: Open Trivia DB states that all API data is available under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://opentdb.com/api_config.php). The license terms are at <https://creativecommons.org/licenses/by-sa/4.0/>.
+- Attribution: Adapted from Open Trivia DB, PIXELTAIL GAMES LLC, CC BY-SA 4.0. The adapted items in this batch are made available under CC BY-SA 4.0.
+- Retrieved: 2026-07-30
+- Answer evidence: `sci-mcq-048` — [NASA Technical Reports Server, NASA/TM-2014-217500](https://ntrs.nasa.gov/api/citations/20140003185/downloads/20140003185.pdf); `sci-mcq-049` — [U.S. Department of Energy, Hydrogen Properties](https://www.energy.gov/sites/default/files/2014/03/f12/fcm01r0.pdf).
+- Duplicate decision: the source response's Venus item was excluded because `subjects/science-tech/mcqs.json` already contains an equivalent question as `sci-mcq-017`.
+- Covered content: `subjects/science-tech/mcqs-002.json` — `sci-mcq-048` through `sci-mcq-049`

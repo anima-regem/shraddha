@@ -208,6 +208,34 @@
       "answerIndex": 1,
       "explanation": "An iron core strengthens an electromagnet because the magnetic axes of iron atoms align with the coil's field and add to it.",
       "difficulty": "medium"
+    },
+    {
+      "id": "sci-mcq-048",
+      "topic": "Basic Science",
+      "question": "What does LASER stand for?",
+      "options": [
+        "Light amplification by stimulated emission of radiation",
+        "Light absorption by stimulated emission of radiation",
+        "Light amplification by spontaneous emission of radiation",
+        "Light activation by stimulated emission of radiation"
+      ],
+      "answerIndex": 0,
+      "explanation": "LASER is an acronym for light amplification by stimulated emission of radiation.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "sci-mcq-049",
+      "topic": "Basic Science",
+      "question": "Which element has the lowest boiling point?",
+      "options": [
+        "Helium",
+        "Hydrogen",
+        "Neon",
+        "Nitrogen"
+      ],
+      "answerIndex": 0,
+      "explanation": "Helium has the lowest boiling point of all elements; hydrogen is second lowest.",
+      "difficulty": "medium"
     }
   ]
 }
