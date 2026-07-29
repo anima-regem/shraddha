@@ -488,6 +488,29 @@
       "answerIndex": 2,
       "explanation": "The principle of superposition states that, in a sequence of layered beds, the lowest bed is the oldest and progressively younger beds lie above it.",
       "difficulty": "medium"
+    },
+    {
+      "id": "geo-mcq-043",
+      "topic": "World Geography",
+      "question": "Which of the following is not a province of China?",
+      "options": ["Fujian", "Sichuan", "Guangdong", "Yangtze"],
+      "answerIndex": 3,
+      "explanation": "China's State Council lists Fujian, Sichuan, and Guangdong among China's provinces. Yangtze is not a province.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "geo-mcq-044",
+      "topic": "World Geography",
+      "question": "Which four U.S. states meet at the Four Corners Monument?",
+      "options": [
+        "Utah, Colorado, Arizona, and New Mexico",
+        "Oregon, Idaho, Nevada, and Utah",
+        "Kansas, Oklahoma, Arkansas, and Louisiana",
+        "South Dakota, Minnesota, Nebraska, and Iowa"
+      ],
+      "answerIndex": 0,
+      "explanation": "Four Corners Monument is the single point where the borders of Utah, Colorado, New Mexico, and Arizona meet.",
+      "difficulty": "medium"
     }
   ]
 }

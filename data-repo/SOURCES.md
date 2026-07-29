@@ -279,3 +279,13 @@
 - Retrieved: 2026-07-30
 - Answer evidence: `geo-mcq-042` — [National Park Service, Geologic Principles—Superposition and Original Horizontality](https://www.nps.gov/articles/geologic-principles-superposition-and-original-horizontality.htm).
 - Covered content: `subjects/geography/mcqs.json` — `geo-mcq-042`
+
+## 2026-07-30 — Open Trivia DB Geography API batch
+
+- Rights holder: PIXELTAIL GAMES LLC (Open Trivia DB).
+- Source: <https://opentdb.com/api.php?amount=10&category=22&type=multiple&encode=url3986>
+- Reuse basis: Open Trivia DB states that all API data is available under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://opentdb.com/api_config.php). The license terms are at <https://creativecommons.org/licenses/by-sa/4.0/>.
+- Attribution: Adapted from Open Trivia DB, PIXELTAIL GAMES LLC, CC BY-SA 4.0. The adapted items in this batch are made available under CC BY-SA 4.0.
+- Retrieved: 2026-07-30
+- Answer evidence: `geo-mcq-043` — [State Council of the People's Republic of China, Administrative Division](https://english.www.gov.cn/archive/china_abc/2014/08/27/content_281474983873401.htm); `geo-mcq-044` — [NOAA Ocean Service, Four Corners Monument](https://oceanservice.noaa.gov/podcast/mar15/os7-fourcorners.html).
+- Covered content: `subjects/geography/mcqs.json` — `geo-mcq-043` through `geo-mcq-044`
