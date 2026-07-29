@@ -189,3 +189,13 @@
 - Retrieved: 2026-07-30
 - Answer evidence: `sci-mcq-046` — [BIPM SI Brochure, Appendix 2](https://www.bipm.org/documents/20126/41489676/SI-App2-ampere.pdf/0987a90e-051b-dd7f-827d-3f7b32751a61); `sci-mcq-047` — [NASA GSFC, Magnetometers](https://pwg.gsfc.nasa.gov/stargaze/magmeter.htm).
 - Covered content: `subjects/science-tech/mcqs-002.json` — `sci-mcq-046` through `sci-mcq-047`
+
+## 2026-07-30 — Wikibooks World History Totalitarianism quiz batch
+
+- Rights holder: Wikibooks contributors; contributor attribution is available in the [page history](https://en.wikibooks.org/w/index.php?title=World_History/The_Rise_of_Dictatorship_and_Totalitarianism/Quick_Quiz&action=history).
+- Source: [World History/The Rise of Dictatorship and Totalitarianism/Quick Quiz, permanent revision 4225686](https://en.wikibooks.org/w/index.php?title=World_History/The_Rise_of_Dictatorship_and_Totalitarianism/Quick_Quiz&oldid=4225686).
+- Reuse basis: Wikibooks states that its text is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/) and may be copied, modified, and redistributed with attribution and the same terms; see [Wikibooks:Copyrights](https://en.wikibooks.org/wiki/Wikibooks:Copyrights).
+- Attribution: Adapted from "World History/The Rise of Dictatorship and Totalitarianism/Quick Quiz" by Wikibooks contributors, CC BY-SA 4.0. The adapted item in this batch is made available under CC BY-SA 4.0.
+- Retrieved: 2026-07-30
+- Answer evidence: `his-mcq-028` — [Library of Congress, Internal Workings of the Soviet Union](https://www.loc.gov/exhibits/archives/intn.html).
+- Covered content: `subjects/history/mcqs.json` — `his-mcq-028`

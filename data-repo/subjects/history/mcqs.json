@@ -258,6 +258,20 @@
       "answerIndex": 0,
       "explanation": "Hera was Zeus's sister-wife and the queen of the Olympian gods; the Romans identified her with Juno.",
       "difficulty": "medium"
+    },
+    {
+      "id": "his-mcq-028",
+      "topic": "World History",
+      "question": "Which agricultural policy did Joseph Stalin promote during the First Five-Year Plan?",
+      "options": [
+        "Collectivization of farms",
+        "Privatization of farmland",
+        "Removal of state control over agriculture",
+        "Replacing agriculture with transport development"
+      ],
+      "answerIndex": 0,
+      "explanation": "Stalin's First Five-Year Plan sought to transform largely individual farms into large state collective farms through collectivization.",
+      "difficulty": "medium"
     }
   ]
 }
