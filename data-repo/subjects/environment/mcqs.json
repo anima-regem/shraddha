@@ -115,6 +115,33 @@
       "answerIndex": 1,
       "explanation": "Montreal Protocol (1987) phases out ODS like CFCs and halons; its Kigali Amendment (2016) phases down HFCs (potent GHGs), linking ozone and climate action.",
       "difficulty": "easy"
+    },
+    {
+      "id": "env-mcq-011",
+      "topic": "Ecology Basics",
+      "question": "The Portuguese man-of-war is best classified as which of the following?",
+      "options": ["A siphonophore colony", "A true jellyfish", "A solitary coral polyp", "A cephalopod mollusc"],
+      "answerIndex": 0,
+      "explanation": "The Portuguese man-of-war is a siphonophore: a colony of specialised, genetically identical zooids that work together.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "env-mcq-012",
+      "topic": "Biodiversity",
+      "question": "Hippocampus is the genus name for which marine animal?",
+      "options": ["Seahorse", "Dolphin", "Whale", "Octopus"],
+      "answerIndex": 0,
+      "explanation": "Hippocampus is the seahorse genus; for example, the dwarf seahorse is Hippocampus zosterae.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "env-mcq-013",
+      "topic": "Biodiversity",
+      "question": "A natterjack is what type of animal?",
+      "options": ["Toad", "Bird", "Fish", "Insect"],
+      "answerIndex": 0,
+      "explanation": "A natterjack is a protected amphibian species commonly called the natterjack toad.",
+      "difficulty": "medium"
     }
   ]
 }
