@@ -113,6 +113,42 @@
       "answerIndex": 0,
       "explanation": "The highest power of x in x^2 + 2x + 1 is 2, so it is a quadratic polynomial.",
       "difficulty": "medium"
+    },
+    {
+      "id": "sci-mcq-038",
+      "topic": "Basic Science",
+      "question": "Which organ covers the body's entire external surface and is commonly described as its largest organ?",
+      "options": ["Skin", "Liver", "Lungs", "Brain"],
+      "answerIndex": 0,
+      "explanation": "The skin covers the entire external surface of the body and is commonly described as its largest organ.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "sci-mcq-039",
+      "topic": "Basic Science",
+      "question": "In Einstein's equation E = mc^2, what does E represent?",
+      "options": ["Energy", "Electric charge", "Entropy", "Elasticity"],
+      "answerIndex": 0,
+      "explanation": "In E = mc^2, E represents energy, m represents mass, and c is the speed of light in a vacuum.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "sci-mcq-040",
+      "topic": "Basic Science",
+      "question": "How many permanent teeth does a typical adult have when all third molars are present?",
+      "options": ["32", "20", "28", "36"],
+      "answerIndex": 0,
+      "explanation": "An adult has 32 permanent teeth when all third molars, commonly called wisdom teeth, are present.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "sci-mcq-041",
+      "topic": "Basic Science",
+      "question": "What does DNA stand for?",
+      "options": ["Deoxyribonucleic acid", "Dinitrogen acid", "Deoxygenated nucleic acid", "Deoxyribose nitrogen acid"],
+      "answerIndex": 0,
+      "explanation": "DNA is short for deoxyribonucleic acid, the molecule that carries genetic information for an organism's development and functioning.",
+      "difficulty": "easy"
     }
   ]
 }

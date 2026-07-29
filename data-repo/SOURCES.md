@@ -149,3 +149,13 @@
 - Retrieved: 2026-07-30
 - Answer evidence: `his-mcq-020` — <https://www.berlin.de/en/history/8482274-8619314-opening-and-fall-of-the-berlin-wall.en.html>; `his-mcq-021` — <https://www.nps.gov/caco/learn/historyculture/pilgrims.htm>; `his-mcq-022` and `his-mcq-023` — <https://history.state.gov/historicaldocuments/frus1919Parisv13/ch9>.
 - Covered content: `subjects/history/mcqs.json` — `his-mcq-020` through `his-mcq-023`
+
+## 2026-07-30 — LearnClash Open Trivia General Knowledge batch
+
+- Rights holder: LearnClash (Pluxia GmbH, Baar, Switzerland)
+- Source: <https://pluxia-gmbh.github.io/learnclash-open-trivia/>; source repository: <https://github.com/Pluxia-GmbH/learnclash-open-trivia>
+- Reuse basis: LearnClash releases its curated 100-question dataset under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). The source page and repository both state that the questions may be used, shared, and adapted with attribution.
+- Attribution: Adapted from LearnClash Open Trivia by LearnClash (Pluxia GmbH), licensed CC BY 4.0.
+- Retrieved: 2026-07-30
+- Answer evidence: `sci-mcq-038` — <https://www.ncbi.nlm.nih.gov/books/NBK470464/>; `sci-mcq-039` — <https://science.nasa.gov/solar-system/10-things-einstein-got-right/>; `sci-mcq-040` — <https://www.mouthhealthy.org/-/media/project/ada-organization/ada/mouthhealthy/files/smile-smarts/lifetime_module01_teeth_are_terrific.pdf>; `sci-mcq-041` — <https://www.genome.gov/genetics-glossary/Deoxyribonucleic-Acid-DNA>.
+- Covered content: `subjects/science-tech/mcqs-002.json` — `sci-mcq-038` through `sci-mcq-041`
