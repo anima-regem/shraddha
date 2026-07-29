@@ -283,6 +283,62 @@
       "answerIndex": 1,
       "explanation": "At right angles, the solar tide partly cancels the lunar tide, producing a neap tide with a more moderate tidal range.",
       "difficulty": "easy"
+    },
+    {
+      "id": "geo-mcq-028",
+      "topic": "Physical Geography",
+      "question": "Which is the outermost layer of Earth's atmosphere?",
+      "options": [
+        "Troposphere",
+        "Stratosphere",
+        "Exosphere",
+        "Thermosphere"
+      ],
+      "answerIndex": 2,
+      "explanation": "The exosphere is the outermost atmospheric layer; it gradually merges into space and contains orbiting satellites.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "geo-mcq-029",
+      "topic": "Physical Geography",
+      "question": "Most of Earth's weather occurs in which atmospheric layer?",
+      "options": [
+        "Stratosphere",
+        "Troposphere",
+        "Hemisphere",
+        "Thermosphere"
+      ],
+      "answerIndex": 1,
+      "explanation": "Almost all weather occurs in the troposphere, the lowest atmospheric layer extending upward from Earth's surface.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "geo-mcq-030",
+      "topic": "Physical Geography",
+      "question": "What is the name of the boundary between the troposphere and the stratosphere?",
+      "options": [
+        "Tropopause",
+        "Stratopause",
+        "Mesopause",
+        "Thermopause"
+      ],
+      "answerIndex": 0,
+      "explanation": "The tropopause is the transition layer at the top of the troposphere and the bottom of the stratosphere.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "geo-mcq-031",
+      "topic": "Physical Geography",
+      "question": "Which statement about the height of the tropopause is correct?",
+      "options": [
+        "It is highest at the poles and lowest at the equator",
+        "It is highest near the equator and lowest at the poles",
+        "It remains at the same height at every latitude",
+        "It is highest only over oceans"
+      ],
+      "answerIndex": 1,
+      "explanation": "The troposphere, whose top is the tropopause, reaches about 18-20 km at the equator but is only about 6 km high at the poles.",
+      "difficulty": "medium"
     }
   ]
 }

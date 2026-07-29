@@ -219,3 +219,13 @@
 - Retrieved: 2026-07-30
 - Answer evidence: `geo-mcq-025` — [NOAA, What is a thermocline?](https://oceanservice.noaa.gov/facts/thermocline.html) and [NOAA, How far does light travel in the ocean?](https://oceanservice.noaa.gov/facts/light_travel.html); `geo-mcq-026` — [NOAA JetStream, Waves](https://www.noaa.gov/jetstream/ocean/waves); `geo-mcq-027` — [NOAA, Tidal Variations - The Influence of Position and Distance](https://oceanservice.noaa.gov/education/tutorial_tides/tides06_variations.html).
 - Covered content: `subjects/geography/mcqs.json` — `geo-mcq-025` through `geo-mcq-027`
+
+## 2026-07-30 — NOAA JetStream Atmosphere review batch
+
+- Rights holder: National Oceanic and Atmospheric Administration (NOAA), National Weather Service Southern Region JetStream.
+- Source: [The Atmosphere - Review Questions](https://www.noaa.gov/sites/default/files/2023-02/atmos_quiz.pdf).
+- Reuse basis: NOAA states that resources it creates are in the public domain and may be distributed or modified without express permission unless noted; see [About NOAA educational resources](https://www.noaa.gov/education/resource-collections/about). No exception is noted on this NOAA-hosted JetStream question sheet.
+- Attribution: Adapted from "The Atmosphere - Review Questions" by NOAA National Weather Service Southern Region JetStream. Public domain; credit NOAA.
+- Retrieved: 2026-07-30
+- Answer evidence: `geo-mcq-028` through `geo-mcq-031` — [NOAA JetStream, Layers of the Atmosphere](https://www.noaa.gov/jetstream/atmosphere/layers-of-atmosphere).
+- Covered content: `subjects/geography/mcqs.json` — `geo-mcq-028` through `geo-mcq-031`
