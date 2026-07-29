@@ -115,6 +115,60 @@
       "answerIndex": 1,
       "explanation": "The USA–Canada border (~8,891 km including Alaska) is the longest international land border between two countries. India–Bangladesh (~4,096 km) is the 5th longest.",
       "difficulty": "medium"
+    },
+    {
+      "id": "geo-mcq-011",
+      "topic": "World Geography",
+      "question": "How tall is One World Trade Center in New York City?",
+      "options": ["1,776 ft", "1,888 ft", "1,225 ft", "1,960 ft"],
+      "answerIndex": 0,
+      "explanation": "One World Trade Center stands 1,776 feet tall; the height was chosen as a symbolic reference to 1776.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "geo-mcq-012",
+      "topic": "Physical Geography",
+      "question": "Which geographical feature is a ring-shaped coral reef, island, or series of islets?",
+      "options": ["Atoll", "Peninsula", "Isthmus", "Delta"],
+      "answerIndex": 0,
+      "explanation": "An atoll is a ring of coral that surrounds a central lagoon, commonly forming after a volcanic island subsides.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "geo-mcq-013",
+      "topic": "World Geography",
+      "question": "Which of the following island groups is not part of the United Kingdom?",
+      "options": ["Channel Islands", "Orkney Islands", "Isles of Scilly", "Shetland Islands"],
+      "answerIndex": 0,
+      "explanation": "The Channel Islands are Crown Dependencies, not part of the United Kingdom. Orkney, Scilly, and Shetland are part of the UK.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "geo-mcq-014",
+      "topic": "World Geography",
+      "question": "Where was the ancient city of Pompeii located?",
+      "options": ["Italy", "Greece", "Turkey", "Egypt"],
+      "answerIndex": 0,
+      "explanation": "Pompeii was an ancient Roman city in present-day Italy, near Mount Vesuvius.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "geo-mcq-015",
+      "topic": "World Geography",
+      "question": "Which Canadian province has Charlottetown as its capital?",
+      "options": ["Prince Edward Island", "Saskatchewan", "Northwest Territories", "Ontario"],
+      "answerIndex": 0,
+      "explanation": "Charlottetown is the capital city of Prince Edward Island.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "geo-mcq-016",
+      "topic": "World Geography",
+      "question": "How many countries have land borders with Mexico?",
+      "options": ["3", "2", "4", "1"],
+      "answerIndex": 0,
+      "explanation": "Mexico shares land borders with the United States, Guatemala, and Belize.",
+      "difficulty": "easy"
     }
   ]
 }
