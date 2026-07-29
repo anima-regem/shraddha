@@ -150,6 +150,42 @@
       "answerIndex": 0,
       "explanation": "Laika, a dog aboard Sputnik 2, became the first animal to orbit Earth in 1957.",
       "difficulty": "medium"
+    },
+    {
+      "id": "his-mcq-016",
+      "topic": "Art & Culture",
+      "question": "Which Renaissance artist sculpted the marble statue David, now in Florence's Galleria dell'Accademia?",
+      "options": ["Michelangelo", "Donatello", "Gian Lorenzo Bernini", "Auguste Rodin"],
+      "answerIndex": 0,
+      "explanation": "Michelangelo was commissioned to make David in 1501; the work is in Florence's Galleria dell'Accademia.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "his-mcq-017",
+      "topic": "Art & Culture",
+      "question": "Which architectural feature is a defining characteristic of the Gothic style?",
+      "options": ["Pointed arch", "Classical pediment", "Coffered ceiling", "Hemispherical dome"],
+      "answerIndex": 0,
+      "explanation": "Pointed arches are an important characteristic of Gothic architecture and were used in features such as arcades, vaults, doors, and windows.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "his-mcq-018",
+      "topic": "Art & Culture",
+      "question": "The Creation of Adam, one of the central frescoes of the Sistine Chapel ceiling, was painted by which artist?",
+      "options": ["Michelangelo", "Raphael", "Giotto", "Sandro Botticelli"],
+      "answerIndex": 0,
+      "explanation": "Michelangelo painted the Sistine Chapel ceiling; The Creation of Adam is one of its central Genesis scenes.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "his-mcq-019",
+      "topic": "Art & Culture",
+      "question": "Picasso's 1937 painting Guernica was inspired by the bombing of Gernika during which conflict?",
+      "options": ["Spanish Civil War", "First World War", "Crimean War", "Spanish-American War"],
+      "answerIndex": 0,
+      "explanation": "The bombing of the Basque town of Gernika took place during the Spanish Civil War and inspired Picasso's Guernica.",
+      "difficulty": "medium"
     }
   ]
 }

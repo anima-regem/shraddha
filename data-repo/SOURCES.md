@@ -99,3 +99,13 @@
 - Retrieved: 2026-07-30
 - Answer evidence: `geo-mcq-021` — <https://www.antarctica.gov.au/site/assets/files/68271/antarctic_environmental_regulation_-_2024-29_-_iee_-_rsv_nuyina_-_operations_and_science_systems_-_draft_iee_for_public_co.pdf>; `geo-mcq-022` — <https://www.dfat.gov.au/about-australia>; `geo-mcq-023` — <https://oceanservice.noaa.gov/facts/oceandepth.html>; `geo-mcq-024` — <https://whc.unesco.org/en/list/754/>.
 - Covered content: `subjects/geography/mcqs.json` — `geo-mcq-021` through `geo-mcq-024`
+
+## 2026-07-30 — Open Trivia DB Art API batch
+
+- Rights holder: PIXELTAIL GAMES LLC (Open Trivia DB)
+- Source: <https://opentdb.com/api.php?amount=10&category=25&type=multiple&encode=url3986>
+- Reuse basis: Open Trivia DB states that all API data is available under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://opentdb.com/api_config.php). The license terms are at <https://creativecommons.org/licenses/by-sa/4.0/>.
+- Attribution: Adapted from Open Trivia DB, PIXELTAIL GAMES LLC, CC BY-SA 4.0. The adapted items in this batch are made available under CC BY-SA 4.0.
+- Retrieved: 2026-07-30
+- Answer evidence: `his-mcq-016` — <https://www.galleriaaccademiafirenze.it/en/artworks/david-michelangelo/>; `his-mcq-017` — <https://www.vam.ac.uk/articles/the-gothic-style-an-introduction>; `his-mcq-018` — <https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/cappella-sistina/volta.html>; `his-mcq-019` — <https://guernica.museoreinasofia.es/en>.
+- Covered content: `subjects/history/mcqs.json` — `his-mcq-016` through `his-mcq-019`
