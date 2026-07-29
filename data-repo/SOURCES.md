@@ -89,3 +89,13 @@
 - Retrieved: 2026-07-30
 - Answer evidence: `geo-mcq-018` — <https://www.nps.gov/lake/learn/nature/deserts.htm>; `geo-mcq-019` — <https://www.euskaltzaindia.eus/dok/iker_jagon_tegiak/83274.pdf>; `geo-mcq-020` — <https://www.government.nl/binaries/government/documenten/publications/2017/04/21/culture-at-a-first-glance/CIB2015_ENG_publicatie_v8_DEF.pdf>.
 - Covered content: `subjects/geography/mcqs.json` — `geo-mcq-018` through `geo-mcq-020`
+
+## 2026-07-30 — LearnClash Open Trivia Geography batch
+
+- Rights holder: LearnClash (Pluxia GmbH, Baar, Switzerland)
+- Source: <https://pluxia-gmbh.github.io/learnclash-open-trivia/>; source repository: <https://github.com/Pluxia-GmbH/learnclash-open-trivia>
+- Reuse basis: LearnClash releases its curated 100-question dataset under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). The source page and repository both state that the questions may be used, shared, and adapted with attribution.
+- Attribution: Adapted from LearnClash Open Trivia by LearnClash (Pluxia GmbH), licensed CC BY 4.0.
+- Retrieved: 2026-07-30
+- Answer evidence: `geo-mcq-021` — <https://www.antarctica.gov.au/site/assets/files/68271/antarctic_environmental_regulation_-_2024-29_-_iee_-_rsv_nuyina_-_operations_and_science_systems_-_draft_iee_for_public_co.pdf>; `geo-mcq-022` — <https://www.dfat.gov.au/about-australia>; `geo-mcq-023` — <https://oceanservice.noaa.gov/facts/oceandepth.html>; `geo-mcq-024` — <https://whc.unesco.org/en/list/754/>.
+- Covered content: `subjects/geography/mcqs.json` — `geo-mcq-021` through `geo-mcq-024`

@@ -205,6 +205,42 @@
       "answerIndex": 0,
       "explanation": "The Netherlands is divided into 12 provinces, each with a provincial council and executive.",
       "difficulty": "medium"
+    },
+    {
+      "id": "geo-mcq-021",
+      "topic": "Physical Geography",
+      "question": "Which continent contains the world's largest cold desert?",
+      "options": ["Antarctica", "Asia", "Africa", "Australia"],
+      "answerIndex": 0,
+      "explanation": "Antarctica is Earth's largest cold desert because its polar climate receives very little precipitation.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "geo-mcq-022",
+      "topic": "World Geography",
+      "question": "What is the capital city of Australia?",
+      "options": ["Canberra", "Sydney", "Melbourne", "Perth"],
+      "answerIndex": 0,
+      "explanation": "Canberra is Australia's capital city; Sydney is its largest city, while Melbourne is the capital of Victoria.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "geo-mcq-023",
+      "topic": "Physical Geography",
+      "question": "What is the deepest known point in the ocean?",
+      "options": ["Challenger Deep", "Tonga Trench", "Puerto Rico Trench", "Java Trench"],
+      "answerIndex": 0,
+      "explanation": "Challenger Deep lies in the Mariana Trench in the western Pacific and is approximately 10,935 metres deep.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "geo-mcq-024",
+      "topic": "Physical Geography",
+      "question": "Which lake is the deepest in the world?",
+      "options": ["Lake Baikal", "Lake Tanganyika", "Caspian Sea", "Lake Superior"],
+      "answerIndex": 0,
+      "explanation": "Lake Baikal in south-east Siberia is the world's deepest lake, reaching about 1,700 metres.",
+      "difficulty": "medium"
     }
   ]
 }
