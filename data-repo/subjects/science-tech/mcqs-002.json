@@ -149,6 +149,42 @@
       "answerIndex": 0,
       "explanation": "DNA is short for deoxyribonucleic acid, the molecule that carries genetic information for an organism's development and functioning.",
       "difficulty": "easy"
+    },
+    {
+      "id": "sci-mcq-042",
+      "topic": "Space Technology",
+      "question": "What aerodynamic force do aircraft flaps and slats increase during takeoff and landing?",
+      "options": ["Lift", "Thrust", "Weight", "Drag"],
+      "answerIndex": 0,
+      "explanation": "Flaps and slats change the effective wing shape and area to increase lift at the low speeds of takeoff and landing.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sci-mcq-043",
+      "topic": "Basic Science",
+      "question": "What is the SI base unit of length?",
+      "options": ["Metre", "Angstrom", "Foot", "Fathom"],
+      "answerIndex": 0,
+      "explanation": "The metre, symbol m, is the SI base unit of length.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "sci-mcq-044",
+      "topic": "Basic Science",
+      "question": "What do you study in entomology?",
+      "options": ["Insects", "Humans", "The brain", "Fish"],
+      "answerIndex": 0,
+      "explanation": "Entomology is the study of insects and, in broader usage, related arthropods.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "sci-mcq-045",
+      "topic": "Basic Science",
+      "question": "What animal features in Schrodinger's famous thought experiment?",
+      "options": ["Cat", "Dog", "Bat", "Butterfly"],
+      "answerIndex": 0,
+      "explanation": "Schrodinger's cat is a thought experiment that illustrates quantum superposition by imagining a cat as both alive and dead until observation.",
+      "difficulty": "easy"
     }
   ]
 }

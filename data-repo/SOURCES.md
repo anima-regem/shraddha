@@ -169,3 +169,13 @@
 - Retrieved: 2026-07-30
 - Answer evidence: `his-mcq-024` — <https://www.getty.edu/cona/CONAIconographyRecord.aspx?iconid=901000198>; `his-mcq-025` — <https://www.getty.edu/art/exhibitions/sicily/religion.html>; `his-mcq-026` — <https://www.getty.edu/art/exhibitions/ancient_underworld/inner.html>; `his-mcq-027` — <https://www.getty.edu/cona/CONAIconographyRecord.aspx?iconid=901001934>.
 - Covered content: `subjects/history/mcqs.json` — `his-mcq-024` through `his-mcq-027`
+
+## 2026-07-30 — Open Trivia DB Science & Nature API batch
+
+- Rights holder: PIXELTAIL GAMES LLC (Open Trivia DB)
+- Source: <https://opentdb.com/api.php?amount=10&category=17&type=multiple&encode=url3986>
+- Reuse basis: Open Trivia DB states that all API data is available under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://opentdb.com/api_config.php). The license terms are at <https://creativecommons.org/licenses/by-sa/4.0/>.
+- Attribution: Adapted from Open Trivia DB, PIXELTAIL GAMES LLC, CC BY-SA 4.0. The adapted items in this batch are made available under CC BY-SA 4.0.
+- Retrieved: 2026-07-30
+- Answer evidence: `sci-mcq-042` — <https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/aflap.html>; `sci-mcq-043` — <https://www.bipm.org/en/si-base-units/metre>; `sci-mcq-044` — <https://entsoc.org/about/what-is-entomology>; `sci-mcq-045` — <https://www.physics.ox.ac.uk/news/oxford-physicists-create-new-family-schrodingers-cat-states>.
+- Covered content: `subjects/science-tech/mcqs-002.json` — `sci-mcq-042` through `sci-mcq-045`
