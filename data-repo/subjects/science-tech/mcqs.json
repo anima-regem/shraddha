@@ -233,6 +233,34 @@
       "answerIndex": 0,
       "explanation": "The exact SI value is 299,792,458 metres per second, or about 299,792 kilometres per second.",
       "difficulty": "medium"
+    },
+    {
+      "id": "sci-mcq-023",
+      "topic": "Climate Science",
+      "question": "Which conclusion is supported by paleoclimate evidence, modern observations, and climate-model projections?",
+      "options": [
+        "Earth's climate has never changed naturally",
+        "Recent warming is slower than all past climate changes",
+        "There is no evidence that greenhouse gases affect climate",
+        "Past records show climate change, and further warming is projected as greenhouse-gas concentrations rise"
+      ],
+      "answerIndex": 3,
+      "explanation": "Paleoclimate records show that climate responds to greenhouse gases, while observations and models show rapid recent warming and project additional warming under continued greenhouse-gas emissions.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sci-mcq-024",
+      "topic": "Climate Science",
+      "question": "According to the IPCC's Sixth Assessment Report, which statement best describes the cause of warming since pre-industrial times?",
+      "options": [
+        "Changes in solar activity alone explain the warming",
+        "Volcanic eruptions are the main cause of the long-term warming trend",
+        "Human influence has unequivocally warmed the atmosphere, ocean, and land",
+        "Natural variability accounts for all observed warming"
+      ],
+      "answerIndex": 2,
+      "explanation": "IPCC AR6 concludes that human influence has unequivocally warmed the atmosphere, ocean, and land since pre-industrial times.",
+      "difficulty": "medium"
     }
   ]
 }

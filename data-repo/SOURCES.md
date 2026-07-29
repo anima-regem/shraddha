@@ -49,3 +49,13 @@
 - Retrieved: 2026-07-30
 - Answer evidence: `sci-mcq-017` — <https://science.nasa.gov/venus/venus-facts/>; `sci-mcq-018` — <https://www.nesdis.noaa.gov/news/peeling-back-the-layers-of-the-atmosphere>; `sci-mcq-019` — <https://www.genome.gov/about-genomics/fact-sheets/Chromosomes-Fact-Sheet>; `sci-mcq-020` — <https://science.nasa.gov/learn/basics-of-space-flight/chapter3-3/>; `sci-mcq-021` — <https://www.niddk.nih.gov/news/archive/2023/how-eating-fasting-regulate-insulin>; `sci-mcq-022` — <https://www.nist.gov/pml/owm/si-units-length>.
 - Covered content: `subjects/science-tech/mcqs.json` — `sci-mcq-017` through `sci-mcq-022`
+
+## 2026-07-30 — Socratic Tutor Warming Quiz batch
+
+- Rights holder: William Lovegrove (contributor to Mendeley Data)
+- Source: <https://data.mendeley.com/datasets/kxghfp366s/1>
+- Reuse basis: The dataset page releases its quiz questions under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). The page identifies William Lovegrove as contributor and displays the exact three-question quiz in its description.
+- Attribution: Adapted from "Socratic Tutor Warming Quiz Results" by William Lovegrove, CC BY 4.0.
+- Retrieved: 2026-07-30
+- Answer evidence: `sci-mcq-023` — <https://science.nasa.gov/earth/climate-change/global-warming/>; `sci-mcq-024` — <https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-3/>.
+- Covered content: `subjects/science-tech/mcqs.json` — `sci-mcq-023` through `sci-mcq-024`
