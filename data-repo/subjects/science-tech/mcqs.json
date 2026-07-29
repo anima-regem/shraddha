@@ -179,6 +179,60 @@
       "answerIndex": 0,
       "explanation": "The second (s) is the SI base unit for time.",
       "difficulty": "easy"
+    },
+    {
+      "id": "sci-mcq-017",
+      "topic": "Space Technology",
+      "question": "Which planet is the hottest in the solar system?",
+      "options": ["Venus", "Mercury", "Mars", "Jupiter"],
+      "answerIndex": 0,
+      "explanation": "Venus is the hottest planet because its dense carbon-dioxide atmosphere traps heat through an extreme greenhouse effect.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "sci-mcq-018",
+      "topic": "Basic Science",
+      "question": "What is the most abundant gas in Earth's atmosphere?",
+      "options": ["Nitrogen", "Oxygen", "Argon", "Carbon dioxide"],
+      "answerIndex": 0,
+      "explanation": "Dry air is about 78% nitrogen by volume, compared with about 21% oxygen.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "sci-mcq-019",
+      "topic": "Basic Science",
+      "question": "How many chromosomes do humans normally have in most body cells?",
+      "options": ["46", "23", "44", "48"],
+      "answerIndex": 0,
+      "explanation": "Humans have 23 pairs of chromosomes, for a total of 46 chromosomes in most body cells.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "sci-mcq-020",
+      "topic": "Space Technology",
+      "question": "What force keeps planets in orbit around the Sun?",
+      "options": ["Gravity", "Magnetism", "Solar wind", "Centrifugal force"],
+      "answerIndex": 0,
+      "explanation": "The Sun's gravitational attraction supplies the inward acceleration that keeps planets in their orbits.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "sci-mcq-021",
+      "topic": "Basic Science",
+      "question": "Which organ produces insulin?",
+      "options": ["Pancreas", "Liver", "Kidney", "Spleen"],
+      "answerIndex": 0,
+      "explanation": "Insulin-producing beta cells are found in clusters called islets in the pancreas.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "sci-mcq-022",
+      "topic": "Basic Science",
+      "question": "What is the speed of light in a vacuum, approximately?",
+      "options": ["299,792 km/s", "150,000 km/s", "30,000 km/s", "3,000 km/s"],
+      "answerIndex": 0,
+      "explanation": "The exact SI value is 299,792,458 metres per second, or about 299,792 kilometres per second.",
+      "difficulty": "medium"
     }
   ]
 }
