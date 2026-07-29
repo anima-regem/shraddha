@@ -179,3 +179,13 @@
 - Retrieved: 2026-07-30
 - Answer evidence: `sci-mcq-042` — <https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/aflap.html>; `sci-mcq-043` — <https://www.bipm.org/en/si-base-units/metre>; `sci-mcq-044` — <https://entsoc.org/about/what-is-entomology>; `sci-mcq-045` — <https://www.physics.ox.ac.uk/news/oxford-physicists-create-new-family-schrodingers-cat-states>.
 - Covered content: `subjects/science-tech/mcqs-002.json` — `sci-mcq-042` through `sci-mcq-045`
+
+## 2026-07-30 — Wikibooks GCSE Science Electricity batch
+
+- Rights holder: Wikibooks contributors; contributor attribution is available in the [page history](https://en.wikibooks.org/w/index.php?title=GCSE_Science/Electricity_multiple_choice&action=history).
+- Source: [GCSE Science/Electricity multiple choice, permanent revision 3294230](https://en.wikibooks.org/w/index.php?title=GCSE_Science/Electricity_multiple_choice&oldid=3294230).
+- Reuse basis: Wikibooks states that its text is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/) and may be copied, modified, and redistributed with attribution and the same terms; see [Wikibooks:Copyrights](https://en.wikibooks.org/wiki/Wikibooks:Copyrights).
+- Attribution: Adapted from "GCSE Science/Electricity multiple choice" by Wikibooks contributors, CC BY-SA 4.0. The adapted items in this batch are made available under CC BY-SA 4.0.
+- Retrieved: 2026-07-30
+- Answer evidence: `sci-mcq-046` — [BIPM SI Brochure, Appendix 2](https://www.bipm.org/documents/20126/41489676/SI-App2-ampere.pdf/0987a90e-051b-dd7f-827d-3f7b32751a61); `sci-mcq-047` — [NASA GSFC, Magnetometers](https://pwg.gsfc.nasa.gov/stargaze/magmeter.htm).
+- Covered content: `subjects/science-tech/mcqs-002.json` — `sci-mcq-046` through `sci-mcq-047`

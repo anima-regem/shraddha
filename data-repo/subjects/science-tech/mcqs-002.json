@@ -185,6 +185,29 @@
       "answerIndex": 0,
       "explanation": "Schrodinger's cat is a thought experiment that illustrates quantum superposition by imagining a cat as both alive and dead until observation.",
       "difficulty": "easy"
+    },
+    {
+      "id": "sci-mcq-046",
+      "topic": "Basic Science",
+      "question": "An appliance is connected to a 230 V supply by a 5 A cable. What maximum power should the appliance have?",
+      "options": ["46 W", "1.15 kW", "115 W", "4.6 kW"],
+      "answerIndex": 1,
+      "explanation": "Electric power equals voltage multiplied by current: 230 V x 5 A = 1,150 W, or 1.15 kW.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sci-mcq-047",
+      "topic": "Basic Science",
+      "question": "Why does an iron nail used as the core make an electromagnet stronger?",
+      "options": [
+        "Iron conducts electricity through the core",
+        "Iron's magnetic atoms add to the coil's magnetic field",
+        "Iron reverses the direction of current in the coil",
+        "Iron removes all electrical resistance from the circuit"
+      ],
+      "answerIndex": 1,
+      "explanation": "An iron core strengthens an electromagnet because the magnetic axes of iron atoms align with the coil's field and add to it.",
+      "difficulty": "medium"
     }
   ]
 }
