@@ -259,3 +259,13 @@
 - Retrieved: 2026-07-30
 - Answer evidence: `geo-mcq-038` and `geo-mcq-039` — [National Weather Service, Thunderstorms](https://www.weather.gov/jkl/education); `geo-mcq-040` and `geo-mcq-041` — [NOAA National Severe Storms Laboratory, Thunderstorm Basics](https://www.nssl.noaa.gov/education/svrwx101/thunderstorms/).
 - Covered content: `subjects/geography/mcqs.json` — `geo-mcq-038` through `geo-mcq-041`
+
+## 2026-07-30 — Wikibooks Education in the 19th Century batch
+
+- Rights holder: Keenan Buchanan and Wikibooks contributors.
+- Source: [Foundations and Assessment of Education, Edition 1, Chapter 3.2.2, permanent revision 3286428](https://en.wikibooks.org/w/index.php?title=Foundations_and_Assessment_of_Education/Edition_1/Foundations_Table_of_Contents/Chapter_3/3.2.2&oldid=3286428).
+- Reuse basis: Wikibooks text is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); its [copyright policy](https://en.wikibooks.org/wiki/Wikibooks:Copyrights) permits copying, modifying, and redistributing text with attribution, a license notice, and the same terms.
+- Attribution: Adapted from "Education in the 19th Century" by Keenan Buchanan and [Wikibooks contributors](https://en.wikibooks.org/w/index.php?title=Foundations_and_Assessment_of_Education/Edition_1/Foundations_Table_of_Contents/Chapter_3/3.2.2&action=history), CC BY-SA 4.0. The adapted item in this batch is made available under CC BY-SA 4.0.
+- Retrieved: 2026-07-30
+- Answer evidence: `his-mcq-031` — [Karl Marx and Friedrich Engels, *Manifesto of the Communist Party*](https://en.wikisource.org/wiki/The_Communist_Manifesto), which identifies the history of mankind as a history of class struggles.
+- Covered content: `subjects/history/mcqs.json` — `his-mcq-031`

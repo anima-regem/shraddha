@@ -290,6 +290,15 @@
       "answerIndex": 0,
       "explanation": "The Normans pretended to flee, encouraging some English soldiers to break ranks and pursue before Norman cavalry counter-attacked.",
       "difficulty": "medium"
+    },
+    {
+      "id": "his-mcq-031",
+      "topic": "World History",
+      "question": "According to Karl Marx, the history of the world was the history of what?",
+      "options": ["Good versus evil", "A cycle", "Class struggle", "Human advancement"],
+      "answerIndex": 2,
+      "explanation": "Marx and Engels describe recorded human history as a history of class struggles between exploiting and exploited, ruling and oppressed classes.",
+      "difficulty": "medium"
     }
   ]
 }
