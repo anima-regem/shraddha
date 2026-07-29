@@ -423,6 +423,62 @@
       "answerIndex": 2,
       "explanation": "A major hurricane is a Category 3, 4, or 5 hurricane on the Saffir-Simpson Hurricane Wind Scale.",
       "difficulty": "easy"
+    },
+    {
+      "id": "geo-mcq-038",
+      "topic": "Physical Geography",
+      "question": "Which three ingredients are required for thunderstorm formation?",
+      "options": [
+        "Moisture, instability, and a lifting mechanism",
+        "Moisture, fronts, and oceans",
+        "Stability, moisture, and heat",
+        "Lifting mechanism, mountains, and oceans"
+      ],
+      "answerIndex": 0,
+      "explanation": "Thunderstorms need moisture, atmospheric instability, and a lifting mechanism to initiate rising air.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "geo-mcq-039",
+      "topic": "Physical Geography",
+      "question": "Which atmospheric profile most favors the instability needed for thunderstorm development?",
+      "options": [
+        "Cool, dry air near the surface and warm, moist air aloft",
+        "Warm, moist air near the surface and cold, dry air aloft",
+        "Cool, dry air throughout the atmosphere",
+        "Warm, moist air throughout the atmosphere"
+      ],
+      "answerIndex": 1,
+      "explanation": "Air is most likely to be unstable when warm, moist air is at the surface and colder, drier air is aloft, allowing lifted air to keep rising.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "geo-mcq-040",
+      "topic": "Physical Geography",
+      "question": "What is the first stage in the life cycle of a typical thunderstorm?",
+      "options": [
+        "Towering cumulus stage",
+        "Mature stage",
+        "Dissipating stage",
+        "Anvil stage"
+      ],
+      "answerIndex": 0,
+      "explanation": "A typical thunderstorm begins in the towering cumulus, or developing, stage when warm, moist updrafts build the cloud vertically.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "geo-mcq-041",
+      "topic": "Physical Geography",
+      "question": "During which thunderstorm stage are large hail, damaging winds, and tornadoes most likely?",
+      "options": [
+        "Towering cumulus stage",
+        "Mature stage",
+        "Dissipating stage",
+        "Stratospheric stage"
+      ],
+      "answerIndex": 1,
+      "explanation": "The mature stage contains strong updrafts and downdrafts and is the most dangerous stage, when large hail, damaging winds, tornadoes, and flash flooding may occur.",
+      "difficulty": "medium"
     }
   ]
 }

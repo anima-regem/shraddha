@@ -249,3 +249,13 @@
 - Retrieved: 2026-07-30
 - Answer evidence: `geo-mcq-036` — [National Hurricane Center, Coastal Watches and Warnings](https://www.nhc.noaa.gov/mobile/watchwarn_help.html); `geo-mcq-037` — [National Hurricane Center Glossary](https://www.nhc.noaa.gov/aboutgloss.shtml).
 - Covered content: `subjects/geography/mcqs.json` — `geo-mcq-036` through `geo-mcq-037`
+
+## 2026-07-30 — NOAA JetStream Thunderstorms review batch
+
+- Rights holder: National Oceanic and Atmospheric Administration (NOAA), National Weather Service Southern Region JetStream.
+- Source: [Thunderstorms - Review Questions](https://www.weather.gov/media/shv/education_resource_library/thunderstorms/Thunderstorm_Quiz.pdf).
+- Reuse basis: JetStream states: "You are free to use the materials in any manner you wish." See [JetStream](https://www.noaa.gov/jetstream). The source identifies itself as National Weather Service Southern Region JetStream material.
+- Attribution: Adapted from "Thunderstorms - Review Questions" by NOAA National Weather Service Southern Region JetStream. Credit NOAA.
+- Retrieved: 2026-07-30
+- Answer evidence: `geo-mcq-038` and `geo-mcq-039` — [National Weather Service, Thunderstorms](https://www.weather.gov/jkl/education); `geo-mcq-040` and `geo-mcq-041` — [NOAA National Severe Storms Laboratory, Thunderstorm Basics](https://www.nssl.noaa.gov/education/svrwx101/thunderstorms/).
+- Covered content: `subjects/geography/mcqs.json` — `geo-mcq-038` through `geo-mcq-041`
