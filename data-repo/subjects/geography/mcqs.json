@@ -651,6 +651,48 @@
       "answerIndex": 0,
       "explanation": "The Bay of Fundy, between Nova Scotia and New Brunswick, has the world's highest tides. Its shape and resonance amplify the tidal range.",
       "difficulty": "easy"
+    },
+    {
+      "id": "geo-mcq-055",
+      "topic": "Physical Geography",
+      "question": "What is an earthquake's epicenter?",
+      "options": [
+        "The point on Earth's surface directly above the focus",
+        "The underground point where rupture begins",
+        "The zone where tectonic plates first meet",
+        "The station that records the strongest shaking"
+      ],
+      "answerIndex": 0,
+      "explanation": "The focus, or hypocenter, is where rupture starts below ground. The epicenter is the point on Earth's surface directly above it.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "geo-mcq-056",
+      "topic": "Physical Geography",
+      "question": "Which seismic wave can travel through Earth's liquid outer core?",
+      "options": [
+        "P-wave",
+        "S-wave",
+        "Love wave",
+        "Rayleigh wave"
+      ],
+      "answerIndex": 0,
+      "explanation": "P-waves are compressional waves and can travel through solids, liquids, and gases. S-waves require shear strength and do not travel through liquids.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "geo-mcq-057",
+      "topic": "Physical Geography",
+      "question": "Which seismic waves usually have the strongest vibrations and cause most earthquake damage?",
+      "options": [
+        "Surface waves",
+        "P-waves",
+        "S-waves",
+        "Body waves equally"
+      ],
+      "answerIndex": 0,
+      "explanation": "Surface waves travel along Earth's surface and usually have the strongest vibrations, so they probably cause most earthquake damage.",
+      "difficulty": "medium"
     }
   ]
 }

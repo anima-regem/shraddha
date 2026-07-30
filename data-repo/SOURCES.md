@@ -461,3 +461,14 @@
 - Answer evidence: `env-mcq-019` — [NOAA Climate.gov, El Nino and La Nina: Frequently asked questions](https://www.climate.gov/news-features/understanding-climate/el-nino-and-la-nina-frequently-asked-questions).
 - Duplicate decision: `geo-fc-003` compares El Nino and La Nina by Pacific temperature anomaly and Indian-monsoon effect; it does not test the equatorial trade-wind mechanism in this MCQ.
 - Covered content: `subjects/environment/mcqs.json` — `env-mcq-019`
+
+## 2026-07-30 — Wikibooks nature-of-earthquakes review batch
+
+- Rights holder: Wikibooks contributors; contributor attribution is available in the [page history](https://en.wikibooks.org/w/index.php?title=High_School_Earth_Science/Nature_of_Earthquakes&action=history).
+- Source: [High School Earth Science/Nature of Earthquakes, permanent revision 3594833](https://en.wikibooks.org/w/index.php?title=High_School_Earth_Science/Nature_of_Earthquakes&oldid=3594833).
+- Reuse basis: Wikibooks text is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); its [copyright policy](https://en.wikibooks.org/wiki/Wikibooks:Copyrights) permits copying, modifying, and redistributing text with attribution, a license notice, and the same terms. No images, tables, linked material, or other non-text media are imported.
+- Attribution: Adapted from "High School Earth Science/Nature of Earthquakes" by Wikibooks contributors, CC BY-SA 4.0. The adapted items in this batch are made available under CC BY-SA 4.0.
+- Retrieved: 2026-07-30
+- Answer evidence: `geo-mcq-055` — [USGS, The Science of Earthquakes](https://www.usgs.gov/programs/earthquake-hazards/science-earthquakes); `geo-mcq-056` and `geo-mcq-057` — [USGS, Measuring Earthquakes](https://pubs.usgs.gov/gip/earthq1/measure.html).
+- Duplicate decision: `geo-fc-001` mentions earthquakes at all plate-boundary types but does not cover epicenter geometry, seismic-wave propagation, or the strongest-damage wave class.
+- Covered content: `subjects/geography/mcqs.json` — `geo-mcq-055` through `geo-mcq-057`
