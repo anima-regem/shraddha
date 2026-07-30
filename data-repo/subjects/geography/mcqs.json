@@ -819,6 +819,20 @@
       "answerIndex": 0,
       "explanation": "A radiosonde is suspended below a weather balloon and transmits upper-air observations such as pressure, temperature, and relative humidity to a ground station.",
       "difficulty": "easy"
+    },
+    {
+      "id": "geo-mcq-067",
+      "topic": "Climatology",
+      "question": "Which pair of long-term climate patterns is central to the Koppen climate-classification system?",
+      "options": [
+        "Temperature and precipitation",
+        "Air pressure and wind speed",
+        "Tidal range and sea salinity",
+        "Rock type and landform elevation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Koppen climate classifications use long-term temperature and precipitation patterns, including their seasonal distribution, to distinguish climate regions.",
+      "difficulty": "medium"
     }
   ]
 }
