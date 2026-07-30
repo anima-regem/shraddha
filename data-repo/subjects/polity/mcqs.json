@@ -152,6 +152,34 @@
       "answerIndex": 0,
       "explanation": "The Trusteeship Council suspended operations on 1 November 1994 after Palau, the final UN trust territory, became independent.",
       "difficulty": "medium"
+    },
+    {
+      "id": "pol-mcq-015",
+      "topic": "Comparative Politics",
+      "question": "Which change did the Twelfth Amendment make to the United States Electoral College procedure?",
+      "options": [
+        "Electors cast distinct ballots for President and Vice President",
+        "The House of Representatives directly elected every President",
+        "A nationwide popular vote replaced the appointment of electors",
+        "The Vice President was selected by the Chief Justice"
+      ],
+      "answerIndex": 0,
+      "explanation": "The Twelfth Amendment requires electors to name their presidential and vice-presidential choices in distinct ballots.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "pol-mcq-016",
+      "topic": "Comparative Politics",
+      "question": "Before the Twelfth Amendment, which office went to the candidate with the second-highest electoral-vote total under the original United States Constitution?",
+      "options": [
+        "Vice President",
+        "Speaker of the House",
+        "Secretary of State",
+        "Chief Justice"
+      ],
+      "answerIndex": 0,
+      "explanation": "Under the original arrangement, electors cast two presidential votes; the candidate with the highest total became President and the runner-up became Vice President.",
+      "difficulty": "medium"
     }
   ]
 }

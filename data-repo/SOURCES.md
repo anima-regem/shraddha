@@ -340,3 +340,13 @@
 - Retrieved: 2026-07-30
 - Answer evidence: `eco-mcq-012` and `eco-mcq-013` — [Federal Reserve Bank of St. Louis, Money and Missed Opportunities](https://www.stlouisfed.org/publications/page-one-economics/2019/10/01/money-and-missed-opportunities), which defines scarcity and opportunity cost; `eco-mcq-013` additionally follows directly from the stated 4-hour by Rs. 20-per-hour calculation.
 - Covered content: `subjects/economy/mcqs.json` — `eco-mcq-012` through `eco-mcq-013`
+
+## 2026-07-30 — Wikibooks American Government political-parties batch
+
+- Rights holder: Wikibooks contributors; contributor attribution is available in the [page history](https://en.wikibooks.org/w/index.php?title=American_Government/Political_Parties&action=history).
+- Source: [American Government/Political Parties, permanent revision 3514983](https://en.wikibooks.org/w/index.php?title=American_Government/Political_Parties&oldid=3514983).
+- Reuse basis: Wikibooks text is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); its [copyright policy](https://en.wikibooks.org/wiki/Wikibooks:Copyrights) permits copying, modifying, and redistributing text with attribution, a license notice, and the same terms.
+- Attribution: Adapted from "American Government/Political Parties" by Wikibooks contributors, CC BY-SA 4.0. The adapted items in this batch are made available under CC BY-SA 4.0.
+- Retrieved: 2026-07-30
+- Answer evidence: `pol-mcq-015` and `pol-mcq-016` — [U.S. National Archives, Legal Provisions Relevant to the Electoral College Process](https://www.archives.gov/electoral-college/provisions), which reproduces the Twelfth Amendment's distinct-ballot rule; [U.S. National Archives, Tally of the 1824 Electoral College Vote](https://www.archives.gov/education/lessons/electoral-tally), which explains that the original arrangement awarded the presidency to the highest electoral-vote total and the vice presidency to the runner-up.
+- Covered content: `subjects/polity/mcqs.json` — `pol-mcq-015` through `pol-mcq-016`
