@@ -362,6 +362,48 @@
       "answerIndex": 0,
       "explanation": "Accuracy is more than precision: reliable data must be dependable, consistent, timely, and obtained with accurate equipment.",
       "difficulty": "medium"
+    },
+    {
+      "id": "sci-mcq-059",
+      "topic": "Basic Science",
+      "question": "Which statement best distinguishes a random measurement error from a systematic error?",
+      "options": [
+        "Random errors vary around zero; systematic errors tend to bias results in one direction",
+        "Random errors always make values too high; systematic errors always make them too low",
+        "Random errors occur only in digital instruments; systematic errors occur only in manual instruments",
+        "Random errors can be removed by calibration; systematic errors cannot be investigated"
+      ],
+      "answerIndex": 0,
+      "explanation": "Random errors fluctuate above and below the true value, whereas systematic errors create a persistent bias caused, for example, by a calibration problem.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sci-mcq-060",
+      "topic": "Basic Science",
+      "question": "Which quality-control method plots a parameter over time to identify unexpected discrepancies?",
+      "options": [
+        "Temporal continuity check",
+        "Vertical consistency check",
+        "Coding-error check",
+        "General plausibility check"
+      ],
+      "answerIndex": 0,
+      "explanation": "Temporal continuity checks examine a time series of a parameter to find data values that depart unexpectedly from the pattern.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sci-mcq-061",
+      "topic": "Basic Science",
+      "question": "What type of quality-control check compares two independent sources of information for the same observation?",
+      "options": [
+        "Cross-check or redundancy check",
+        "Temporal continuity check",
+        "Vertical consistency check",
+        "Coding-error check"
+      ],
+      "answerIndex": 0,
+      "explanation": "A cross-check, also called a redundancy check, compares independent data sources; a contradiction can indicate that one source is incorrect.",
+      "difficulty": "medium"
     }
   ]
 }

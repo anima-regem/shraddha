@@ -390,3 +390,13 @@
 - Retrieved: 2026-07-30
 - Answer evidence: `sci-mcq-056` through `sci-mcq-058` — [National Weather Service Training Center, official answers to review questions](https://training.weather.gov/nwstc/Hydrology/HYDRO/QCModule/QAQCAns.HTML).
 - Covered content: `subjects/science-tech/mcqs-002.json` — `sci-mcq-056` through `sci-mcq-058`
+
+## 2026-07-30 — NWS quality control concepts batch
+
+- Rights holder: National Weather Service Training Center, National Oceanic and Atmospheric Administration, U.S. Department of Commerce.
+- Source: [Quality Control Concepts](https://training.weather.gov/nwstc/Hydrology/HYDRO/QCModule/QCConc.HTML); [official answers to review questions](https://training.weather.gov/nwstc/Hydrology/HYDRO/QCModule/QCCAns.HTML).
+- Reuse basis: The module identifies the National Weather Service Training Center as its publisher. Only NWS-authored review-question and answer-key facts are adapted. Under [17 U.S.C. 105](https://uscode.house.gov/view.xhtml?req=%28title%3A17+section%3A105+edition%3Aprelim%29), copyright protection is not available for a work of the United States Government. No images, marks, reference publications, linked material, or third-party content are imported.
+- Attribution: Adapted from "Quality Control Concepts" by National Weather Service Training Center, public domain in the United States; National Weather Service acknowledged as the source.
+- Retrieved: 2026-07-30
+- Answer evidence: `sci-mcq-059` through `sci-mcq-061` — [National Weather Service Training Center, official answers to review questions](https://training.weather.gov/nwstc/Hydrology/HYDRO/QCModule/QCCAns.HTML).
+- Covered content: `subjects/science-tech/mcqs-002.json` — `sci-mcq-059` through `sci-mcq-061`
