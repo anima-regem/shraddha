@@ -560,3 +560,14 @@
 - Answer evidence: `geo-mcq-067` — [NOAA Climate.gov, How do scientists classify different types of climate?](https://www.climate.gov/maps-data/climate-data-primer/how-do-scientists-classify-different-types-climate).
 - Duplicate decision: No recursive content mentions Koppen, climate classification, or using long-term temperature and precipitation patterns to classify climates. Existing climate items test El Nino trade winds, atmospheric circulation, storms, dew point, and weather observations, not climate classification.
 - Covered content: `subjects/geography/mcqs.json` — `geo-mcq-067`
+
+## 2026-07-30 — Wikibooks geyser-constriction batch
+
+- Rights holder: Wikibooks contributors; contributor attribution is available in the [page history](https://en.wikibooks.org/w/index.php?title=High_School_Earth_Science/Volcanic_Landforms_and_Geothermal_Activity&action=history).
+- Source: [High School Earth Science/Volcanic Landforms and Geothermal Activity, permanent revision 3538446](https://en.wikibooks.org/w/index.php?title=High_School_Earth_Science/Volcanic_Landforms_and_Geothermal_Activity&oldid=3538446).
+- Reuse basis: Wikibooks text is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); its [copyright policy](https://en.wikibooks.org/wiki/Wikibooks:Copyrights) permits copying, modifying, and redistributing text with attribution, a license notice, and the same terms. No images, tables, linked material, or other non-text media are imported.
+- Attribution: Adapted from "High School Earth Science/Volcanic Landforms and Geothermal Activity" by Wikibooks contributors, CC BY-SA 4.0. The adapted item in this batch is made available under CC BY-SA 4.0.
+- Retrieved: 2026-07-30
+- Answer evidence: `geo-mcq-068` — [National Park Service, How Geysers Erupt](https://www.nps.gov/teachers/classrooms/how-geysers-erupt.htm).
+- Duplicate decision: No recursive content contains geysers, hot springs, hydrothermal plumbing, or a pressure-building constriction. The sole geothermal occurrence is an unrelated renewable-energy option in `environment/mcqs.json`.
+- Covered content: `subjects/geography/mcqs.json` — `geo-mcq-068`

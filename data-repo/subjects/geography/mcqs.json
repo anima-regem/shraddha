@@ -833,6 +833,20 @@
       "answerIndex": 0,
       "explanation": "Koppen climate classifications use long-term temperature and precipitation patterns, including their seasonal distribution, to distinguish climate regions.",
       "difficulty": "medium"
+    },
+    {
+      "id": "geo-mcq-068",
+      "topic": "Physical Geography",
+      "question": "Which subsurface feature most directly distinguishes a geyser from a continuously flowing hot spring?",
+      "options": [
+        "A constricted plumbing system that allows pressure to build",
+        "An underground river flowing at constant speed",
+        "A permanently frozen aquifer above the vent",
+        "A layer of sediment that prevents water from being heated"
+      ],
+      "answerIndex": 0,
+      "explanation": "Geysers have constrictions in their underground plumbing that restrict water circulation and allow heat and pressure to build. A hot spring has unconstricted plumbing and flows freely to the surface.",
+      "difficulty": "medium"
     }
   ]
 }
