@@ -254,6 +254,20 @@
       "answerIndex": 0,
       "explanation": "Nitrogen fixation converts atmospheric N2 into ammonia, bringing nitrogen from the atmosphere into biologically available forms.",
       "difficulty": "medium"
+    },
+    {
+      "id": "env-mcq-022",
+      "topic": "Ecology",
+      "question": "Which ecological term describes a species whose influence on ecosystem structure is disproportionately large relative to its abundance?",
+      "options": [
+        "Keystone species",
+        "Indicator species",
+        "Invasive species",
+        "Endemic species"
+      ],
+      "answerIndex": 0,
+      "explanation": "A keystone species has an outsized effect on the structure or function of an ecosystem compared with its abundance.",
+      "difficulty": "medium"
     }
   ]
 }

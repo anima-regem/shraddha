@@ -736,3 +736,14 @@
 - Answer evidence: `geo-mcq-070` - [U.S. EPA, Basic Information and Answers to Frequent Questions](https://www.epa.gov/hwp/basic-information-and-answers-frequent-questions).
 - Duplicate decision: The recursive validator found no ID or exact duplicate. The only catalog hit for "watershed" is an incorrect distractor in `env-mcq-014`, which tests water-quality-standard components rather than watershed definition or drainage geography.
 - Covered content: `subjects/geography/mcqs.json` - `geo-mcq-070`
+
+## 2026-07-30 - USGS keystone-species batch
+
+- Rights holder: U.S. Geological Survey, U.S. Department of the Interior.
+- Source: [USGS Thesaurus: keystone species](https://apps.usgs.gov/thesaurus/term-simple.php?code=615&thcode=2).
+- Reuse basis: [USGS copyright guidance](https://www.usgs.gov/faqs/are-usgs-reportspublications-copyrighted) states that USGS-authored data and information are in the U.S. public domain and may be freely used without permission with acknowledgement. Only the ecological concept is adapted into an original question; no images, figures, layout, trademarks, or source wording are imported.
+- Attribution: Adapted from "keystone species," U.S. Geological Survey Thesaurus, public domain. Credit: U.S. Geological Survey.
+- Retrieved: 2026-07-30
+- Answer evidence: `env-mcq-022` - [NOAA, Condition Reports Rating Criteria](https://sanctuaries.noaa.gov/science/condition/rating.html).
+- Duplicate decision: The recursive validator found no ID or exact duplicate. Manual recursive review found no keystone, ecosystem-engineer, foundation-species, indicator-species, invasive-species, endemic-species, or disproportionate-effect item.
+- Covered content: `subjects/environment/mcqs.json` - `env-mcq-022`
