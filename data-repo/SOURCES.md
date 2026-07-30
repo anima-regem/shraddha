@@ -813,3 +813,14 @@
 - Answer evidence: `env-mcq-029` - [USGS, Artificial Groundwater Recharge](https://www.usgs.gov/mission-areas/water-resources/science/artificial-groundwater-recharge); `env-mcq-030` - [USGS, Artesian Water and Artesian Wells](https://www.usgs.gov/water-science-school/science/artesian-water-and-artesian-wells).
 - Duplicate decision: The recursive validator found no ID or exact duplicate. Manual recursive review found no artificial recharge, managed aquifer recharge, injection wells, artesian groundwater, confined aquifers, or aquifer pressure. Existing groundwater content covers quality, baseflow, well drawdown, freshwater distribution, and streamflow depletion.
 - Covered content: `subjects/environment/mcqs.json` - `env-mcq-029` through `env-mcq-030`
+
+## 2026-07-30 - USGS natural-hazards karst and seismic-propagation quiz batch
+
+- Rights holder: U.S. Geological Survey, U.S. Department of the Interior.
+- Source: [Top 10 from Hazard a Guess?](https://www.usgs.gov/news/featured-story/top-10-hazard-guess-riskiest-science-quiz-you-will-ever-take), questions 7 and 9.
+- Reuse basis: [USGS copyright guidance](https://www.usgs.gov/faqs/are-usgs-reportspublications-copyrighted) states that USGS-authored data and information are in the U.S. public domain and may be freely used without permission with acknowledgement. The selected source text and associated media are marked public domain; no images, media, or source wording are used. The Shraddha items are original factual MCQs based on the source concepts.
+- Attribution: Adapted from "Top 10 from Hazard a Guess? The riskiest science quiz you will ever take!", U.S. Geological Survey, public domain. Credit: U.S. Geological Survey.
+- Retrieved: 2026-07-30
+- Answer evidence: `geo-mcq-073` - [USGS, East vs West Coast Earthquakes](https://www.usgs.gov/news/featured-story/east-vs-west-coast-earthquakes); `geo-mcq-074` - [USGS, Karst Aquifers](https://www.usgs.gov/mission-areas/water-resources/science/karst-aquifers).
+- Duplicate decision: The recursive validator found no ID or exact duplicate. Manual recursive review found no karst, sinkholes, soluble-rock dissolution, regional seismic-wave propagation, eastern-U.S. earthquake shaking, or crustal transmission. Existing seismic items test wave types and surface-wave damage; a limestone reference is only an incorrect distractor in a frost-wedging item.
+- Covered content: `subjects/geography/mcqs.json` - `geo-mcq-073` through `geo-mcq-074`

@@ -903,6 +903,34 @@
       "answerIndex": 0,
       "explanation": "Subduction occurs at a convergent boundary when one tectonic plate sinks beneath another into Earth's mantle.",
       "difficulty": "medium"
+    },
+    {
+      "id": "geo-mcq-073",
+      "topic": "Physical Geography",
+      "question": "Why can an earthquake of similar magnitude be felt over a larger area in the eastern United States than in the west?",
+      "options": [
+        "Older, denser crustal rocks transmit seismic waves more efficiently over long distances",
+        "Eastern earthquakes release more energy at the same magnitude",
+        "The eastern United States has no active faults to absorb energy",
+        "Seismic waves travel faster through ocean water than through rock"
+      ],
+      "answerIndex": 0,
+      "explanation": "Older, denser rocks and healed faults in the eastern United States allow seismic-wave energy to travel farther. Younger, more fractured western rocks absorb more of that energy.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "geo-mcq-074",
+      "topic": "Physical Geography",
+      "question": "Which process most directly creates karst terrain with features such as caves and sinkholes?",
+      "options": [
+        "Dissolution of soluble rocks such as limestone and dolomite",
+        "Deposition of wind-blown sand in layers",
+        "Cooling and solidification of lava flows",
+        "Compression of clay by overlying sediments"
+      ],
+      "answerIndex": 0,
+      "explanation": "Karst develops when groundwater dissolves soluble rocks, especially limestone and dolomite. The resulting cavities and conduits can form caves and sinkholes.",
+      "difficulty": "medium"
     }
   ]
 }
