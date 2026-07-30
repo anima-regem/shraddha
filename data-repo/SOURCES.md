@@ -380,3 +380,13 @@
 - Retrieved: 2026-07-30
 - Answer evidence: `sci-mcq-053` and `sci-mcq-054` — [U.S. FDA, Serving Size on the Nutrition Facts Label](https://www.fda.gov/food/nutrition-facts-label/serving-size-nutrition-facts-label); `sci-mcq-055` — [NASA Johnson Space Center, Space Food](https://www.nasa.gov/centers/johnson/pdf/167750main_FS_SpaceFood508c.pdf).
 - Covered content: `subjects/science-tech/mcqs-002.json` — `sci-mcq-053` through `sci-mcq-055`
+
+## 2026-07-30 — NWS quality assurance and quality control batch
+
+- Rights holder: National Weather Service Training Center, National Oceanic and Atmospheric Administration, U.S. Department of Commerce.
+- Source: [Quality Assurance and Quality Control Module](https://training.weather.gov/nwstc/Hydrology/HYDRO/QCModule/QAQC.HTML); [official answers to review questions](https://training.weather.gov/nwstc/Hydrology/HYDRO/QCModule/QAQCAns.HTML).
+- Reuse basis: The module identifies the National Weather Service Training Center as its publisher. Only NWS-authored review-question and answer-key facts are adapted. Under [17 U.S.C. 105](https://uscode.house.gov/view.xhtml?req=%28title%3A17+section%3A105+edition%3Aprelim%29), copyright protection is not available for a work of the United States Government. No images, marks, linked material, or third-party content are imported.
+- Attribution: Adapted from "Quality Assurance and Quality Control Module" by National Weather Service Training Center, public domain in the United States; National Weather Service acknowledged as the source.
+- Retrieved: 2026-07-30
+- Answer evidence: `sci-mcq-056` through `sci-mcq-058` — [National Weather Service Training Center, official answers to review questions](https://training.weather.gov/nwstc/Hydrology/HYDRO/QCModule/QAQCAns.HTML).
+- Covered content: `subjects/science-tech/mcqs-002.json` — `sci-mcq-056` through `sci-mcq-058`

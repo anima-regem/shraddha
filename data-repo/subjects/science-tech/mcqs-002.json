@@ -320,6 +320,48 @@
       "answerIndex": 0,
       "explanation": "NASA uses flour tortillas because they help avoid loose crumbs, which are difficult to manage in microgravity.",
       "difficulty": "medium"
+    },
+    {
+      "id": "sci-mcq-056",
+      "topic": "Basic Science",
+      "question": "In a data-management workflow, which pairing correctly distinguishes quality assurance (QA) from quality control (QC)?",
+      "options": [
+        "QA is passive review; QC is active correction or prevention",
+        "QA is active correction; QC is passive review",
+        "QA measures precision; QC measures only speed",
+        "QA applies to equipment; QC applies only to people"
+      ],
+      "answerIndex": 0,
+      "explanation": "Quality assurance uses review and oversight of incoming data, while quality control actively corrects deficiencies or prevents problems.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sci-mcq-057",
+      "topic": "Basic Science",
+      "question": "Which activity is an example of quality assurance rather than quality control?",
+      "options": [
+        "Reviewing incoming observation forms for errors and inconsistencies",
+        "Training an observer to record measurements",
+        "Repairing a malfunctioning sensor",
+        "Correcting a deficient reporting procedure"
+      ],
+      "answerIndex": 0,
+      "explanation": "Quality assurance reviews incoming data for consistency and errors; training, repairs, and corrective procedures are quality-control activities.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sci-mcq-058",
+      "topic": "Basic Science",
+      "question": "Which property is essential for accurate observational data in addition to numerical precision?",
+      "options": [
+        "Dependability and consistency",
+        "A value reported to many decimal places",
+        "Independence from equipment calibration",
+        "A fixed 12-hour reporting delay"
+      ],
+      "answerIndex": 0,
+      "explanation": "Accuracy is more than precision: reliable data must be dependable, consistent, timely, and obtained with accurate equipment.",
+      "difficulty": "medium"
     }
   ]
 }
