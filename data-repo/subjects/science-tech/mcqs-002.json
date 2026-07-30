@@ -404,6 +404,48 @@
       "answerIndex": 0,
       "explanation": "A cross-check, also called a redundancy check, compares independent data sources; a contradiction can indicate that one source is incorrect.",
       "difficulty": "medium"
+    },
+    {
+      "id": "sci-mcq-062",
+      "topic": "Basic Science",
+      "question": "Which quantity determines an element's atomic number?",
+      "options": [
+        "Number of protons in its nucleus",
+        "Number of neutrons in its nucleus",
+        "Total number of electrons and neutrons",
+        "Total mass of its electron cloud"
+      ],
+      "answerIndex": 0,
+      "explanation": "An element's atomic number is defined by the number of protons in its nucleus.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "sci-mcq-063",
+      "topic": "Basic Science",
+      "question": "Atoms of the same element that differ in their number of neutrons are called what?",
+      "options": [
+        "Isotopes",
+        "Isobars",
+        "Ions",
+        "Allotropes"
+      ],
+      "answerIndex": 0,
+      "explanation": "Isotopes have the same number of protons, so they are the same element, but they have different numbers of neutrons.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "sci-mcq-064",
+      "topic": "Basic Science",
+      "question": "An atom has 13 protons and 15 neutrons. What is its mass number?",
+      "options": [
+        "28",
+        "15",
+        "13",
+        "2"
+      ],
+      "answerIndex": 0,
+      "explanation": "The mass number is the total number of protons and neutrons: 13 + 15 = 28.",
+      "difficulty": "easy"
     }
   ]
 }

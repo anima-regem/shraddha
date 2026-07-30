@@ -400,3 +400,13 @@
 - Retrieved: 2026-07-30
 - Answer evidence: `sci-mcq-059` through `sci-mcq-061` — [National Weather Service Training Center, official answers to review questions](https://training.weather.gov/nwstc/Hydrology/HYDRO/QCModule/QCCAns.HTML).
 - Covered content: `subjects/science-tech/mcqs-002.json` — `sci-mcq-059` through `sci-mcq-061`
+
+## 2026-07-30 — CK-12/Wikibooks atomic terminology review batch
+
+- Rights holder: CK-12 Foundation (the original High School Chemistry material identified by the source page) and Wikibooks contributors; contributor attribution is available in the [page history](https://en.wikibooks.org/w/index.php?title=High_School_Chemistry/Atomic_Terminology&action=history).
+- Source: [High School Chemistry/Atomic Terminology, permanent revision 3593343](https://en.wikibooks.org/w/index.php?title=High_School_Chemistry/Atomic_Terminology&oldid=3593343).
+- Reuse basis: The permanent source identifies the material as adapted from the original CK-12 book and states that it is licensed under the [Creative Commons Attribution-ShareAlike 3.0 United States License](https://creativecommons.org/licenses/by-sa/3.0/us/), which permits adaptation and redistribution with attribution and the same license terms. No images, tables, videos, external media, or third-party material are imported.
+- Attribution: Adapted from "High School Chemistry/Atomic Terminology" by CK-12 Foundation and Wikibooks contributors, CC BY-SA 3.0 US. The adapted items in this batch are made available under CC BY-SA 3.0 US.
+- Retrieved: 2026-07-30
+- Answer evidence: `sci-mcq-062` through `sci-mcq-064` — [U.S. Department of Energy, DOE Explains: Isotopes](https://www.energy.gov/science/doe-explainsisotopes).
+- Covered content: `subjects/science-tech/mcqs-002.json` — `sci-mcq-062` through `sci-mcq-064`
