@@ -802,3 +802,14 @@
 - Answer evidence: `env-mcq-027` - [USGS, Groundwater Flow and the Water Cycle](https://www.usgs.gov/index.php/special-topics/water-science-school/science/groundwater-flow-and-water-cycle); `env-mcq-028` - [USGS, Groundwater flow after people have started pumping groundwater](https://www.usgs.gov/media/images/groundwater-flow-after-people-have-started-pumping-groundwater).
 - Duplicate decision: The recursive validator found no ID or exact duplicate. Manual recursive review found no groundwater's share of freshwater, streamflow depletion, a pumping-induced reversal of stream-aquifer flow, or stream water drawn into an aquifer. Existing groundwater content covers water quality, natural drought baseflow, and drawdown at nearby wells.
 - Covered content: `subjects/environment/mcqs.json` - `env-mcq-027` through `env-mcq-028`
+
+## 2026-07-30 - USGS groundwater recharge and artesian quiz batch
+
+- Rights holder: U.S. Geological Survey, U.S. Department of the Interior.
+- Source: [Groundwater True/False Quiz](https://water.usgs.gov/edu/activity-tf-groundwater.php), questions 4 and 6.
+- Reuse basis: [USGS copyright guidance](https://www.usgs.gov/faqs/are-usgs-reportspublications-copyrighted) states that USGS-authored data and information are in the U.S. public domain and may be freely used without permission with acknowledgement. The source questions are USGS-authored text; no images, restricted media, or third-party content is used. The Shraddha items are original factual MCQs based on the source concepts rather than copied wording.
+- Attribution: Adapted from "Groundwater True/False Quiz," U.S. Geological Survey, public domain. Credit: U.S. Geological Survey.
+- Retrieved: 2026-07-30
+- Answer evidence: `env-mcq-029` - [USGS, Artificial Groundwater Recharge](https://www.usgs.gov/mission-areas/water-resources/science/artificial-groundwater-recharge); `env-mcq-030` - [USGS, Artesian Water and Artesian Wells](https://www.usgs.gov/water-science-school/science/artesian-water-and-artesian-wells).
+- Duplicate decision: The recursive validator found no ID or exact duplicate. Manual recursive review found no artificial recharge, managed aquifer recharge, injection wells, artesian groundwater, confined aquifers, or aquifer pressure. Existing groundwater content covers quality, baseflow, well drawdown, freshwater distribution, and streamflow depletion.
+- Covered content: `subjects/environment/mcqs.json` - `env-mcq-029` through `env-mcq-030`

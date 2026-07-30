@@ -352,6 +352,34 @@
       "answerIndex": 0,
       "explanation": "Pumping can lower the water table and alter groundwater-flow directions. In connected systems, this can draw water from a stream into the aquifer and reduce streamflow.",
       "difficulty": "medium"
+    },
+    {
+      "id": "env-mcq-029",
+      "topic": "Water Resources",
+      "question": "Which action is an example of artificial groundwater recharge?",
+      "options": [
+        "Injecting water through a well into an aquifer",
+        "Pumping groundwater from a well for irrigation",
+        "Diverting groundwater into a wastewater outfall",
+        "Sealing an aquifer with impermeable material"
+      ],
+      "answerIndex": 0,
+      "explanation": "Artificial recharge increases the water entering an aquifer through human-controlled methods. One method is injecting water directly into the aquifer through wells.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "env-mcq-030",
+      "topic": "Water Resources",
+      "question": "What condition defines artesian groundwater?",
+      "options": [
+        "It is confined under pressure between relatively impermeable layers",
+        "It is groundwater heated to boiling point at great depth",
+        "It is groundwater naturally filtered by fine sand",
+        "It occurs only in coastal aquifers"
+      ],
+      "answerIndex": 0,
+      "explanation": "Artesian groundwater occurs in a confined aquifer where surrounding poorly permeable layers keep the water under pressure. A well can cause the water to rise above the aquifer and, in some cases, reach the surface.",
+      "difficulty": "medium"
     }
   ]
 }
