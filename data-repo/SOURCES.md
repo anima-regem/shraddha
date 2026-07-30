@@ -430,3 +430,13 @@
 - Retrieved: 2026-07-30
 - Answer evidence: `geo-mcq-053` — [NOAA National Ocean Service, Types and Causes of Tidal Cycles](https://oceanservice.noaa.gov/education/tutorial_tides/tides07_cycles.html); `geo-mcq-054` — [Parks Canada, Tides in Fundy National Park](https://parks.canada.ca/pn-np/nb/fundy/nature/environment/marees-tides).
 - Covered content: `subjects/geography/mcqs.json` — `geo-mcq-053` through `geo-mcq-054`
+
+## 2026-07-30 — CK-12/Wikibooks chemical family members batch
+
+- Rights holder: CK-12 Foundation (the original High School Chemistry material identified by the source page) and Wikibooks contributors; contributor attribution is available in the [page history](https://en.wikibooks.org/w/index.php?title=High_School_Chemistry/Chemical_Family_Members&action=history).
+- Source: [High School Chemistry/Chemical Family Members, permanent revision 3322138](https://en.wikibooks.org/w/index.php?title=High_School_Chemistry/Chemical_Family_Members&oldid=3322138).
+- Reuse basis: The permanent source identifies the material as adapted from the original CK-12 book and states that it is licensed under the [Creative Commons Attribution-ShareAlike 3.0 United States License](https://creativecommons.org/licenses/by-sa/3.0/us/), which permits adaptation and redistribution with attribution and the same license terms. No images, tables, linked material, or third-party content are imported.
+- Attribution: Adapted from "High School Chemistry/Chemical Family Members" by CK-12 Foundation and Wikibooks contributors, CC BY-SA 3.0 US. The adapted items in this batch are made available under CC BY-SA 3.0 US.
+- Retrieved: 2026-07-30
+- Answer evidence: `sci-mcq-065` — [U.S. Department of Energy, Fundamentals of Chemistry](https://www.energy.gov/sites/default/files/2026-04/DOE-HDBK-1015-93_VOL1.pdf); `sci-mcq-066` — [Royal Society of Chemistry, Calcium](https://periodic-table.rsc.org/element/20/Calcium) and [Magnesium](https://periodic-table.rsc.org/element/12/Magnesium); `sci-mcq-067` — [NIST, Atomic Reference Data for Iodine](https://www.nist.gov/pml/atomic-reference-data-electronic-structure-calculations/atomic-reference-data-electronic-7-51).
+- Covered content: `subjects/science-tech/mcqs-002.json` — `sci-mcq-065` through `sci-mcq-067`
