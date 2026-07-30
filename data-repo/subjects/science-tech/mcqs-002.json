@@ -488,6 +488,20 @@
       "answerIndex": 0,
       "explanation": "Iodine's outer shell is 5s2 5p5, which contains seven valence electrons.",
       "difficulty": "medium"
+    },
+    {
+      "id": "sci-mcq-068",
+      "topic": "Basic Science",
+      "question": "Which electron configuration is the ground-state configuration of neutral nickel (Ni)?",
+      "options": [
+        "[Ar] 3d8 4s2",
+        "[Ar] 3d10 4s2",
+        "[Kr] 3d8 4s2",
+        "[Ar] 3d8 4s1"
+      ],
+      "answerIndex": 0,
+      "explanation": "Neutral nickel has the ground-state electron configuration [Ar] 3d8 4s2.",
+      "difficulty": "medium"
     }
   ]
 }
