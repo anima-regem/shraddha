@@ -769,3 +769,14 @@
 - Answer evidence: `geo-mcq-071` and `geo-mcq-072` - [NOAA Ocean Exploration, What are the different types of plate tectonic boundaries?](https://oceanexplorer.noaa.gov/ocean-fact/plate-boundaries/).
 - Duplicate decision: The recursive validator found no ID or exact duplicate. Manual recursive review found no divergent-boundary, convergent-boundary, transform-boundary, subduction, plate-boundary, mid-ocean-ridge, or seafloor-spreading item.
 - Covered content: `subjects/geography/mcqs.json` - `geo-mcq-071` through `geo-mcq-072`
+
+## 2026-07-30 - USGS groundwater-quality quiz batch
+
+- Rights holder: U.S. Geological Survey, U.S. Department of the Interior.
+- Source: [How Well Do You Know Groundwater](https://www.usgs.gov/news/featured-story/how-well-do-you-know-groundwater), question 3.
+- Reuse basis: [USGS copyright guidance](https://www.usgs.gov/faqs/are-usgs-reportspublications-copyrighted) states that USGS-authored data and information are in the U.S. public domain and may be freely used without permission with acknowledgement. The source question is USGS-authored text; no restricted media, images, or other third-party content is used. The Shraddha item is an original factual MCQ based on that concept rather than copied wording.
+- Attribution: Adapted from "How Well Do You Know Groundwater," U.S. Geological Survey, public domain. Credit: U.S. Geological Survey.
+- Retrieved: 2026-07-30
+- Answer evidence: `env-mcq-024` - [USGS, Contamination of Groundwater](https://www.usgs.gov/special-topics/water-science-school/science/contamination-groundwater).
+- Duplicate decision: The recursive validator found no ID or exact duplicate. Manual recursive review found no groundwater-quality, groundwater-contamination, clean-groundwater, aquifer-contamination, well-contamination, or groundwater-pollution item. Existing water content concerns regulatory standards, drinking-water disinfection, wastewater treatment, or a watershed definition.
+- Covered content: `subjects/environment/mcqs.json` - `env-mcq-024`

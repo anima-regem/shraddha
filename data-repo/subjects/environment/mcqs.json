@@ -282,6 +282,20 @@
       "answerIndex": 0,
       "explanation": "Albedo measures reflectivity. A high-albedo surface reflects a larger share of incoming solar radiation than a low-albedo surface.",
       "difficulty": "medium"
+    },
+    {
+      "id": "env-mcq-024",
+      "topic": "Water Pollution",
+      "question": "Which statement correctly describes groundwater quality?",
+      "options": [
+        "Groundwater can contain natural or human-caused contaminants even when it appears clear",
+        "Groundwater is always safe because soil removes all minerals and chemicals",
+        "Only visible particles can contaminate groundwater",
+        "Contamination can occur only beneath industrial sites"
+      ],
+      "answerIndex": 0,
+      "explanation": "Soil can filter some particles, but groundwater can still contain natural dissolved elements and contaminants from human activities, even when the water appears clear.",
+      "difficulty": "medium"
     }
   ]
 }
