@@ -317,6 +317,20 @@
       "answerIndex": 0,
       "explanation": "Canada proclaimed O Canada its national anthem on July 1, 1980, when it adopted the National Anthem Act.",
       "difficulty": "medium"
+    },
+    {
+      "id": "his-mcq-034",
+      "topic": "World History",
+      "question": "What did the British Stamp Act require of the American colonists?",
+      "options": [
+        "They had to purchase government-issued stamps for legal documents and paper goods",
+        "They had to supply grain to British troops without payment",
+        "They had to export tea only through French merchants",
+        "They had to elect representatives to the British Parliament"
+      ],
+      "answerIndex": 0,
+      "explanation": "The Stamp Act imposed a direct internal tax by requiring colonists to buy government-issued stamps for legal documents and other paper goods. Opposition to this tax helped unite colonial resistance to Parliament.",
+      "difficulty": "medium"
     }
   ]
 }

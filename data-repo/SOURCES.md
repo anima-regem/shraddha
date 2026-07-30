@@ -593,3 +593,14 @@
 - Answer evidence: `eco-mcq-014` — [Federal Reserve Bank of St. Louis, Price Elasticity of Demand Video Explainers](https://www.stlouisfed.org/education/elasticity-of-demand-videos).
 - Duplicate decision: No recursive content contains price elasticity, elastic demand, inelastic demand, or a percentage-response classification question. `eco-mcq-004` only notes that devaluation's trade effect depends on elasticities.
 - Covered content: `subjects/economy/mcqs.json` — `eco-mcq-014`
+
+## 2026-07-30 — Wikibooks Stamp Act batch
+
+- Rights holder: Wikibooks contributors; contributor attribution is available in the [page history](https://en.wikibooks.org/w/index.php?title=US_History/Print_version&action=history).
+- Source: [US History/Print version, permanent revision 3800648](https://en.wikibooks.org/w/index.php?title=US_History/Print_version&oldid=3800648).
+- Reuse basis: Wikibooks text is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); its [copyright policy](https://en.wikibooks.org/wiki/Wikibooks:Copyrights) permits copying, modifying, and redistributing text with attribution, a license notice, and the same terms. The adapted passage has no external-content warning; no images, quotations, tables, or third-party material are imported.
+- Attribution: Adapted from "US History/Print version" by Wikibooks contributors, CC BY-SA 4.0. The adapted item in this batch is made available under CC BY-SA 4.0.
+- Retrieved: 2026-07-30
+- Answer evidence: `his-mcq-034` — [U.S. Department of State, Office of the Historian, Parliamentary taxation of colonies](https://history.state.gov/milestones/1750-1775/parliamentary-taxation).
+- Duplicate decision: No recursive content contains the Stamp Act, stamp taxation, American colonial taxation, or a related legal-document stamp requirement. The only British Parliament reference is an unrelated polity distractor.
+- Covered content: `subjects/history/mcqs.json` — `his-mcq-034`
