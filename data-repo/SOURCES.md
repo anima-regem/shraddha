@@ -703,3 +703,14 @@
 - Answer evidence: `sci-mcq-073` and `sci-mcq-074` — [NASA Science, Why Do Eclipses Happen?](https://science.nasa.gov/eclipses/geometry/) (Moon's orbital tilt and the umbra); [NASA, Diagram of Umbra and Penumbra](https://www.nasa.gov/image-article/diagram-of-umbra-penumbra/) (umbra definition).
 - Duplicate decision: `geo-mcq-009` already tests solar-eclipse alignment and is excluded. No recursive content contains umbra, penumbra, eclipse season, the Moon's 5-degree orbital tilt, or why eclipses are not monthly. The only near term hit concerns Earth's 23.5-degree axial tilt, which is a distinct mechanism.
 - Covered content: `subjects/science-tech/mcqs-002.json` — `sci-mcq-073` through `sci-mcq-074`
+
+## 2026-07-30 — OpenStax Astronomy Kepler-laws batch
+
+- Rights holder: Rice University / OpenStax and content contributors.
+- Source: [Astronomy, 3.1 The Laws of Planetary Motion](https://openstax.org/books/astronomy/pages/3-1-the-laws-of-planetary-motion).
+- Reuse basis: The [Astronomy preface](https://openstax.org/books/astronomy/pages/preface) explicitly licenses the textbook under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), permitting distribution, remixing, and adaptation with attribution. Only two Kepler-law concepts are adapted into original questions; no images, figures, quotations, tables, or source wording are imported.
+- Attribution: Adapted from *Astronomy* by Andrew Fraknoi, David Morrison, and Sidney C. Wolff, OpenStax, CC BY 4.0. Access for free at https://openstax.org/books/astronomy/pages/1-introduction.
+- Retrieved: 2026-07-30
+- Answer evidence: `sci-mcq-075` and `sci-mcq-076` — [NASA Science, Orbits and Kepler's Laws](https://science.nasa.gov/solar-system/orbits-and-keplers-laws/).
+- Duplicate decision: No recursive content contains Kepler's laws, an elliptical planetary orbit, perihelion, aphelion, semimajor axis, equal areas, or orbital speed. `sci-mcq-050` uses Kepler only as a mission name, and `sci-mcq-020` tests gravity as the force keeping planets in orbit, not the shape or speed of their orbits.
+- Covered content: `subjects/science-tech/mcqs-002.json` — `sci-mcq-075` through `sci-mcq-076`

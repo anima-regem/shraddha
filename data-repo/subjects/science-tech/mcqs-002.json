@@ -586,6 +586,34 @@
       "answerIndex": 0,
       "explanation": "The umbra is the dark central part of an eclipse shadow, where light from the Sun is completely blocked.",
       "difficulty": "easy"
+    },
+    {
+      "id": "sci-mcq-075",
+      "topic": "Space Science",
+      "question": "According to Kepler's first law, the orbit of a planet around the Sun is:",
+      "options": [
+        "An ellipse with the Sun at one focus",
+        "A circle with the Sun at its center",
+        "A parabola with the Sun at its vertex",
+        "A spiral that moves steadily away from the Sun"
+      ],
+      "answerIndex": 0,
+      "explanation": "Kepler's first law states that a planet travels in an elliptical orbit with the Sun at one focus, not at the center.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sci-mcq-076",
+      "topic": "Space Science",
+      "question": "At which point in its orbit around the Sun does a planet move fastest?",
+      "options": [
+        "Perihelion",
+        "Aphelion",
+        "The ecliptic",
+        "The equinox"
+      ],
+      "answerIndex": 0,
+      "explanation": "Kepler's second law implies that a planet moves fastest at perihelion, its nearest point to the Sun, and slowest at aphelion.",
+      "difficulty": "medium"
     }
   ]
 }
