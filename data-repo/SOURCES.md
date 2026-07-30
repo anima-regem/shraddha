@@ -450,3 +450,14 @@
 - Retrieved: 2026-07-30
 - Answer evidence: `sci-mcq-068` — [NIST, Atomic Reference Data for Electronic Structure Calculations, Nickel](https://www.nist.gov/pml/atomic-reference-data-electronic-structure-calculations/atomic-reference-data-electronic-7-27).
 - Covered content: `subjects/science-tech/mcqs-002.json` — `sci-mcq-068`
+
+## 2026-07-30 — Wikibooks climate-change review batch
+
+- Rights holder: Wikibooks contributors; contributor attribution is available in the [page history](https://en.wikibooks.org/w/index.php?title=High_School_Earth_Science/Climate_Change&action=history).
+- Source: [High School Earth Science/Climate Change, permanent revision 4020793](https://en.wikibooks.org/w/index.php?title=High_School_Earth_Science/Climate_Change&oldid=4020793).
+- Reuse basis: Wikibooks text is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); its [copyright policy](https://en.wikibooks.org/wiki/Wikibooks:Copyrights) permits copying, modifying, and redistributing text with attribution, a license notice, and the same terms. No images, tables, linked material, or other non-text media are imported.
+- Attribution: Adapted from "High School Earth Science/Climate Change" by Wikibooks contributors, CC BY-SA 4.0. The adapted item in this batch is made available under CC BY-SA 4.0.
+- Retrieved: 2026-07-30
+- Answer evidence: `env-mcq-019` — [NOAA Climate.gov, El Nino and La Nina: Frequently asked questions](https://www.climate.gov/news-features/understanding-climate/el-nino-and-la-nina-frequently-asked-questions).
+- Duplicate decision: `geo-fc-003` compares El Nino and La Nina by Pacific temperature anomaly and Indian-monsoon effect; it does not test the equatorial trade-wind mechanism in this MCQ.
+- Covered content: `subjects/environment/mcqs.json` — `env-mcq-019`

@@ -212,6 +212,20 @@
       "answerIndex": 0,
       "explanation": "Coal, petroleum, and natural gas are fossil fuels. They take a very long time to form and are classified as nonrenewable energy sources.",
       "difficulty": "easy"
+    },
+    {
+      "id": "env-mcq-019",
+      "topic": "Climate Change",
+      "question": "During an El Nino event, what usually happens to the normal easterly trade winds over the equatorial Pacific?",
+      "options": [
+        "They weaken and may reverse direction",
+        "They strengthen markedly",
+        "They become permanent westerlies",
+        "They shift to a north-south direction only"
+      ],
+      "answerIndex": 0,
+      "explanation": "During El Nino, the normally east-to-west trade winds weaken and can occasionally reverse, reducing cold-water upwelling in the eastern Pacific.",
+      "difficulty": "medium"
     }
   ]
 }
