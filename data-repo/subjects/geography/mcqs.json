@@ -791,6 +791,20 @@
       "answerIndex": 0,
       "explanation": "The dew point is the temperature to which air must be cooled, at constant pressure and moisture content, for saturation and condensation to occur.",
       "difficulty": "medium"
+    },
+    {
+      "id": "geo-mcq-065",
+      "topic": "Physical Geography",
+      "question": "Which change is an example of mechanical weathering?",
+      "options": [
+        "Water freezes and expands in a rock crack, splitting the rock",
+        "Iron reacts with oxygen to form rust-bearing minerals",
+        "Feldspar reacts with water to form clay minerals",
+        "Limestone dissolves in weakly acidic water"
+      ],
+      "answerIndex": 0,
+      "explanation": "Frost wedging mechanically breaks rock as freezing water expands in fractures; the rock's chemical composition does not change.",
+      "difficulty": "medium"
     }
   ]
 }
