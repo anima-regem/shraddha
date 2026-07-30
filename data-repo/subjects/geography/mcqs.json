@@ -875,6 +875,34 @@
       "answerIndex": 0,
       "explanation": "A watershed is the land area from which water drains to a shared outlet, such as a stream, river, or lake.",
       "difficulty": "easy"
+    },
+    {
+      "id": "geo-mcq-071",
+      "topic": "Physical Geography",
+      "question": "At which type of plate boundary do tectonic plates move apart and new crust form?",
+      "options": [
+        "Divergent boundary",
+        "Convergent boundary",
+        "Transform boundary",
+        "Passive continental margin"
+      ],
+      "answerIndex": 0,
+      "explanation": "At a divergent boundary, plates move apart. Magma rises and solidifies to form new crust, commonly at a mid-ocean ridge.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "geo-mcq-072",
+      "topic": "Physical Geography",
+      "question": "What is the process called when one tectonic plate descends beneath another at a convergent boundary?",
+      "options": [
+        "Subduction",
+        "Weathering",
+        "Sedimentation",
+        "Erosion"
+      ],
+      "answerIndex": 0,
+      "explanation": "Subduction occurs at a convergent boundary when one tectonic plate sinks beneath another into Earth's mantle.",
+      "difficulty": "medium"
     }
   ]
 }

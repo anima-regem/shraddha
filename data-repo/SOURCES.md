@@ -758,3 +758,14 @@
 - Answer evidence: `env-mcq-023` - [NOAA, ClimateBits: Albedo](https://sos.noaa.gov/catalog/datasets/climatebits-albedo/).
 - Duplicate decision: The recursive validator found no ID or exact duplicate. Manual recursive review found no albedo, reflectivity, insolation, emissivity, incoming-sunlight, incoming-solar, or shortwave-radiation item.
 - Covered content: `subjects/environment/mcqs.json` - `env-mcq-023`
+
+## 2026-07-30 - USGS plate-boundaries batch
+
+- Rights holder: U.S. Geological Survey, U.S. Department of the Interior.
+- Source: [Understanding plate motions](https://pubs.usgs.gov/gip/dynamic/understanding.html), U.S. Geological Survey.
+- Reuse basis: [USGS copyright guidance](https://www.usgs.gov/faqs/are-usgs-reportspublications-copyrighted) states that USGS-authored data and information are in the U.S. public domain and may be freely used without permission with acknowledgement. Only the plate-boundary concepts are adapted into original questions; no images, figures, layout, trademarks, or source wording are imported.
+- Attribution: Adapted from "Understanding plate motions," U.S. Geological Survey, public domain. Credit: U.S. Geological Survey.
+- Retrieved: 2026-07-30
+- Answer evidence: `geo-mcq-071` and `geo-mcq-072` - [NOAA Ocean Exploration, What are the different types of plate tectonic boundaries?](https://oceanexplorer.noaa.gov/ocean-fact/plate-boundaries/).
+- Duplicate decision: The recursive validator found no ID or exact duplicate. Manual recursive review found no divergent-boundary, convergent-boundary, transform-boundary, subduction, plate-boundary, mid-ocean-ridge, or seafloor-spreading item.
+- Covered content: `subjects/geography/mcqs.json` - `geo-mcq-071` through `geo-mcq-072`
