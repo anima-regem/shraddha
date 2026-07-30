@@ -538,3 +538,14 @@
 - Answer evidence: `geo-mcq-065` — [National Park Service, Rocky Mountain National Park Geology Teacher Guide](https://www.nps.gov/romo/learn/education/upload/Geology-Teacher-Guide-for-web.pdf).
 - Duplicate decision: No recursive content tests frost wedging, water expansion in rock fractures, or mechanical weathering without compositional change. `geo-fc-006` distinguishes weathering from erosion but does not cover this physical process or distinguish it from chemical weathering.
 - Covered content: `subjects/geography/mcqs.json` — `geo-mcq-065`
+
+## 2026-07-30 — CK-12/Wikibooks weather-forecasting batch
+
+- Rights holder: CK-12 Foundation (the original High School Earth Science material identified by the parent book) and Wikibooks contributors; contributor attribution is available in the [page history](https://en.wikibooks.org/w/index.php?title=High_School_Earth_Science/Weather_Forecasting&action=history).
+- Source: [High School Earth Science/Weather Forecasting, permanent revision 4280885](https://en.wikibooks.org/w/index.php?title=High_School_Earth_Science/Weather_Forecasting&oldid=4280885).
+- Reuse basis: The [parent book, permanent revision 3693065](https://en.wikibooks.org/w/index.php?title=High_School_Earth_Science&oldid=3693065), identifies this material as adapted from the original CK-12 book and states that it is licensed under the [Creative Commons Attribution-ShareAlike 3.0 United States License](https://creativecommons.org/licenses/by-sa/3.0/us/), which permits adaptation and redistribution with attribution and the same license terms. No images, tables, linked material, or third-party content are imported.
+- Attribution: Adapted from "High School Earth Science/Weather Forecasting" by CK-12 Foundation and Wikibooks contributors, CC BY-SA 3.0 US. The adapted item in this batch is made available under CC BY-SA 3.0 US.
+- Retrieved: 2026-07-30
+- Answer evidence: `geo-mcq-066` — [NOAA National Weather Service, Radiosonde Observation](https://www.weather.gov/upperair/factsheet).
+- Duplicate decision: No recursive content mentions radiosonde, rawinsonde, weather balloons, or an equivalent balloon-borne upper-air instrument. Existing weather MCQs cover storms, cloud types, winds, precipitation, dew point, and weathering, not upper-air observations.
+- Covered content: `subjects/geography/mcqs.json` — `geo-mcq-066`

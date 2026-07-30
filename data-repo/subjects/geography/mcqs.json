@@ -805,6 +805,20 @@
       "answerIndex": 0,
       "explanation": "Frost wedging mechanically breaks rock as freezing water expands in fractures; the rock's chemical composition does not change.",
       "difficulty": "medium"
+    },
+    {
+      "id": "geo-mcq-066",
+      "topic": "Physical Geography",
+      "question": "Which instrument package is carried aloft below a weather balloon to transmit upper-air pressure, temperature, and humidity data?",
+      "options": [
+        "Radiosonde",
+        "Anemometer",
+        "Barometer",
+        "Rain gauge"
+      ],
+      "answerIndex": 0,
+      "explanation": "A radiosonde is suspended below a weather balloon and transmits upper-air observations such as pressure, temperature, and relative humidity to a ground station.",
+      "difficulty": "easy"
     }
   ]
 }
