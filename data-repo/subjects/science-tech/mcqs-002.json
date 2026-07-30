@@ -516,6 +516,20 @@
       "answerIndex": 0,
       "explanation": "Hematocrit is the percentage of a blood sample made up of red blood cells.",
       "difficulty": "easy"
+    },
+    {
+      "id": "sci-mcq-070",
+      "topic": "Basic Science",
+      "question": "What is the SI base unit of thermodynamic temperature?",
+      "options": [
+        "kelvin",
+        "degree Celsius",
+        "joule",
+        "watt"
+      ],
+      "answerIndex": 0,
+      "explanation": "The kelvin, symbol K, is the SI base unit for thermodynamic temperature. The degree Celsius is permitted for use with SI but is not an SI base unit.",
+      "difficulty": "easy"
     }
   ]
 }

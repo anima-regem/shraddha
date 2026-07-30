@@ -626,3 +626,14 @@
 - Answer evidence: `pol-mcq-018` — [U.S. Senate, About Impeachment](https://www.senate.gov/about/powers-procedures/impeachment.htm).
 - Duplicate decision: No recursive content contains impeachment, an impeachment trial, the Senate's sole power to try impeachments, or an equivalent division of House and Senate roles. Existing U.S. comparative-politics questions cover Presidents, constitutional amendments, and House membership, not impeachment.
 - Covered content: `subjects/polity/mcqs.json` — `pol-mcq-018`
+
+## 2026-07-30 — OpenStax SI temperature-unit batch
+
+- Rights holder: Rice University / OpenStax and content contributors.
+- Source: [Chemistry, 1.4 Measurements](https://openstax.org/books/chemistry/pages/1-4-measurements).
+- Reuse basis: The source chapter and its [preface](https://openstax.org/books/chemistry/pages/preface) explicitly state that *Chemistry* is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) and may be distributed, remixed, and built upon with attribution. The edition-specific section retains an explicit CC BY attribution notice. No images, tables, trademarks, or third-party material are imported.
+- Attribution: Adapted from *Chemistry* by Paul Flowers, William R. Robinson, Richard Langley, and Klaus Theopold, OpenStax, CC BY 4.0. Access for free at [OpenStax Chemistry](https://openstax.org/books/chemistry/pages/1-introduction).
+- Retrieved: 2026-07-30
+- Answer evidence: `sci-mcq-070` — [NIST, Kelvin: Introduction](https://www.nist.gov/si-redefinition/kelvin-introduction).
+- Duplicate decision: No recursive content contains kelvin, thermodynamic temperature, the SI unit of temperature, degree Celsius, or absolute zero. Existing Science & Tech items cover the SI unit of time, light speed, and atomic properties, but not the temperature base unit.
+- Covered content: `subjects/science-tech/mcqs-002.json` — `sci-mcq-070`
