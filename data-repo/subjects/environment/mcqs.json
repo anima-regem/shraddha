@@ -240,6 +240,20 @@
       "answerIndex": 0,
       "explanation": "Primary succession begins on newly formed, barren surfaces without soil, such as a fresh lava flow. Regrowth where soil remains is secondary succession.",
       "difficulty": "medium"
+    },
+    {
+      "id": "env-mcq-021",
+      "topic": "Ecology",
+      "question": "In the nitrogen cycle, which process converts atmospheric nitrogen (N2) into ammonia?",
+      "options": [
+        "Nitrogen fixation",
+        "Nitrification",
+        "Denitrification",
+        "Ammonification"
+      ],
+      "answerIndex": 0,
+      "explanation": "Nitrogen fixation converts atmospheric N2 into ammonia, bringing nitrogen from the atmosphere into biologically available forms.",
+      "difficulty": "medium"
     }
   ]
 }

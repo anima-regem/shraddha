@@ -648,3 +648,14 @@
 - Answer evidence: `eco-mcq-015` — [St. Louis Fed, Prices: The Marketplace's Communication System](https://www.stlouisfed.org/publications/page-one-economics/2013/04/01/prices-the-marketplaces-communication-system).
 - Duplicate decision: No recursive content contains market equilibrium, a below-equilibrium price, shortage, excess demand, or a quantity-demanded versus quantity-supplied comparison. Existing Economy content covers scarcity, opportunity cost, elasticity, national income, and Indian fiscal concepts, but not this market-clearing relationship.
 - Covered content: `subjects/economy/mcqs.json` — `eco-mcq-015`
+
+## 2026-07-30 — OpenStax Biology nitrogen-fixation batch
+
+- Rights holder: Rice University / OpenStax and content contributors.
+- Source: [Biology, 31.3 Nutritional Adaptations of Plants](https://openstax.org/books/biology/pages/31-3-nutritional-adaptations-of-plants).
+- Reuse basis: The source page says *Biology* uses the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) and may be cited, shared, or modified with attribution. The edition-specific citation identifies the book as *Biology* (Oct. 21, 2016), not the later NC-licensed edition. Only the nitrogen-fixation concept is adapted into an original question; no images, equations, tables, trademarks, or source wording are imported.
+- Attribution: Adapted from *Biology* by Connie Rye, Robert Wise, Vladimir Jurukovski, Jean DeSaix, Jung Choi, and Yael Avissar, OpenStax, CC BY 4.0. Access for free at https://openstax.org/books/biology/pages/1-introduction.
+- Retrieved: 2026-07-30
+- Answer evidence: `env-mcq-021` — [U.S. Geological Survey, Animated Nitrogen Fixation](https://www.usgs.gov/media/videos/animated-nitrogen-fixation), which defines nitrogen fixation as conversion of atmospheric N2 to ammonia, ammonium, or nitrate; the page identifies its video source/usage as public domain.
+- Duplicate decision: No recursive content contains nitrogen fixation, nitrogen cycle, nitrification, denitrification, ammonification, biogeochemical cycles, atmospheric nitrogen, or ammonia. `env-mcq-020` covers primary succession only; the remaining Environment questions cover ecology, conservation, pollution, energy, and El Nino without nitrogen-cycle processes.
+- Covered content: `subjects/environment/mcqs.json` — `env-mcq-021`
