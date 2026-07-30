@@ -747,3 +747,14 @@
 - Answer evidence: `env-mcq-022` - [NOAA, Condition Reports Rating Criteria](https://sanctuaries.noaa.gov/science/condition/rating.html).
 - Duplicate decision: The recursive validator found no ID or exact duplicate. Manual recursive review found no keystone, ecosystem-engineer, foundation-species, indicator-species, invasive-species, endemic-species, or disproportionate-effect item.
 - Covered content: `subjects/environment/mcqs.json` - `env-mcq-022`
+
+## 2026-07-30 - USGS albedo batch
+
+- Rights holder: U.S. Geological Survey, U.S. Department of the Interior.
+- Source: [USGS Glossary of Terms](https://www.usgs.gov/centers/astrogeology-science-center/glossary-terms), entry for albedo.
+- Reuse basis: [USGS copyright guidance](https://www.usgs.gov/faqs/are-usgs-reportspublications-copyrighted) states that USGS-authored data and information are in the U.S. public domain and may be freely used without permission with acknowledgement. Only the albedo concept is adapted into an original question; no images, figures, layout, trademarks, or source wording are imported.
+- Attribution: Adapted from "Albedo," U.S. Geological Survey Glossary of Terms, public domain. Credit: U.S. Geological Survey.
+- Retrieved: 2026-07-30
+- Answer evidence: `env-mcq-023` - [NOAA, ClimateBits: Albedo](https://sos.noaa.gov/catalog/datasets/climatebits-albedo/).
+- Duplicate decision: The recursive validator found no ID or exact duplicate. Manual recursive review found no albedo, reflectivity, insolation, emissivity, incoming-sunlight, incoming-solar, or shortwave-radiation item.
+- Covered content: `subjects/environment/mcqs.json` - `env-mcq-023`
