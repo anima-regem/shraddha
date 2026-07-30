@@ -324,6 +324,34 @@
       "answerIndex": 0,
       "explanation": "Heavy pumping lowers water levels around a well, forming a cone of depression. If it reaches nearby wells, their water levels can also decline.",
       "difficulty": "medium"
+    },
+    {
+      "id": "env-mcq-027",
+      "topic": "Water Resources",
+      "question": "Approximately what percentage of Earth's freshwater is stored as groundwater?",
+      "options": [
+        "About 30%",
+        "About 1%",
+        "About 10%",
+        "About 70%"
+      ],
+      "answerIndex": 0,
+      "explanation": "About 30.1% of Earth's freshwater occurs as groundwater. Most of the remaining freshwater is stored in ice caps and glaciers.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "env-mcq-028",
+      "topic": "Water Resources",
+      "question": "When a well pumps from an aquifer connected to a stream, which effect can occur?",
+      "options": [
+        "Stream water can be drawn into the aquifer, reducing streamflow",
+        "The stream must receive more groundwater as baseflow",
+        "Pumping permanently disconnects the stream from groundwater",
+        "The well automatically recharges the aquifer"
+      ],
+      "answerIndex": 0,
+      "explanation": "Pumping can lower the water table and alter groundwater-flow directions. In connected systems, this can draw water from a stream into the aquifer and reduce streamflow.",
+      "difficulty": "medium"
     }
   ]
 }

@@ -791,3 +791,14 @@
 - Answer evidence: `env-mcq-025` - [USGS, Base Flow in Rivers](https://www.usgs.gov/special-topic/water-science-school/science/base-flow-rivers); `env-mcq-026` - [USGS, Groundwater Wells](https://www.usgs.gov/water-science-school/science/groundwater-wells).
 - Duplicate decision: The recursive validator found no ID or exact duplicate. Manual recursive review found no baseflow, groundwater seepage sustaining streams, well drawdown, cone of depression, or nearby-well interference. The only nearby water item is `geo-mcq-070`, which defines a watershed.
 - Covered content: `subjects/environment/mcqs.json` - `env-mcq-025` through `env-mcq-026`
+
+## 2026-07-30 - USGS groundwater distribution and stream-depletion quiz batch
+
+- Rights holder: U.S. Geological Survey, U.S. Department of the Interior.
+- Source: [How Well Do You Know Groundwater](https://www.usgs.gov/news/featured-story/how-well-do-you-know-groundwater), questions 1 and 7.
+- Reuse basis: [USGS copyright guidance](https://www.usgs.gov/faqs/are-usgs-reportspublications-copyrighted) states that USGS-authored data and information are in the U.S. public domain and may be freely used without permission with acknowledgement. The source questions are USGS-authored text; no restricted media, images, or other third-party content is used. The Shraddha items are original factual MCQs based on the source concepts rather than copied wording.
+- Attribution: Adapted from "How Well Do You Know Groundwater," U.S. Geological Survey, public domain. Credit: U.S. Geological Survey.
+- Retrieved: 2026-07-30
+- Answer evidence: `env-mcq-027` - [USGS, Groundwater Flow and the Water Cycle](https://www.usgs.gov/index.php/special-topics/water-science-school/science/groundwater-flow-and-water-cycle); `env-mcq-028` - [USGS, Groundwater flow after people have started pumping groundwater](https://www.usgs.gov/media/images/groundwater-flow-after-people-have-started-pumping-groundwater).
+- Duplicate decision: The recursive validator found no ID or exact duplicate. Manual recursive review found no groundwater's share of freshwater, streamflow depletion, a pumping-induced reversal of stream-aquifer flow, or stream water drawn into an aquifer. Existing groundwater content covers water quality, natural drought baseflow, and drawdown at nearby wells.
+- Covered content: `subjects/environment/mcqs.json` - `env-mcq-027` through `env-mcq-028`
