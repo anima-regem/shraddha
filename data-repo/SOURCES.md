@@ -360,3 +360,13 @@
 - Retrieved: 2026-07-30
 - Answer evidence: `env-mcq-014` — [U.S. EPA, What are Water Quality Standards?](https://www.epa.gov/wqs-tech/what-are-water-quality-standards); `env-mcq-015` — [U.S. EPA, Disinfection Profiling and Benchmarking: Technical Guidance](https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=P100ZLU4.TXT); `env-mcq-016` — [U.S. EPA, Municipal Wastewater Processes: Overview](https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=9101Z19I.TXT).
 - Covered content: `subjects/environment/mcqs.json` — `env-mcq-014` through `env-mcq-016`
+
+## 2026-07-30 — NASA SC13 educational handout batch
+
+- Rights holder: National Aeronautics and Space Administration (NASA), Advanced Supercomputing Division's Publications and Multimedia Group.
+- Source: [NASA SC13 Educational Handout](https://www.nas.nasa.gov/SC13/assets/pdf/Ed_Handout_SC13_final_web.pdf); [NASA Quiz Answers](https://www.nas.nasa.gov/SC13/answers.html).
+- Reuse basis: The handout identifies NASA's Advanced Supercomputing Division as its creator and contains no marked third-party text used in this batch. Under [17 U.S.C. 105](https://uscode.house.gov/view.xhtml?req=%28title%3A17+section%3A105+edition%3Aprelim%29), copyright protection is not available for a work of the United States Government. NASA's [media-usage guidelines](https://www.nasa.gov/nasa-brand-center/images-and-media/) permit factual educational or informational use of NASA content with source acknowledgment. No images, NASA identifiers, or third-party material are imported.
+- Attribution: Adapted from the "NASA SC13 Educational Handout" by NASA Advanced Supercomputing Division, public domain in the United States; NASA acknowledged as the source.
+- Retrieved: 2026-07-30
+- Answer evidence: `sci-mcq-050` — [NASA Science, Kepler/K2](https://science.nasa.gov/mission/kepler/); `sci-mcq-051` — [NASA Science, Titan's North](https://science.nasa.gov/resource/titans-north-with-text/); `sci-mcq-052` — [NASA Science, Uranus Facts](https://science.nasa.gov/uranus/facts/).
+- Covered content: `subjects/science-tech/mcqs-002.json` — `sci-mcq-050` through `sci-mcq-052`

@@ -236,6 +236,48 @@
       "answerIndex": 0,
       "explanation": "Helium has the lowest boiling point of all elements; hydrogen is second lowest.",
       "difficulty": "medium"
+    },
+    {
+      "id": "sci-mcq-050",
+      "topic": "Space Science",
+      "question": "Which NASA mission was designed to survey stars for Earth-sized planets outside our solar system?",
+      "options": [
+        "Kepler",
+        "Voyager 2",
+        "Juno",
+        "Parker Solar Probe"
+      ],
+      "answerIndex": 0,
+      "explanation": "Kepler was NASA's planet-hunting mission, designed to survey stars for Earth-sized exoplanets orbiting outside the solar system.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sci-mcq-051",
+      "topic": "Planetary Science",
+      "question": "Which body, other than Earth, is known to have stable liquid on its surface?",
+      "options": [
+        "Titan",
+        "Europa",
+        "Ganymede",
+        "Triton"
+      ],
+      "answerIndex": 0,
+      "explanation": "Saturn's moon Titan has stable lakes and seas on its surface, composed mainly of liquid methane and ethane.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sci-mcq-052",
+      "topic": "Planetary Science",
+      "question": "Which planet rotates at a nearly 90-degree angle to the plane of its orbit, making it appear to spin on its side?",
+      "options": [
+        "Uranus",
+        "Mars",
+        "Jupiter",
+        "Mercury"
+      ],
+      "answerIndex": 0,
+      "explanation": "Uranus has an axial tilt of about 98 degrees, so its rotation makes it appear to spin on its side.",
+      "difficulty": "easy"
     }
   ]
 }
