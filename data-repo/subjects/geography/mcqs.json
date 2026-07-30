@@ -693,6 +693,48 @@
       "answerIndex": 0,
       "explanation": "Surface waves travel along Earth's surface and usually have the strongest vibrations, so they probably cause most earthquake damage.",
       "difficulty": "medium"
+    },
+    {
+      "id": "geo-mcq-058",
+      "topic": "Physical Geography",
+      "question": "Which rock type forms when molten magma or lava cools and solidifies?",
+      "options": [
+        "Igneous rock",
+        "Sedimentary rock",
+        "Metamorphic rock",
+        "Organic rock"
+      ],
+      "answerIndex": 0,
+      "explanation": "Igneous rocks form when molten rock, either magma below ground or lava at the surface, cools and solidifies.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "geo-mcq-059",
+      "topic": "Physical Geography",
+      "question": "An existing rock is changed by high heat and pressure without melting. What type of rock results?",
+      "options": [
+        "Metamorphic rock",
+        "Igneous rock",
+        "Sedimentary rock",
+        "Alluvial deposit"
+      ],
+      "answerIndex": 0,
+      "explanation": "Metamorphic rocks form when pre-existing rocks are transformed by high heat, pressure, fluids, or a combination of these factors without melting.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "geo-mcq-060",
+      "topic": "Physical Geography",
+      "question": "What is the process called when loose sediments become sedimentary rock through compaction and cementation?",
+      "options": [
+        "Lithification",
+        "Metamorphism",
+        "Sublimation",
+        "Weathering"
+      ],
+      "answerIndex": 0,
+      "explanation": "Lithification converts loose sediment into sedimentary rock, commonly through compaction and cementation.",
+      "difficulty": "medium"
     }
   ]
 }

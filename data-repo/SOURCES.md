@@ -472,3 +472,14 @@
 - Answer evidence: `geo-mcq-055` — [USGS, The Science of Earthquakes](https://www.usgs.gov/programs/earthquake-hazards/science-earthquakes); `geo-mcq-056` and `geo-mcq-057` — [USGS, Measuring Earthquakes](https://pubs.usgs.gov/gip/earthq1/measure.html).
 - Duplicate decision: `geo-fc-001` mentions earthquakes at all plate-boundary types but does not cover epicenter geometry, seismic-wave propagation, or the strongest-damage wave class.
 - Covered content: `subjects/geography/mcqs.json` — `geo-mcq-055` through `geo-mcq-057`
+
+## 2026-07-30 — Wikibooks types-of-rocks review batch
+
+- Rights holder: Wikibooks contributors; contributor attribution is available in the [page history](https://en.wikibooks.org/w/index.php?title=High_School_Earth_Science/Types_of_Rocks&action=history).
+- Source: [High School Earth Science/Types of Rocks, permanent revision 4373114](https://en.wikibooks.org/w/index.php?title=High_School_Earth_Science/Types_of_Rocks&oldid=4373114).
+- Reuse basis: Wikibooks text is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); its [copyright policy](https://en.wikibooks.org/wiki/Wikibooks:Copyrights) permits copying, modifying, and redistributing text with attribution, a license notice, and the same terms. No images, tables, linked material, or other non-text media are imported.
+- Attribution: Adapted from "High School Earth Science/Types of Rocks" by Wikibooks contributors, CC BY-SA 4.0. The adapted items in this batch are made available under CC BY-SA 4.0.
+- Retrieved: 2026-07-30
+- Answer evidence: `geo-mcq-058` — [USGS, Earth Materials Scavenger Hunt Activity](https://www.usgs.gov/educational-resources/earth-materials-scavenger-hunt-activity); `geo-mcq-059` — [USGS, What are metamorphic rocks?](https://www.usgs.gov/faqs/what-are-metamorphic-rocks); `geo-mcq-060` — [USGS, What are sedimentary rocks?](https://www.usgs.gov/faqs/what-are-sedimentary-rocks) and [USGS, Diagenesis and Stratigraphy](https://pubs.usgs.gov/pp/0857/report.pdf).
+- Duplicate decision: `geo-mcq-042` tests the age order of undeformed sedimentary strata, not rock formation or lithification.
+- Covered content: `subjects/geography/mcqs.json` — `geo-mcq-058` through `geo-mcq-060`
