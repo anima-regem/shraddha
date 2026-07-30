@@ -226,6 +226,20 @@
       "answerIndex": 0,
       "explanation": "During El Nino, the normally east-to-west trade winds weaken and can occasionally reverse, reducing cold-water upwelling in the eastern Pacific.",
       "difficulty": "medium"
+    },
+    {
+      "id": "env-mcq-020",
+      "topic": "Ecology",
+      "question": "Which one of the following situations is an example of primary ecological succession?",
+      "options": [
+        "Colonization of a newly formed lava flow that has no soil",
+        "Regrowth of a forest after a wildfire where soil remains",
+        "Seasonal migration of birds to a wetland",
+        "Replacement of one crop with another on cultivated land"
+      ],
+      "answerIndex": 0,
+      "explanation": "Primary succession begins on newly formed, barren surfaces without soil, such as a fresh lava flow. Regrowth where soil remains is secondary succession.",
+      "difficulty": "medium"
     }
   ]
 }

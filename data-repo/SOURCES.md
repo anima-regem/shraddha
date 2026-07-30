@@ -604,3 +604,14 @@
 - Answer evidence: `his-mcq-034` — [U.S. Department of State, Office of the Historian, Parliamentary taxation of colonies](https://history.state.gov/milestones/1750-1775/parliamentary-taxation).
 - Duplicate decision: No recursive content contains the Stamp Act, stamp taxation, American colonial taxation, or a related legal-document stamp requirement. The only British Parliament reference is an unrelated polity distractor.
 - Covered content: `subjects/history/mcqs.json` — `his-mcq-034`
+
+## 2026-07-30 — Wikibooks primary-succession batch
+
+- Rights holder: Wikibooks contributors; contributor attribution is available in the [page history](https://en.wikibooks.org/w/index.php?title=IB_Environmental_Studies/Ecosystem&action=history).
+- Source: [IB Environmental Studies/Ecosystem, permanent revision 3686997](https://en.wikibooks.org/w/index.php?title=IB_Environmental_Studies/Ecosystem&oldid=3686997).
+- Reuse basis: Wikibooks text is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); its [copyright policy](https://en.wikibooks.org/wiki/Wikibooks:Copyrights) permits copying, modifying, and redistributing text with attribution, a license notice, and the same terms. Only the primary-succession concept is adapted into an original question; no images, equations, quotations, or external linked material are imported.
+- Attribution: Adapted from "IB Environmental Studies/Ecosystem" by Wikibooks contributors, CC BY-SA 4.0. The adapted item in this batch is made available under CC BY-SA 4.0.
+- Retrieved: 2026-07-30
+- Answer evidence: `env-mcq-020` — [U.S. Geological Survey, Volcano Watch: From lava flow to forest: Primary succession](https://www.usgs.gov/news/volcano-watch-lava-flow-forest-primary-succession).
+- Duplicate decision: No recursive content contains primary succession, secondary succession, lava flow, pioneer species, bare ground, bare rock, or a succession classification question. The existing environment items cover energy transfer, biodiversity, conservation, water pollution, and El Nino, but not ecological succession.
+- Covered content: `subjects/environment/mcqs.json` — `env-mcq-020`
