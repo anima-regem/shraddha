@@ -847,6 +847,20 @@
       "answerIndex": 0,
       "explanation": "Geysers have constrictions in their underground plumbing that restrict water circulation and allow heat and pressure to build. A hot spring has unconstricted plumbing and flows freely to the surface.",
       "difficulty": "medium"
+    },
+    {
+      "id": "geo-mcq-069",
+      "topic": "Physical Geography",
+      "question": "Which combination forms Earth's lithosphere?",
+      "options": [
+        "The crust and the rigid uppermost mantle",
+        "The crust and the liquid outer core",
+        "The asthenosphere and the lower mantle",
+        "The mantle and the metallic core"
+      ],
+      "answerIndex": 0,
+      "explanation": "The lithosphere is Earth's rigid outer mechanical layer. It consists of the crust and the solid, uppermost part of the mantle; it is divided into tectonic plates.",
+      "difficulty": "medium"
     }
   ]
 }

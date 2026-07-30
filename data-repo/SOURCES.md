@@ -571,3 +571,14 @@
 - Answer evidence: `geo-mcq-068` — [National Park Service, How Geysers Erupt](https://www.nps.gov/teachers/classrooms/how-geysers-erupt.htm).
 - Duplicate decision: No recursive content contains geysers, hot springs, hydrothermal plumbing, or a pressure-building constriction. The sole geothermal occurrence is an unrelated renewable-energy option in `environment/mcqs.json`.
 - Covered content: `subjects/geography/mcqs.json` — `geo-mcq-068`
+
+## 2026-07-30 — Wikibooks lithosphere batch
+
+- Rights holder: Wikibooks contributors; contributor attribution is available in the [page history](https://en.wikibooks.org/w/index.php?title=High_School_Earth_Science/Inside_Earth&action=history).
+- Source: [High School Earth Science/Inside Earth, permanent revision 3627889](https://en.wikibooks.org/w/index.php?title=High_School_Earth_Science/Inside_Earth&oldid=3627889).
+- Reuse basis: Wikibooks text is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); its [copyright policy](https://en.wikibooks.org/wiki/Wikibooks:Copyrights) permits copying, modifying, and redistributing text with attribution, a license notice, and the same terms. No images, tables, linked material, or other non-text media are imported.
+- Attribution: Adapted from "High School Earth Science/Inside Earth" by Wikibooks contributors, CC BY-SA 4.0. The adapted item in this batch is made available under CC BY-SA 4.0.
+- Retrieved: 2026-07-30
+- Answer evidence: `geo-mcq-069` — [National Park Service, Plate Tectonics](https://www.nps.gov/para/learn/nature/plate-tectonics.htm); [U.S. Geological Survey, Seismic velocity structure of the continental lithosphere](https://www.usgs.gov/publications/seismic-velocity-structure-continental-lithosphere-controlled-source-data).
+- Duplicate decision: No recursive content contains lithosphere, asthenosphere, or the crust-plus-rigid-uppermost-mantle definition. `geo-fc-001` tests the three plate-boundary types and `geo-mcq-055` uses tectonic plates only as an earthquake distractor.
+- Covered content: `subjects/geography/mcqs.json` — `geo-mcq-069`
