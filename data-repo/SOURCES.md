@@ -824,3 +824,14 @@
 - Answer evidence: `geo-mcq-073` - [USGS, East vs West Coast Earthquakes](https://www.usgs.gov/news/featured-story/east-vs-west-coast-earthquakes); `geo-mcq-074` - [USGS, Karst Aquifers](https://www.usgs.gov/mission-areas/water-resources/science/karst-aquifers).
 - Duplicate decision: The recursive validator found no ID or exact duplicate. Manual recursive review found no karst, sinkholes, soluble-rock dissolution, regional seismic-wave propagation, eastern-U.S. earthquake shaking, or crustal transmission. Existing seismic items test wave types and surface-wave damage; a limestone reference is only an incorrect distractor in a frost-wedging item.
 - Covered content: `subjects/geography/mcqs.json` - `geo-mcq-073` through `geo-mcq-074`
+
+## 2026-07-30 - NASA Earthdata Glacier Power quiz batch
+
+- Rights holder: National Aeronautics and Space Administration (NASA), Earth Science Data Systems / Earthdata.
+- Source: [Glacier Power: Teacher's Guide for Segment Review Questions](https://www.earthdata.nasa.gov/topics/cryosphere/glaciers/glacier-power/teacher-guide-segment-review-questions), "How do Glaciers Form?" and "How do Glaciers Move?" review answers.
+- Reuse basis: The source is NASA-hosted educational content with no marked third-party text used in this batch. Under [17 U.S.C. 105](https://uscode.house.gov/view.xhtml?req=%28title%3A17+section%3A105+edition%3Aprelim%29), copyright protection is not available for a work of the United States Government. NASA's [media-usage guidelines](https://www.nasa.gov/nasa-brand-center/images-and-media/) permit factual educational or informational use of NASA content with source acknowledgement. No images, NASA identifiers, or third-party material are imported.
+- Attribution: Adapted from "Glacier Power: Teacher's Guide for Segment Review Questions," NASA Earthdata, public domain in the United States; NASA acknowledged as the source.
+- Retrieved: 2026-07-30
+- Answer evidence: `geo-mcq-075` - [NASA Earthdata, Glacier Power review answers](https://www.earthdata.nasa.gov/topics/cryosphere/glaciers/glacier-power/teacher-guide-segment-review-questions), which identifies glacier flow under gravity and distinguishes a glacier from a perennial snow patch; `geo-mcq-076` - the same NASA Earthdata review answers, which define accumulation zone, ablation zone, and mass balance.
+- Duplicate decision: The recursive validator found no ID or exact duplicate. Manual recursive review found no glacier-flow, perennial-snow-patch, firn, accumulation-zone, ablation-zone, glacier-mass-balance, calving-loss, moraine, crevasse, or glacier-zone item. Existing glacier mentions are generic references to river origin, erosion agents, freshwater storage, or ice sheets as a freshwater store.
+- Covered content: `subjects/geography/mcqs.json` - `geo-mcq-075` through `geo-mcq-076`

@@ -931,6 +931,34 @@
       "answerIndex": 0,
       "explanation": "Karst develops when groundwater dissolves soluble rocks, especially limestone and dolomite. The resulting cavities and conduits can form caves and sinkholes.",
       "difficulty": "medium"
+    },
+    {
+      "id": "geo-mcq-075",
+      "topic": "Physical Geography",
+      "question": "Which feature most directly distinguishes a glacier from a perennial snow patch?",
+      "options": [
+        "A glacier flows under gravity",
+        "A glacier is always smaller than a snow patch",
+        "A glacier forms only at sea level",
+        "A glacier contains no compacted snow"
+      ],
+      "answerIndex": 0,
+      "explanation": "A glacier is not merely long-lasting snow or ice; it moves under gravity. This flow is the key physical distinction from a perennial snow patch.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "geo-mcq-076",
+      "topic": "Physical Geography",
+      "question": "In glacier mass balance, what do the accumulation and ablation zones respectively represent?",
+      "options": [
+        "Ice gain; ice loss",
+        "Ice loss; ice gain",
+        "Rock erosion; rock deposition",
+        "Fast flow; stagnant ice"
+      ],
+      "answerIndex": 0,
+      "explanation": "The accumulation zone is where a glacier gains snow and ice, while the ablation zone is where it loses ice through processes such as melting and calving.",
+      "difficulty": "medium"
     }
   ]
 }
