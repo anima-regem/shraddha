@@ -494,3 +494,14 @@
 - Answer evidence: `geo-mcq-061` — [National Park Service, Trace Fossils](https://www.nps.gov/subjects/fossils/trace-fossils.htm); `geo-mcq-062` — [National Park Service, How Fossils Form](https://www.nps.gov/subjects/fossils/how-fossils-form.htm); `geo-mcq-063` — [USGS, Geologic Time](https://pubs.usgs.gov/gip/70039221/report.pdf).
 - Duplicate decision: `geo-mcq-042` covers superposition in undeformed sedimentary strata. It does not test trace-fossil classification, preservation conditions, or the use of index fossils. No other recursive shard has a matching concept.
 - Covered content: `subjects/geography/mcqs.json` — `geo-mcq-061` through `geo-mcq-063`
+
+## 2026-07-30 — Wikibooks blood-physiology review batch
+
+- Rights holder: Wikibooks contributors; contributor attribution is available in the [page history](https://en.wikibooks.org/w/index.php?title=Human_Physiology/Blood_physiology&action=history).
+- Source: [Human Physiology/Blood physiology, permanent revision 4598443](https://en.wikibooks.org/w/index.php?title=Human_Physiology/Blood_physiology&oldid=4598443).
+- Reuse basis: Wikibooks text is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); its [copyright policy](https://en.wikibooks.org/wiki/Wikibooks:Copyrights) permits copying, modifying, and redistributing text with attribution, a license notice, and the same terms. No images, tables, linked material, or other non-text media are imported.
+- Attribution: Adapted from "Human Physiology/Blood physiology" by Wikibooks contributors, CC BY-SA 4.0. The adapted item in this batch is made available under CC BY-SA 4.0.
+- Retrieved: 2026-07-30
+- Answer evidence: `sci-mcq-069` — [National Library of Medicine, Hematocrit Test](https://medlineplus.gov/lab-tests/hematocrit-test/).
+- Duplicate decision: No recursive shard contains a hematocrit, red-blood-cell-fraction, or equivalent blood-volume question. Existing health-related questions cover hypoglycemia and liver bile production, not this laboratory measurement.
+- Covered content: `subjects/science-tech/mcqs-002.json` — `sci-mcq-069`

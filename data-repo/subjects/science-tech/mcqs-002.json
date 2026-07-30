@@ -502,6 +502,20 @@
       "answerIndex": 0,
       "explanation": "Neutral nickel has the ground-state electron configuration [Ar] 3d8 4s2.",
       "difficulty": "medium"
+    },
+    {
+      "id": "sci-mcq-069",
+      "topic": "Basic Science",
+      "question": "Which blood measurement reports the percentage of blood volume made up of red blood cells?",
+      "options": [
+        "Hematocrit",
+        "Platelet count",
+        "Prothrombin time",
+        "Serum albumin"
+      ],
+      "answerIndex": 0,
+      "explanation": "Hematocrit is the percentage of a blood sample made up of red blood cells.",
+      "difficulty": "easy"
     }
   ]
 }
