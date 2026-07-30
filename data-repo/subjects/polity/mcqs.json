@@ -180,6 +180,20 @@
       "answerIndex": 0,
       "explanation": "Under the original arrangement, electors cast two presidential votes; the candidate with the highest total became President and the runner-up became Vice President.",
       "difficulty": "medium"
+    },
+    {
+      "id": "pol-mcq-017",
+      "topic": "Comparative Politics",
+      "question": "How many voting Representatives are in the United States House of Representatives?",
+      "options": [
+        "435",
+        "260",
+        "415",
+        "50"
+      ],
+      "answerIndex": 0,
+      "explanation": "The U.S. House has 435 voting Representatives; its other Members are non-voting Delegates and a Resident Commissioner.",
+      "difficulty": "easy"
     }
   ]
 }

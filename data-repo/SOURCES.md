@@ -505,3 +505,14 @@
 - Answer evidence: `sci-mcq-069` — [National Library of Medicine, Hematocrit Test](https://medlineplus.gov/lab-tests/hematocrit-test/).
 - Duplicate decision: No recursive shard contains a hematocrit, red-blood-cell-fraction, or equivalent blood-volume question. Existing health-related questions cover hypoglycemia and liver bile production, not this laboratory measurement.
 - Covered content: `subjects/science-tech/mcqs-002.json` — `sci-mcq-069`
+
+## 2026-07-30 — Open Trivia DB Politics U.S. House membership batch
+
+- Rights holder: PIXELTAIL GAMES LLC (Open Trivia DB).
+- Source: [Open Trivia DB Politics API response](https://opentdb.com/api.php?amount=10&category=24&type=multiple&encode=url3986).
+- Reuse basis: [Open Trivia DB API configuration](https://opentdb.com/api_config.php) states that all data provided by its API is available under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/), which permits adaptation and redistribution with attribution and the same license terms.
+- Attribution: Adapted from Open Trivia DB by PIXELTAIL GAMES LLC, CC BY-SA 4.0. The adapted item in this batch is made available under CC BY-SA 4.0.
+- Retrieved: 2026-07-30
+- Answer evidence: `pol-mcq-017` — [U.S. House of Representatives History, Art & Archives, Determining Apportionment](https://history.house.gov/Institution/Apportionment/Determining-Apportionment/).
+- Duplicate decision: No recursive shard contains an equivalent House-membership count. `pol-mcq-011` through `pol-mcq-016` cover the Ford presidency, the Fourth Amendment, Mandela, the Trusteeship Council, and two Electoral College procedures, not House membership.
+- Covered content: `subjects/polity/mcqs.json` — `pol-mcq-017`
