@@ -670,3 +670,14 @@
 - Answer evidence: `sci-mcq-071` — [BIPM, SI base unit: mole (mol)](https://www.bipm.org/en/si-base-units/mole).
 - Duplicate decision: No recursive content contains mole, amount of substance, elementary entities, Avogadro, or the SI unit of amount of substance. The only search hit was the unrelated substring in "molecule." Existing Science & Technology items test the SI units of length, time, and thermodynamic temperature, plus electrical inductance, but not this base quantity.
 - Covered content: `subjects/science-tech/mcqs-002.json` — `sci-mcq-071`
+
+## 2026-07-30 — OpenStax Astronomy pulsar batch
+
+- Rights holder: Rice University / OpenStax and content contributors.
+- Source: [Astronomy, 23.4 Pulsars and the Discovery of Neutron Stars](https://openstax.org/books/astronomy/pages/23-4-pulsars-and-the-discovery-of-neutron-stars).
+- Reuse basis: The [Astronomy preface](https://openstax.org/books/astronomy/pages/preface) explicitly licenses the textbook under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), permitting distribution, remixing, and adaptation with attribution. Only the pulsar concept is adapted into an original question; no images, figures, quotations, tables, or source wording are imported.
+- Attribution: Adapted from *Astronomy* by Andrew Fraknoi, David Morrison, and Sidney C. Wolff, OpenStax, CC BY 4.0. Access for free at https://openstax.org/books/astronomy/pages/1-introduction.
+- Retrieved: 2026-07-30
+- Answer evidence: `sci-mcq-072` — [NASA Science, Pulsars](https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-pulsars/).
+- Duplicate decision: No recursive content contains pulsar, neutron star, supernova remnant, stellar evolution, white dwarf, black hole, red giant, main sequence, galaxy, or cosmic microwave. `sci-mcq-050` concerns the Kepler exoplanet mission only.
+- Covered content: `subjects/science-tech/mcqs-002.json` — `sci-mcq-072`

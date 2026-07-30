@@ -544,6 +544,20 @@
       "answerIndex": 0,
       "explanation": "The mole (mol) is the SI base unit for amount of substance. It expresses a specified number of elementary entities, such as atoms or molecules.",
       "difficulty": "easy"
+    },
+    {
+      "id": "sci-mcq-072",
+      "topic": "Space Science",
+      "question": "Which object is a rapidly rotating neutron star whose radiation beams can be observed as regular pulses?",
+      "options": [
+        "Pulsar",
+        "Quasar",
+        "White dwarf",
+        "Comet"
+      ],
+      "answerIndex": 0,
+      "explanation": "A pulsar is a highly magnetized, rapidly rotating neutron star. Its beams sweep through space and appear as pulses when they pass Earth.",
+      "difficulty": "medium"
     }
   ]
 }
