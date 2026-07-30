@@ -582,3 +582,14 @@
 - Answer evidence: `geo-mcq-069` — [National Park Service, Plate Tectonics](https://www.nps.gov/para/learn/nature/plate-tectonics.htm); [U.S. Geological Survey, Seismic velocity structure of the continental lithosphere](https://www.usgs.gov/publications/seismic-velocity-structure-continental-lithosphere-controlled-source-data).
 - Duplicate decision: No recursive content contains lithosphere, asthenosphere, or the crust-plus-rigid-uppermost-mantle definition. `geo-fc-001` tests the three plate-boundary types and `geo-mcq-055` uses tectonic plates only as an earthquake distractor.
 - Covered content: `subjects/geography/mcqs.json` — `geo-mcq-069`
+
+## 2026-07-30 — OpenStax price-elasticity batch
+
+- Rights holder: Rice University / OpenStax and content contributors.
+- Source: [Principles of Economics 2e, Chapter 5 review questions](https://openstax.org/books/principles-economics-2e/pages/5-review-questions).
+- Reuse basis: The [Principles of Economics 2e preface](https://openstax.org/books/principles-economics-2e/pages/preface) explicitly licenses the textbook under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), permitting distribution and adaptation with attribution. No images, data tables, or third-party material are imported.
+- Attribution: Adapted from "Principles of Economics 2e" by Steven A. Greenlaw and David Shapiro, OpenStax, CC BY 4.0. Access for free at [OpenStax Principles of Economics 2e](https://openstax.org/books/principles-economics-2e/pages/1-introduction).
+- Retrieved: 2026-07-30
+- Answer evidence: `eco-mcq-014` — [Federal Reserve Bank of St. Louis, Price Elasticity of Demand Video Explainers](https://www.stlouisfed.org/education/elasticity-of-demand-videos).
+- Duplicate decision: No recursive content contains price elasticity, elastic demand, inelastic demand, or a percentage-response classification question. `eco-mcq-004` only notes that devaluation's trade effect depends on elasticities.
+- Covered content: `subjects/economy/mcqs.json` — `eco-mcq-014`

@@ -157,6 +157,20 @@
       "answerIndex": 2,
       "explanation": "The foregone income is 4 hours multiplied by Rs. 20 per hour, which equals Rs. 80.",
       "difficulty": "easy"
+    },
+    {
+      "id": "eco-mcq-014",
+      "topic": "Economic Fundamentals",
+      "question": "A product's price rises by 10%, while quantity demanded falls by 20%. How is its demand classified when elasticity is stated in absolute value?",
+      "options": [
+        "Price elastic",
+        "Price inelastic",
+        "Unit elastic",
+        "Perfectly inelastic"
+      ],
+      "answerIndex": 0,
+      "explanation": "The absolute value of price elasticity of demand is 20% divided by 10%, or 2. Because the percentage change in quantity demanded is greater than the percentage change in price, demand is price elastic.",
+      "difficulty": "medium"
     }
   ]
 }
