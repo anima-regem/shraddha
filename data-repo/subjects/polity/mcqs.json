@@ -194,6 +194,20 @@
       "answerIndex": 0,
       "explanation": "The U.S. House has 435 voting Representatives; its other Members are non-voting Delegates and a Resident Commissioner.",
       "difficulty": "easy"
+    },
+    {
+      "id": "pol-mcq-018",
+      "topic": "Comparative Politics",
+      "question": "Under the United States Constitution, after the House of Representatives impeaches a federal official, which institution has the sole power to try the impeachment?",
+      "options": [
+        "The Senate",
+        "The Supreme Court",
+        "The House of Representatives",
+        "The Department of Justice"
+      ],
+      "answerIndex": 0,
+      "explanation": "The House has the sole power to impeach, while Article I, Section 3 gives the Senate the sole power to try impeachments.",
+      "difficulty": "medium"
     }
   ]
 }

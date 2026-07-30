@@ -615,3 +615,14 @@
 - Answer evidence: `env-mcq-020` — [U.S. Geological Survey, Volcano Watch: From lava flow to forest: Primary succession](https://www.usgs.gov/news/volcano-watch-lava-flow-forest-primary-succession).
 - Duplicate decision: No recursive content contains primary succession, secondary succession, lava flow, pioneer species, bare ground, bare rock, or a succession classification question. The existing environment items cover energy transfer, biodiversity, conservation, water pollution, and El Nino, but not ecological succession.
 - Covered content: `subjects/environment/mcqs.json` — `env-mcq-020`
+
+## 2026-07-30 — U.S. Constitution impeachment-trial batch
+
+- Rights holder: The original 1787 Constitution of the United States is a public-domain primary document; the direct transcription is published by the U.S. National Archives.
+- Source: [The Constitution of the United States: A Transcription](https://www.archives.gov/founding-docs/constitution-transcript).
+- Reuse basis: The source text is a public-domain historical primary document. The adapted item is an original factual question and does not reproduce source wording, page layout, images, or other non-text material. [17 U.S.C. 105](https://www.copyright.gov/title17/92chap1.html?facet=app&mode=light) confirms that copyright protection is not available for U.S. Government works.
+- Attribution: Based on the Constitution of the United States, Article I, Section 3, as transcribed by the U.S. National Archives; public domain.
+- Retrieved: 2026-07-30
+- Answer evidence: `pol-mcq-018` — [U.S. Senate, About Impeachment](https://www.senate.gov/about/powers-procedures/impeachment.htm).
+- Duplicate decision: No recursive content contains impeachment, an impeachment trial, the Senate's sole power to try impeachments, or an equivalent division of House and Senate roles. Existing U.S. comparative-politics questions cover Presidents, constitutional amendments, and House membership, not impeachment.
+- Covered content: `subjects/polity/mcqs.json` — `pol-mcq-018`
