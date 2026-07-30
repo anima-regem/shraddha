@@ -370,3 +370,13 @@
 - Retrieved: 2026-07-30
 - Answer evidence: `sci-mcq-050` — [NASA Science, Kepler/K2](https://science.nasa.gov/mission/kepler/); `sci-mcq-051` — [NASA Science, Titan's North](https://science.nasa.gov/resource/titans-north-with-text/); `sci-mcq-052` — [NASA Science, Uranus Facts](https://science.nasa.gov/uranus/facts/).
 - Covered content: `subjects/science-tech/mcqs-002.json` — `sci-mcq-050` through `sci-mcq-052`
+
+## 2026-07-30 — NASA Energy of an Astronaut educator quiz batch
+
+- Rights holder: National Aeronautics and Space Administration (NASA), Johnson Space Center Human Research Program Education and Outreach team; the lesson also identifies collaboration with the U.S. Food and Drug Administration Education Team.
+- Source: [Energy of an Astronaut - Educator Section](https://www.nasa.gov/wp-content/uploads/2018/05/energyofanastronaut_-_teacher.pdf), including its official quiz and answer key.
+- Reuse basis: The lesson identifies NASA Johnson Space Center's Human Research Program Education and Outreach team as its developer. Only agency-authored quiz and lesson text is adapted. Under [17 U.S.C. 105](https://uscode.house.gov/view.xhtml?req=%28title%3A17+section%3A105+edition%3Aprelim%29), copyright protection is not available for a work of the United States Government. NASA's [media-usage guidelines](https://www.nasa.gov/nasa-brand-center/images-and-media/) permit factual educational or informational use of NASA content with source acknowledgement. No images, NASA identifiers, Food Pyramid reproductions, external references, or third-party material are imported.
+- Attribution: Adapted from "Energy of an Astronaut - Educator Section" by NASA Johnson Space Center Human Research Program Education and Outreach team, public domain in the United States; NASA acknowledged as the source.
+- Retrieved: 2026-07-30
+- Answer evidence: `sci-mcq-053` and `sci-mcq-054` — [U.S. FDA, Serving Size on the Nutrition Facts Label](https://www.fda.gov/food/nutrition-facts-label/serving-size-nutrition-facts-label); `sci-mcq-055` — [NASA Johnson Space Center, Space Food](https://www.nasa.gov/centers/johnson/pdf/167750main_FS_SpaceFood508c.pdf).
+- Covered content: `subjects/science-tech/mcqs-002.json` — `sci-mcq-053` through `sci-mcq-055`

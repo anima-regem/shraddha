@@ -278,6 +278,48 @@
       "answerIndex": 0,
       "explanation": "Uranus has an axial tilt of about 98 degrees, so its rotation makes it appear to spin on its side.",
       "difficulty": "easy"
+    },
+    {
+      "id": "sci-mcq-053",
+      "topic": "Basic Science",
+      "question": "Under current U.S. Nutrition Facts labeling, a food's serving size is generally based on which measure?",
+      "options": [
+        "The amount people typically consume",
+        "The maximum amount recommended in one day",
+        "The package's total weight",
+        "The amount with the fewest Calories"
+      ],
+      "answerIndex": 0,
+      "explanation": "FDA serving sizes are based on the amount people typically eat and drink, not on a recommended amount.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sci-mcq-054",
+      "topic": "Basic Science",
+      "question": "A package lists 280 Calories and 15 grams of protein per serving. If a person eats two servings, what do the listed values represent?",
+      "options": [
+        "560 Calories and 30 grams of protein",
+        "280 Calories and 15 grams of protein",
+        "560 Calories and 15 grams of protein",
+        "280 Calories and 30 grams of protein"
+      ],
+      "answerIndex": 0,
+      "explanation": "Nutrition Facts values are normally given per serving, so consuming two servings doubles the listed Calories and nutrients.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "sci-mcq-055",
+      "topic": "Space Technology",
+      "question": "Why have flour tortillas been used as a bread item on crewed space missions?",
+      "options": [
+        "They avoid the crumb-handling problem in microgravity",
+        "They produce oxygen during storage",
+        "They can be eaten only when frozen",
+        "They shield food from radiation"
+      ],
+      "answerIndex": 0,
+      "explanation": "NASA uses flour tortillas because they help avoid loose crumbs, which are difficult to manage in microgravity.",
+      "difficulty": "medium"
     }
   ]
 }
