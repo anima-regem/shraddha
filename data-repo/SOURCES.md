@@ -516,3 +516,14 @@
 - Answer evidence: `pol-mcq-017` — [U.S. House of Representatives History, Art & Archives, Determining Apportionment](https://history.house.gov/Institution/Apportionment/Determining-Apportionment/).
 - Duplicate decision: No recursive shard contains an equivalent House-membership count. `pol-mcq-011` through `pol-mcq-016` cover the Ford presidency, the Fourth Amendment, Mandela, the Trusteeship Council, and two Electoral College procedures, not House membership.
 - Covered content: `subjects/polity/mcqs.json` — `pol-mcq-017`
+
+## 2026-07-30 — CK-12/Wikibooks weather-and-atmospheric-water batch
+
+- Rights holder: CK-12 Foundation (the original High School Earth Science material identified by the parent book) and Wikibooks contributors; contributor attribution is available in the [page history](https://en.wikibooks.org/w/index.php?title=High_School_Earth_Science/Weather_and_Atmospheric_Water&action=history).
+- Source: [High School Earth Science/Weather and Atmospheric Water, permanent revision 3486404](https://en.wikibooks.org/w/index.php?title=High_School_Earth_Science/Weather_and_Atmospheric_Water&oldid=3486404).
+- Reuse basis: The [parent book, permanent revision 3693065](https://en.wikibooks.org/w/index.php?title=High_School_Earth_Science&oldid=3693065), identifies this material as adapted from the original CK-12 book and states that it is licensed under the [Creative Commons Attribution-ShareAlike 3.0 United States License](https://creativecommons.org/licenses/by-sa/3.0/us/), which permits adaptation and redistribution with attribution and the same license terms. No images, tables, linked material, or third-party content are imported.
+- Attribution: Adapted from "High School Earth Science/Weather and Atmospheric Water" by CK-12 Foundation and Wikibooks contributors, CC BY-SA 3.0 US. The adapted item in this batch is made available under CC BY-SA 3.0 US.
+- Retrieved: 2026-07-30
+- Answer evidence: `geo-mcq-064` — [National Weather Service, Temperature - Dry Bulb/Wet Bulb/Dew Point](https://www.weather.gov/source/zhu/ZHU_Training_Page/definitions/dry_wet_bulb_definition/dry_wet_bulb.html).
+- Duplicate decision: No recursive shard contains dew point, saturation-on-cooling, or an equivalent condensation-temperature question. `geo-mcq-049` tests precipitation requirements, while `geo-mcq-050` and `geo-mcq-051` classify cloud forms, not the thermodynamic definition of dew point.
+- Covered content: `subjects/geography/mcqs.json` — `geo-mcq-064`

@@ -777,6 +777,20 @@
       "answerIndex": 0,
       "explanation": "Index fossils are useful because a widespread species with a short geologic range helps correlate the relative ages of separated rock layers.",
       "difficulty": "medium"
+    },
+    {
+      "id": "geo-mcq-064",
+      "topic": "Physical Geography",
+      "question": "At constant pressure and with no change in water-vapor content, what does an air parcel's dew-point temperature represent?",
+      "options": [
+        "The temperature to which it must be cooled to reach saturation",
+        "The temperature at which all its water vapor freezes",
+        "The maximum temperature it can reach during the day",
+        "The temperature at which wind speed becomes zero"
+      ],
+      "answerIndex": 0,
+      "explanation": "The dew point is the temperature to which air must be cooled, at constant pressure and moisture content, for saturation and condensation to occur.",
+      "difficulty": "medium"
     }
   ]
 }
