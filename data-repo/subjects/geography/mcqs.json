@@ -735,6 +735,48 @@
       "answerIndex": 0,
       "explanation": "Lithification converts loose sediment into sedimentary rock, commonly through compaction and cementation.",
       "difficulty": "medium"
+    },
+    {
+      "id": "geo-mcq-061",
+      "topic": "Physical Geography",
+      "question": "Which observation is a trace fossil rather than a body fossil?",
+      "options": [
+        "A dinosaur footprint pressed into sediment",
+        "A dinosaur femur preserved in rock",
+        "A shell preserved in limestone",
+        "Petrified wood"
+      ],
+      "answerIndex": 0,
+      "explanation": "Trace fossils preserve evidence of an organism's activity, such as a footprint or burrow, rather than part of its body.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "geo-mcq-062",
+      "topic": "Physical Geography",
+      "question": "Which condition most increases the chance that an animal's remains will become a fossil?",
+      "options": [
+        "Rapid burial by sediment soon after death",
+        "Long exposure to scavengers and weathering",
+        "Repeated wave action on exposed remains",
+        "Rapid decomposition in warm air"
+      ],
+      "answerIndex": 0,
+      "explanation": "Rapid burial protects remains from decomposition, weathering, and scavenging, increasing the chance of fossilization.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "geo-mcq-063",
+      "topic": "Physical Geography",
+      "question": "Which characteristic makes a fossil most useful as an index fossil for correlating rock layers?",
+      "options": [
+        "It was widespread but existed for a relatively brief period",
+        "It lived unchanged through most of geologic time",
+        "It occurs only in one small geographic area",
+        "It is the largest fossil in the rock layer"
+      ],
+      "answerIndex": 0,
+      "explanation": "Index fossils are useful because a widespread species with a short geologic range helps correlate the relative ages of separated rock layers.",
+      "difficulty": "medium"
     }
   ]
 }

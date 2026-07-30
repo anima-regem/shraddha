@@ -483,3 +483,14 @@
 - Answer evidence: `geo-mcq-058` — [USGS, Earth Materials Scavenger Hunt Activity](https://www.usgs.gov/educational-resources/earth-materials-scavenger-hunt-activity); `geo-mcq-059` — [USGS, What are metamorphic rocks?](https://www.usgs.gov/faqs/what-are-metamorphic-rocks); `geo-mcq-060` — [USGS, What are sedimentary rocks?](https://www.usgs.gov/faqs/what-are-sedimentary-rocks) and [USGS, Diagenesis and Stratigraphy](https://pubs.usgs.gov/pp/0857/report.pdf).
 - Duplicate decision: `geo-mcq-042` tests the age order of undeformed sedimentary strata, not rock formation or lithification.
 - Covered content: `subjects/geography/mcqs.json` — `geo-mcq-058` through `geo-mcq-060`
+
+## 2026-07-30 — Wikibooks fossils review batch
+
+- Rights holder: Wikibooks contributors; contributor attribution is available in the [page history](https://en.wikibooks.org/w/index.php?title=High_School_Earth_Science/Fossils&action=history).
+- Source: [High School Earth Science/Fossils, permanent revision 4430070](https://en.wikibooks.org/w/index.php?title=High_School_Earth_Science/Fossils&oldid=4430070).
+- Reuse basis: Wikibooks text is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); its [copyright policy](https://en.wikibooks.org/wiki/Wikibooks:Copyrights) permits copying, modifying, and redistributing text with attribution, a license notice, and the same terms. No images, tables, linked material, or other non-text media are imported.
+- Attribution: Adapted from "High School Earth Science/Fossils" by Wikibooks contributors, CC BY-SA 4.0. The adapted items in this batch are made available under CC BY-SA 4.0.
+- Retrieved: 2026-07-30
+- Answer evidence: `geo-mcq-061` — [National Park Service, Trace Fossils](https://www.nps.gov/subjects/fossils/trace-fossils.htm); `geo-mcq-062` — [National Park Service, How Fossils Form](https://www.nps.gov/subjects/fossils/how-fossils-form.htm); `geo-mcq-063` — [USGS, Geologic Time](https://pubs.usgs.gov/gip/70039221/report.pdf).
+- Duplicate decision: `geo-mcq-042` covers superposition in undeformed sedimentary strata. It does not test trace-fossil classification, preservation conditions, or the use of index fossils. No other recursive shard has a matching concept.
+- Covered content: `subjects/geography/mcqs.json` — `geo-mcq-061` through `geo-mcq-063`
