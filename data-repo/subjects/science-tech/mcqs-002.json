@@ -614,6 +614,34 @@
       "answerIndex": 0,
       "explanation": "Kepler's second law implies that a planet moves fastest at perihelion, its nearest point to the Sun, and slowest at aphelion.",
       "difficulty": "medium"
+    },
+    {
+      "id": "sci-mcq-077",
+      "topic": "Basic Science",
+      "question": "During which stage of meiosis does crossing over occur?",
+      "options": [
+        "Prophase I",
+        "Metaphase I",
+        "Anaphase II",
+        "Telophase II"
+      ],
+      "answerIndex": 0,
+      "explanation": "Crossing over occurs during prophase I, when homologous chromosomes pair and exchange segments, increasing genetic variation.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sci-mcq-078",
+      "topic": "Basic Science",
+      "question": "What is the usual outcome of meiosis from one diploid parent cell?",
+      "options": [
+        "Four haploid daughter cells",
+        "Two identical diploid daughter cells",
+        "One haploid and one diploid cell",
+        "Four genetically identical diploid cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Meiosis has two successive divisions and usually produces four genetically distinct haploid daughter cells from one diploid cell.",
+      "difficulty": "medium"
     }
   ]
 }

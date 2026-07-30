@@ -714,3 +714,14 @@
 - Answer evidence: `sci-mcq-075` and `sci-mcq-076` — [NASA Science, Orbits and Kepler's Laws](https://science.nasa.gov/solar-system/orbits-and-keplers-laws/).
 - Duplicate decision: No recursive content contains Kepler's laws, an elliptical planetary orbit, perihelion, aphelion, semimajor axis, equal areas, or orbital speed. `sci-mcq-050` uses Kepler only as a mission name, and `sci-mcq-020` tests gravity as the force keeping planets in orbit, not the shape or speed of their orbits.
 - Covered content: `subjects/science-tech/mcqs-002.json` — `sci-mcq-075` through `sci-mcq-076`
+
+## 2026-07-30 - OpenStax Biology meiosis batch
+
+- Rights holder: Rice University / OpenStax and content contributors.
+- Source: [Biology, 11.1 The Process of Meiosis](https://openstax.org/books/biology/pages/11-1-the-process-of-meiosis).
+- Reuse basis: The source chapter and [Biology preface](https://openstax.org/books/biology/pages/preface) explicitly license the 2016 *Biology* textbook under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), allowing distribution, remixing, and adaptation with attribution. Only the meiosis concepts are adapted into original questions; no images, figures, quotations, tables, trademarks, or source wording are imported.
+- Attribution: Adapted from *Biology* by Connie Rye, Robert Wise, Vladimir Jurukovski, Jean DeSaix, Jung Choi, and Yael Avissar, OpenStax, CC BY 4.0. Access for free at https://openstax.org/books/biology/pages/1-introduction.
+- Retrieved: 2026-07-30
+- Answer evidence: `sci-mcq-077` - [NHGRI, Crossing Over](https://www.genome.gov/genetics-glossary/Crossing-Over) and [NCBI Bookshelf, Genetics, Meiosis](https://www.ncbi.nlm.nih.gov/books/NBK482462/); `sci-mcq-078` - [NCBI Bookshelf, Genetics, Meiosis](https://www.ncbi.nlm.nih.gov/books/NBK482462/).
+- Duplicate decision: No recursive content contains meiosis, mitosis, crossing over, recombination, prophase, gamete, haploid, diploid, homologous chromosome, or daughter cell. Existing Science & Technology items cover an unrelated chromosome-count question and the structure of DNA, not meiosis stages or outcomes.
+- Covered content: `subjects/science-tech/mcqs-002.json` - `sci-mcq-077` through `sci-mcq-078`
