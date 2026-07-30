@@ -350,3 +350,13 @@
 - Retrieved: 2026-07-30
 - Answer evidence: `pol-mcq-015` and `pol-mcq-016` — [U.S. National Archives, Legal Provisions Relevant to the Electoral College Process](https://www.archives.gov/electoral-college/provisions), which reproduces the Twelfth Amendment's distinct-ballot rule; [U.S. National Archives, Tally of the 1824 Electoral College Vote](https://www.archives.gov/education/lessons/electoral-tally), which explains that the original arrangement awarded the presidency to the highest electoral-vote total and the vice presidency to the runner-up.
 - Covered content: `subjects/polity/mcqs.json` — `pol-mcq-015` through `pol-mcq-016`
+
+## 2026-07-30 — CK-12/Wikibooks water-engineering review batch
+
+- Rights holder: CK-12 Foundation (the original High School Engineering material identified by the source page) and Wikibooks contributors; contributor attribution is available in the [page history](https://en.wikibooks.org/w/index.php?title=High_School_Engineering/Water_and_Engineering&action=history).
+- Source: [High School Engineering/Water and Engineering, permanent revision 2971525](https://en.wikibooks.org/w/index.php?title=High_School_Engineering/Water_and_Engineering&oldid=2971525).
+- Reuse basis: The source page identifies the material as adapted from the original CK-12 book and states that it is licensed under the [Creative Commons Attribution-ShareAlike 3.0 United States License](https://creativecommons.org/licenses/by-sa/3.0/us/), which permits adaptation and redistribution with attribution and the same license terms.
+- Attribution: Adapted from "High School Engineering/Water and Engineering" by CK-12 Foundation and Wikibooks contributors, CC BY-SA 3.0 US. The adapted items in this batch are made available under CC BY-SA 3.0 US.
+- Retrieved: 2026-07-30
+- Answer evidence: `env-mcq-014` — [U.S. EPA, What are Water Quality Standards?](https://www.epa.gov/wqs-tech/what-are-water-quality-standards); `env-mcq-015` — [U.S. EPA, Disinfection Profiling and Benchmarking: Technical Guidance](https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=P100ZLU4.TXT); `env-mcq-016` — [U.S. EPA, Municipal Wastewater Processes: Overview](https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=9101Z19I.TXT).
+- Covered content: `subjects/environment/mcqs.json` — `env-mcq-014` through `env-mcq-016`

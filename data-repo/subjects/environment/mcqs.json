@@ -142,6 +142,48 @@
       "answerIndex": 0,
       "explanation": "A natterjack is a protected amphibian species commonly called the natterjack toad.",
       "difficulty": "medium"
+    },
+    {
+      "id": "env-mcq-014",
+      "topic": "Water Pollution",
+      "question": "Under the United States EPA framework, which of the following is a core component of a water-quality standard?",
+      "options": [
+        "Criteria that protect designated uses of a water body",
+        "A mandatory household water-rationing schedule",
+        "A list of water-treatment plants in every district",
+        "A weather forecast for the watershed"
+      ],
+      "answerIndex": 0,
+      "explanation": "Water-quality standards include designated uses and criteria that protect those uses; they also include antidegradation requirements.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "env-mcq-015",
+      "topic": "Water Pollution",
+      "question": "What is the primary public-health purpose of disinfecting drinking water?",
+      "options": [
+        "Inactivating disease-causing microorganisms",
+        "Removing all dissolved salts",
+        "Increasing the water's dissolved oxygen",
+        "Adding nutrients for aquatic plants"
+      ],
+      "answerIndex": 0,
+      "explanation": "Disinfection controls waterborne disease by inactivating pathogens such as bacteria, protozoa, and viruses.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "env-mcq-016",
+      "topic": "Water Pollution",
+      "question": "Before treated wastewater is released to the environment, what is a core purpose of wastewater treatment?",
+      "options": [
+        "Removing solids and contaminants to reduce pollution",
+        "Making the effluent suitable for unrestricted drinking",
+        "Increasing the concentration of organic pollutants",
+        "Adding disease-causing microorganisms"
+      ],
+      "answerIndex": 0,
+      "explanation": "Wastewater treatment removes solids and contaminants, helping reduce pollution before treated effluent is discharged or reused for suitable non-potable purposes.",
+      "difficulty": "easy"
     }
   ]
 }
