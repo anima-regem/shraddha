@@ -171,6 +171,20 @@
       "answerIndex": 0,
       "explanation": "The absolute value of price elasticity of demand is 20% divided by 10%, or 2. Because the percentage change in quantity demanded is greater than the percentage change in price, demand is price elastic.",
       "difficulty": "medium"
+    },
+    {
+      "id": "eco-mcq-015",
+      "topic": "Economic Fundamentals",
+      "question": "In a competitive market, the price is set below the equilibrium price. Which condition results?",
+      "options": [
+        "A shortage, because quantity demanded exceeds quantity supplied",
+        "A surplus, because quantity supplied exceeds quantity demanded",
+        "Equilibrium, because both quantities remain equal",
+        "No trade, because demand and supply both become zero"
+      ],
+      "answerIndex": 0,
+      "explanation": "At a price below equilibrium, buyers want to purchase more than sellers are willing to supply. The resulting excess demand is a shortage.",
+      "difficulty": "medium"
     }
   ]
 }

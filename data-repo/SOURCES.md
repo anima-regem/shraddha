@@ -637,3 +637,14 @@
 - Answer evidence: `sci-mcq-070` — [NIST, Kelvin: Introduction](https://www.nist.gov/si-redefinition/kelvin-introduction).
 - Duplicate decision: No recursive content contains kelvin, thermodynamic temperature, the SI unit of temperature, degree Celsius, or absolute zero. Existing Science & Tech items cover the SI unit of time, light speed, and atomic properties, but not the temperature base unit.
 - Covered content: `subjects/science-tech/mcqs-002.json` — `sci-mcq-070`
+
+## 2026-07-30 — OpenStax market-shortage batch
+
+- Rights holder: Rice University / OpenStax and content contributors.
+- Source: [Principles of Economics 2e, 3.1 Demand, Supply, and Equilibrium in Markets for Goods and Services](https://openstax.org/books/principles-economics-2e/pages/3-1-demand-supply-and-equilibrium-in-markets-for-goods-and-services).
+- Reuse basis: The source chapter's [edition-specific preface](https://openstax.org/books/principles-economics-2e/pages/preface) explicitly states that *Principles of Economics 2e* is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) and may be distributed, remixed, and built upon with attribution. No images, tables, trademarks, or third-party material are imported.
+- Attribution: Adapted from *Principles of Economics 2e* by Steven A. Greenlaw and David Shapiro, OpenStax, CC BY 4.0. Access for free at [OpenStax Principles of Economics 2e](https://openstax.org/books/principles-economics-2e/pages/1-introduction).
+- Retrieved: 2026-07-30
+- Answer evidence: `eco-mcq-015` — [St. Louis Fed, Prices: The Marketplace's Communication System](https://www.stlouisfed.org/publications/page-one-economics/2013/04/01/prices-the-marketplaces-communication-system).
+- Duplicate decision: No recursive content contains market equilibrium, a below-equilibrium price, shortage, excess demand, or a quantity-demanded versus quantity-supplied comparison. Existing Economy content covers scarcity, opportunity cost, elasticity, national income, and Indian fiscal concepts, but not this market-clearing relationship.
+- Covered content: `subjects/economy/mcqs.json` — `eco-mcq-015`
