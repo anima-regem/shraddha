@@ -780,3 +780,14 @@
 - Answer evidence: `env-mcq-024` - [USGS, Contamination of Groundwater](https://www.usgs.gov/special-topics/water-science-school/science/contamination-groundwater).
 - Duplicate decision: The recursive validator found no ID or exact duplicate. Manual recursive review found no groundwater-quality, groundwater-contamination, clean-groundwater, aquifer-contamination, well-contamination, or groundwater-pollution item. Existing water content concerns regulatory standards, drinking-water disinfection, wastewater treatment, or a watershed definition.
 - Covered content: `subjects/environment/mcqs.json` - `env-mcq-024`
+
+## 2026-07-30 - USGS groundwater-flow quiz batch
+
+- Rights holder: U.S. Geological Survey, U.S. Department of the Interior.
+- Source: [How Well Do You Know Groundwater](https://www.usgs.gov/news/featured-story/how-well-do-you-know-groundwater), questions 6 and 8.
+- Reuse basis: [USGS copyright guidance](https://www.usgs.gov/faqs/are-usgs-reportspublications-copyrighted) states that USGS-authored data and information are in the U.S. public domain and may be freely used without permission with acknowledgement. The source questions are USGS-authored text; no restricted media, images, or other third-party content is used. The Shraddha items are original factual MCQs based on the source concepts rather than copied wording.
+- Attribution: Adapted from "How Well Do You Know Groundwater," U.S. Geological Survey, public domain. Credit: U.S. Geological Survey.
+- Retrieved: 2026-07-30
+- Answer evidence: `env-mcq-025` - [USGS, Base Flow in Rivers](https://www.usgs.gov/special-topic/water-science-school/science/base-flow-rivers); `env-mcq-026` - [USGS, Groundwater Wells](https://www.usgs.gov/water-science-school/science/groundwater-wells).
+- Duplicate decision: The recursive validator found no ID or exact duplicate. Manual recursive review found no baseflow, groundwater seepage sustaining streams, well drawdown, cone of depression, or nearby-well interference. The only nearby water item is `geo-mcq-070`, which defines a watershed.
+- Covered content: `subjects/environment/mcqs.json` - `env-mcq-025` through `env-mcq-026`

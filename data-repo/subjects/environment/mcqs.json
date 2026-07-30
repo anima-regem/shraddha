@@ -296,6 +296,34 @@
       "answerIndex": 0,
       "explanation": "Soil can filter some particles, but groundwater can still contain natural dissolved elements and contaminants from human activities, even when the water appears clear.",
       "difficulty": "medium"
+    },
+    {
+      "id": "env-mcq-025",
+      "topic": "Water Resources",
+      "question": "During a prolonged drought, what can keep a stream flowing after surface runoff has diminished?",
+      "options": [
+        "Groundwater seeping into the stream as baseflow",
+        "Evaporation from the stream surface",
+        "Sediment settling on the streambed",
+        "Water being pumped from nearby wells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Baseflow is groundwater that seeps into a stream. It can sustain streamflow during dry periods after surface runoff has declined.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "env-mcq-026",
+      "topic": "Water Resources",
+      "question": "What can happen to nearby wells when one well is pumped heavily?",
+      "options": [
+        "Their water levels can fall as the cone of depression extends outward",
+        "Their water levels always rise because pumping increases recharge",
+        "They become disconnected from the aquifer",
+        "Their water becomes pure because pumping filters it"
+      ],
+      "answerIndex": 0,
+      "explanation": "Heavy pumping lowers water levels around a well, forming a cone of depression. If it reaches nearby wells, their water levels can also decline.",
+      "difficulty": "medium"
     }
   ]
 }
