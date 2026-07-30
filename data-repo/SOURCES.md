@@ -725,3 +725,14 @@
 - Answer evidence: `sci-mcq-077` - [NHGRI, Crossing Over](https://www.genome.gov/genetics-glossary/Crossing-Over) and [NCBI Bookshelf, Genetics, Meiosis](https://www.ncbi.nlm.nih.gov/books/NBK482462/); `sci-mcq-078` - [NCBI Bookshelf, Genetics, Meiosis](https://www.ncbi.nlm.nih.gov/books/NBK482462/).
 - Duplicate decision: No recursive content contains meiosis, mitosis, crossing over, recombination, prophase, gamete, haploid, diploid, homologous chromosome, or daughter cell. Existing Science & Technology items cover an unrelated chromosome-count question and the structure of DNA, not meiosis stages or outcomes.
 - Covered content: `subjects/science-tech/mcqs-002.json` - `sci-mcq-077` through `sci-mcq-078`
+
+## 2026-07-30 - USGS watershed batch
+
+- Rights holder: U.S. Geological Survey, U.S. Department of the Interior.
+- Source: [Watersheds and drainage networks](https://www.usgs.gov/publications/watersheds-and-drainage-networks), by Larry Stanislawski and Ethan J. Shavers.
+- Reuse basis: [USGS copyright guidance](https://www.usgs.gov/faqs/are-usgs-reportspublications-copyrighted) states that USGS-authored data and information are in the U.S. public domain and may be freely used without permission with acknowledgement. Only the watershed concept is adapted into an original question; no images, figures, layout, trademarks, or source wording are imported.
+- Attribution: Adapted from Larry Stanislawski and Ethan J. Shavers, "Watersheds and drainage networks," U.S. Geological Survey, public domain. Credit: U.S. Geological Survey.
+- Retrieved: 2026-07-30
+- Answer evidence: `geo-mcq-070` - [U.S. EPA, Basic Information and Answers to Frequent Questions](https://www.epa.gov/hwp/basic-information-and-answers-frequent-questions).
+- Duplicate decision: The recursive validator found no ID or exact duplicate. The only catalog hit for "watershed" is an incorrect distractor in `env-mcq-014`, which tests water-quality-standard components rather than watershed definition or drainage geography.
+- Covered content: `subjects/geography/mcqs.json` - `geo-mcq-070`

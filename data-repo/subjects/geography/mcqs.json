@@ -861,6 +861,20 @@
       "answerIndex": 0,
       "explanation": "The lithosphere is Earth's rigid outer mechanical layer. It consists of the crust and the solid, uppermost part of the mantle; it is divided into tectonic plates.",
       "difficulty": "medium"
+    },
+    {
+      "id": "geo-mcq-070",
+      "topic": "Physical Geography",
+      "question": "A tract of land channels rainfall and streamflow toward the same downstream point. What is this land area called?",
+      "options": [
+        "Watershed",
+        "Aquifer",
+        "Estuary",
+        "Delta"
+      ],
+      "answerIndex": 0,
+      "explanation": "A watershed is the land area from which water drains to a shared outlet, such as a stream, river, or lake.",
+      "difficulty": "easy"
     }
   ]
 }
