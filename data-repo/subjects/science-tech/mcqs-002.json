@@ -558,6 +558,34 @@
       "answerIndex": 0,
       "explanation": "A pulsar is a highly magnetized, rapidly rotating neutron star. Its beams sweep through space and appear as pulses when they pass Earth.",
       "difficulty": "medium"
+    },
+    {
+      "id": "sci-mcq-073",
+      "topic": "Space Science",
+      "question": "Why do solar and lunar eclipses not occur every month?",
+      "options": [
+        "The Moon's orbital plane is tilted relative to Earth's orbital plane",
+        "The Moon changes its size each month",
+        "Earth's rotation prevents the Sun, Earth, and Moon from aligning",
+        "The Sun blocks the Moon's shadow for most of the year"
+      ],
+      "answerIndex": 0,
+      "explanation": "The Moon's orbit is tilted by about 5 degrees relative to Earth's orbital plane, so the Sun, Earth, and Moon usually do not align closely enough for an eclipse.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sci-mcq-074",
+      "topic": "Space Science",
+      "question": "During an eclipse, what is the dark central region of a shadow called?",
+      "options": [
+        "Umbra",
+        "Penumbra",
+        "Corona",
+        "Ecliptic"
+      ],
+      "answerIndex": 0,
+      "explanation": "The umbra is the dark central part of an eclipse shadow, where light from the Sun is completely blocked.",
+      "difficulty": "easy"
     }
   ]
 }

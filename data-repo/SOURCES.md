@@ -692,3 +692,14 @@
 - Answer evidence: `eco-mcq-016` — [Federal Reserve Bank of St. Louis, Comparative Advantage](https://fraser.stlouisfed.org/files/docs/publications/pageone/frbsl-pageone-201311-global-economy.pdf).
 - Duplicate decision: No recursive content contains comparative advantage, absolute advantage, lower opportunity cost, trade specialization, or a trade-based opportunity-cost definition. `eco-mcq-013` tests a worker's general opportunity cost and `eco-mcq-015` tests market shortages; neither covers comparative advantage.
 - Covered content: `subjects/economy/mcqs.json` — `eco-mcq-016`
+
+## 2026-07-30 — OpenStax Astronomy eclipse-mechanics batch
+
+- Rights holder: Rice University / OpenStax and content contributors.
+- Source: [Astronomy, 4.7 Eclipses of the Sun and Moon](https://openstax.org/books/astronomy/pages/4-7-eclipses-of-the-sun-and-moon).
+- Reuse basis: The [Astronomy preface](https://openstax.org/books/astronomy/pages/preface) explicitly licenses the textbook under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), permitting distribution, remixing, and adaptation with attribution. Only two eclipse-mechanics concepts are adapted into original questions; no images, figures, quotations, tables, or source wording are imported.
+- Attribution: Adapted from *Astronomy* by Andrew Fraknoi, David Morrison, and Sidney C. Wolff, OpenStax, CC BY 4.0. Access for free at https://openstax.org/books/astronomy/pages/1-introduction.
+- Retrieved: 2026-07-30
+- Answer evidence: `sci-mcq-073` and `sci-mcq-074` — [NASA Science, Why Do Eclipses Happen?](https://science.nasa.gov/eclipses/geometry/) (Moon's orbital tilt and the umbra); [NASA, Diagram of Umbra and Penumbra](https://www.nasa.gov/image-article/diagram-of-umbra-penumbra/) (umbra definition).
+- Duplicate decision: `geo-mcq-009` already tests solar-eclipse alignment and is excluded. No recursive content contains umbra, penumbra, eclipse season, the Moon's 5-degree orbital tilt, or why eclipses are not monthly. The only near term hit concerns Earth's 23.5-degree axial tilt, which is a distinct mechanism.
+- Covered content: `subjects/science-tech/mcqs-002.json` — `sci-mcq-073` through `sci-mcq-074`
