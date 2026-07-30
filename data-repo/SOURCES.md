@@ -659,3 +659,14 @@
 - Answer evidence: `env-mcq-021` — [U.S. Geological Survey, Animated Nitrogen Fixation](https://www.usgs.gov/media/videos/animated-nitrogen-fixation), which defines nitrogen fixation as conversion of atmospheric N2 to ammonia, ammonium, or nitrate; the page identifies its video source/usage as public domain.
 - Duplicate decision: No recursive content contains nitrogen fixation, nitrogen cycle, nitrification, denitrification, ammonification, biogeochemical cycles, atmospheric nitrogen, or ammonia. `env-mcq-020` covers primary succession only; the remaining Environment questions cover ecology, conservation, pollution, energy, and El Nino without nitrogen-cycle processes.
 - Covered content: `subjects/environment/mcqs.json` — `env-mcq-021`
+
+## 2026-07-30 — OpenStax Chemistry mole SI-unit batch
+
+- Rights holder: Rice University / OpenStax and content contributors.
+- Source: [Chemistry, 1.4 Measurements](https://openstax.org/books/chemistry/pages/1-4-measurements).
+- Reuse basis: The source chapter and its [preface](https://openstax.org/books/chemistry/pages/preface) explicitly state that *Chemistry* is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) and may be distributed, remixed, and built upon with attribution. The edition-specific section retains an explicit CC BY attribution notice. Only the SI-unit concept is adapted into an original question; no images, tables, equations, trademarks, or source wording are imported.
+- Attribution: Adapted from *Chemistry* by Paul Flowers, William R. Robinson, Richard Langley, and Klaus Theopold, OpenStax, CC BY 4.0. Access for free at [OpenStax Chemistry](https://openstax.org/books/chemistry/pages/1-introduction).
+- Retrieved: 2026-07-30
+- Answer evidence: `sci-mcq-071` — [BIPM, SI base unit: mole (mol)](https://www.bipm.org/en/si-base-units/mole).
+- Duplicate decision: No recursive content contains mole, amount of substance, elementary entities, Avogadro, or the SI unit of amount of substance. The only search hit was the unrelated substring in "molecule." Existing Science & Technology items test the SI units of length, time, and thermodynamic temperature, plus electrical inductance, but not this base quantity.
+- Covered content: `subjects/science-tech/mcqs-002.json` — `sci-mcq-071`

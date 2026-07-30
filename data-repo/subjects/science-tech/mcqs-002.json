@@ -530,6 +530,20 @@
       "answerIndex": 0,
       "explanation": "The kelvin, symbol K, is the SI base unit for thermodynamic temperature. The degree Celsius is permitted for use with SI but is not an SI base unit.",
       "difficulty": "easy"
+    },
+    {
+      "id": "sci-mcq-071",
+      "topic": "Basic Science",
+      "question": "Which SI base unit measures amount of substance?",
+      "options": [
+        "Mole",
+        "Candela",
+        "Ampere",
+        "Kelvin"
+      ],
+      "answerIndex": 0,
+      "explanation": "The mole (mol) is the SI base unit for amount of substance. It expresses a specified number of elementary entities, such as atoms or molecules.",
+      "difficulty": "easy"
     }
   ]
 }
