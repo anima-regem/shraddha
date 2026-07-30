@@ -410,3 +410,13 @@
 - Retrieved: 2026-07-30
 - Answer evidence: `sci-mcq-062` through `sci-mcq-064` — [U.S. Department of Energy, DOE Explains: Isotopes](https://www.energy.gov/science/doe-explainsisotopes).
 - Covered content: `subjects/science-tech/mcqs-002.json` — `sci-mcq-062` through `sci-mcq-064`
+
+## 2026-07-30 — Wikibooks Earth Science energy-resources review batch
+
+- Rights holder: Wikibooks contributors; contributor attribution is available in the [page history](https://en.wikibooks.org/w/index.php?title=High_School_Earth_Science/Energy_Resources&action=history).
+- Source: [High School Earth Science/Energy Resources, permanent revision 3598601](https://en.wikibooks.org/w/index.php?title=High_School_Earth_Science/Energy_Resources&oldid=3598601).
+- Reuse basis: Wikibooks text is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); its [copyright policy](https://en.wikibooks.org/wiki/Wikibooks:Copyrights) permits copying, modifying, and redistributing text with attribution, a license notice, and the same terms. No images, external media, linked material, or other third-party content are imported.
+- Attribution: Adapted from "High School Earth Science/Energy Resources" by Wikibooks contributors, CC BY-SA 4.0. The adapted items in this batch are made available under CC BY-SA 4.0.
+- Retrieved: 2026-07-30
+- Answer evidence: `env-mcq-017` — [U.S. Energy Information Administration, Laws of energy](https://www.eia.gov/energyexplained/what-is-energy/laws-of-energy.php); `env-mcq-018` — [U.S. Energy Information Administration, Sources of energy](https://www.eia.gov/energyexplained/what-is-energy/sources-of-energy.php).
+- Covered content: `subjects/environment/mcqs.json` — `env-mcq-017` through `env-mcq-018`

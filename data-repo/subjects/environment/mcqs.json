@@ -184,6 +184,34 @@
       "answerIndex": 0,
       "explanation": "Wastewater treatment removes solids and contaminants, helping reduce pollution before treated effluent is discharged or reused for suitable non-potable purposes.",
       "difficulty": "easy"
+    },
+    {
+      "id": "env-mcq-017",
+      "topic": "Energy Resources",
+      "question": "When a battery powers a torch, which statement follows the law of conservation of energy?",
+      "options": [
+        "Energy is destroyed when light is produced",
+        "Energy changes form but is neither created nor destroyed",
+        "Energy is created whenever electricity flows",
+        "Only chemical energy is conserved"
+      ],
+      "answerIndex": 1,
+      "explanation": "The law of conservation of energy states that energy is neither created nor destroyed; it changes from one form to another. In a torch, chemical energy is converted into electrical energy, light, and heat.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "env-mcq-018",
+      "topic": "Energy Resources",
+      "question": "Which group contains only nonrenewable fossil energy sources?",
+      "options": [
+        "Coal, petroleum, and natural gas",
+        "Solar, wind, and hydropower",
+        "Biomass, wind, and geothermal energy",
+        "Hydropower, tidal energy, and solar energy"
+      ],
+      "answerIndex": 0,
+      "explanation": "Coal, petroleum, and natural gas are fossil fuels. They take a very long time to form and are classified as nonrenewable energy sources.",
+      "difficulty": "easy"
     }
   ]
 }
