@@ -681,3 +681,14 @@
 - Answer evidence: `sci-mcq-072` — [NASA Science, Pulsars](https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-pulsars/).
 - Duplicate decision: No recursive content contains pulsar, neutron star, supernova remnant, stellar evolution, white dwarf, black hole, red giant, main sequence, galaxy, or cosmic microwave. `sci-mcq-050` concerns the Kepler exoplanet mission only.
 - Covered content: `subjects/science-tech/mcqs-002.json` — `sci-mcq-072`
+
+## 2026-07-30 — OpenStax Economics comparative-advantage batch
+
+- Rights holder: Rice University / OpenStax and content contributors.
+- Source: [Principles of Economics 2e, Chapter 33 Key Concepts and Summary](https://openstax.org/books/principles-economics-2e/pages/33-key-concepts-and-summary).
+- Reuse basis: The [Principles of Economics 2e preface](https://openstax.org/books/principles-economics-2e/pages/preface) explicitly licenses the textbook under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), permitting distribution, remixing, and adaptation with attribution. Only the comparative-advantage concept is adapted into an original question; no figures, quotations, tables, or source wording are imported.
+- Attribution: Adapted from *Principles of Economics 2e* by Steven A. Greenlaw and David Shapiro, OpenStax, CC BY 4.0. Access for free at https://openstax.org/books/principles-economics-2e/pages/1-introduction.
+- Retrieved: 2026-07-30
+- Answer evidence: `eco-mcq-016` — [Federal Reserve Bank of St. Louis, Comparative Advantage](https://fraser.stlouisfed.org/files/docs/publications/pageone/frbsl-pageone-201311-global-economy.pdf).
+- Duplicate decision: No recursive content contains comparative advantage, absolute advantage, lower opportunity cost, trade specialization, or a trade-based opportunity-cost definition. `eco-mcq-013` tests a worker's general opportunity cost and `eco-mcq-015` tests market shortages; neither covers comparative advantage.
+- Covered content: `subjects/economy/mcqs.json` — `eco-mcq-016`

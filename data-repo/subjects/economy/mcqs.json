@@ -185,6 +185,20 @@
       "answerIndex": 0,
       "explanation": "At a price below equilibrium, buyers want to purchase more than sellers are willing to supply. The resulting excess demand is a shortage.",
       "difficulty": "medium"
+    },
+    {
+      "id": "eco-mcq-016",
+      "topic": "External Sector",
+      "question": "A country has a comparative advantage in producing a good when it can produce that good:",
+      "options": [
+        "At a lower opportunity cost than another producer",
+        "Using fewer resources than another producer",
+        "Only for its domestic market",
+        "With a trade surplus in every year"
+      ],
+      "answerIndex": 0,
+      "explanation": "Comparative advantage means producing at a lower opportunity cost than another producer. Using fewer resources describes absolute advantage.",
+      "difficulty": "medium"
     }
   ]
 }
