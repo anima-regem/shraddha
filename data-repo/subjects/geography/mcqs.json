@@ -623,6 +623,34 @@
       "answerIndex": 0,
       "explanation": "Wind direction is named for the direction from which the wind comes, so an east wind blows from the east toward the west.",
       "difficulty": "easy"
+    },
+    {
+      "id": "geo-mcq-053",
+      "topic": "Physical Geography",
+      "question": "A coast has two high tides and two low tides of approximately equal height each lunar day. What tidal pattern is this?",
+      "options": [
+        "Semidiurnal",
+        "Diurnal",
+        "Mixed semidiurnal",
+        "Neap"
+      ],
+      "answerIndex": 0,
+      "explanation": "A semidiurnal tide has two high tides and two low tides of approximately equal size in each lunar day. A diurnal tide has one high and one low tide.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "geo-mcq-054",
+      "topic": "Physical Geography",
+      "question": "Which water body is known for having the highest tides in the world?",
+      "options": [
+        "Bay of Fundy",
+        "Bay of Bengal",
+        "Hudson Bay",
+        "Gulf of Mexico"
+      ],
+      "answerIndex": 0,
+      "explanation": "The Bay of Fundy, between Nova Scotia and New Brunswick, has the world's highest tides. Its shape and resonance amplify the tidal range.",
+      "difficulty": "easy"
     }
   ]
 }

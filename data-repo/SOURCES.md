@@ -420,3 +420,13 @@
 - Retrieved: 2026-07-30
 - Answer evidence: `env-mcq-017` — [U.S. Energy Information Administration, Laws of energy](https://www.eia.gov/energyexplained/what-is-energy/laws-of-energy.php); `env-mcq-018` — [U.S. Energy Information Administration, Sources of energy](https://www.eia.gov/energyexplained/what-is-energy/sources-of-energy.php).
 - Covered content: `subjects/environment/mcqs.json` — `env-mcq-017` through `env-mcq-018`
+
+## 2026-07-30 — NWS Shreveport atmosphere-ocean interaction batch
+
+- Rights holder: National Weather Service Shreveport, National Oceanic and Atmospheric Administration, U.S. Department of Commerce.
+- Source: [Atmosphere-Ocean Interaction Quiz](https://www.weather.gov/media/shv/education_resource_library/oceans/Ocean_Quiz.pdf) and [official answer key](https://www.weather.gov/media/shv/education_resource_library/oceans/Ocean_AnswerKey.pdf).
+- Reuse basis: The quiz and answer key identify National Weather Service Shreveport as their publisher. Only agency-authored question and answer concepts are adapted. Under [17 U.S.C. 105](https://uscode.house.gov/view.xhtml?req=%28title%3A17+section%3A105+edition%3Aprelim%29), copyright protection is not available for work of the United States Government. No images, logos, diagrams, linked material, or third-party content are imported.
+- Attribution: Adapted from "Atmosphere-Ocean Interaction Quiz" by National Weather Service Shreveport, public domain in the United States; National Weather Service acknowledged as the source.
+- Retrieved: 2026-07-30
+- Answer evidence: `geo-mcq-053` — [NOAA National Ocean Service, Types and Causes of Tidal Cycles](https://oceanservice.noaa.gov/education/tutorial_tides/tides07_cycles.html); `geo-mcq-054` — [Parks Canada, Tides in Fundy National Park](https://parks.canada.ca/pn-np/nb/fundy/nature/environment/marees-tides).
+- Covered content: `subjects/geography/mcqs.json` — `geo-mcq-053` through `geo-mcq-054`
